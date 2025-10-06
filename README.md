@@ -6,16 +6,6 @@ A comprehensive data-driven analysis platform for evaluating skilled nursing fac
 
 ---
 
-## Overview
-
-This platform analyzes three major healthcare REITs:
-
-| Ticker | Company | Total Assets | Properties | Focus |
-|--------|---------|--------------|------------|-------|
-| **OHI** | Omega Healthcare Investors | $10.55B | 872 | Market leader, scale advantages |
-| **CTRE** | CareTrust REIT | $4.66B | 239 | High-growth, nimble operator |
-| **SBRA** | Sabra Healthcare REIT | $5.33B | 418 | Diversified mid-cap |
-
 
 ### 1. Initial Setup
 
