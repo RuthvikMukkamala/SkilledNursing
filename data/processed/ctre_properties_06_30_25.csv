@@ -1,0 +1,582 @@
+ID,Property,CTR_ADDRESS,CITY,STATE,ZIP,County,PROPERTY_TYPE,BED_COUNT,COUNTRY
+31480,Camarillo Senior Living,6000 Santa Rosa Road,Camarillo,CA,93012,Ventura,Multiservice Campus,159,US
+31470,San Juan Capistrano Senior Living,31741 Rancho Viejo Road,San Juan Capistrano,CA,92675,Orange,Multiservice Campus,160,US
+31930,Dennet,1113 Mary Dr,Oakland,MD,21550,Garrett,SNF,99,US
+31940,Mountain City,48 Tarn Terrace,Frostburg,MD,21532,Allegany,SNF,88,US
+31950,Ridgeway / Peace Gardens,5743 & 5741 Edmondson Ave,Catonsville,MD,21228,Baltimore,Multiservice Campus,108,US
+32320,South Mountain IL,141 S Main St,Boonsboro,MD,21713,Washington,IL,16,US
+31380,Barton Creek,499 East 500 South,Bountiful,UT,84010,Davis,AL,62,US
+31490,Carlsbad,3140 El Camino Real,Carlsbad,CA,92008,San Diego,Multiservice Campus,159,US
+31520,El Centro Post Acute,1700 South Imperial Avenue,El Centro,CA,92243,Imperial,SNF,123,US
+31500,Rancho Mirage,72201 Country Club Drive,Rancho Mirage,CA,92270,Riverside,Multiservice Campus,159,US
+31330,Vista Del Lago,1817 Avenida Del Diablo,Escondido,CA,92029,San Diego,AL,96,US
+31720,Santa Fe Post Acute,247 E. Bobier Drive,Vista,CA,92804,San Diego,SNF,187,US
+31840,Torrey Pines,13101 Hartfield Avenue,San Diego,CA,92130,San Diego,Multiservice Campus,159,US
+31740,San Dimas,1740 S San Dimas,San Dimas,CA,91773,Los Angeles,Multiservice Campus,159,US
+31750,Yorba Linda,17803 Imperial Hwy,Yorba Linda,CA,92886,Orange,Multiservice Campus,159,US
+50001,Aledo Rehab & Health Care Center,304 S.W. 12Th Street,Aledo,IL,61231,Mercer,SNF,80,US
+50002,Aspen Rehab & Health Care,1403 9Th Avenue,Silvis,IL,61282,Rock Island,SNF,63,US
+50003,Havana Health Care Center,609 North Harpham Street,Havana,IL,62644,Mason,SNF,98,US
+50004,Kewanee Care Home,144 Junior Avenue,Kewanee,IL,61443,Henry,SNF,84,US
+50005,Riverview Estates,200 North Schrader,Havana,IL,62644,Mason,IL,18,US
+50006,Royal Oaks Care Center,605 East Church Street,Kewanee,IL,61443,Henry,SNF,200,US
+50007,Toulon Rehab & Health Care Center,700 E Main St.,Toulon,IL,61483,Stark,SNF,136,US
+50008,Watseka Rehab & Health Care Center,715 East Raymond Road,Watseka,IL,60970,Iroquois,SNF,123,US
+50009,Cornerstone Rehab & Health Care Center,5533 North Galena Road,Peoria Heights,IL,61616,Peoria,SNF,98,US
+50010,Roseville Rehab & Health Care,"145 S Chamberlain St,  Box 770",Roseville,IL,61473,Warren,SNF,99,US
+50011,Eastview Terrace,100 Eastview Place,Sullivan,IL,61951,Moultrie,SNF,63,US
+50012,Effingham Rehab & Health Care Center,1610 North Lakewood Drive,Effingham,IL,62401,Effingham,SNF,62,US
+50013,Palm Terrace of Mattoon,1000 Palm,Mattoon,IL,61938,Coles,SNF,178,US
+50014,Prairie Rose Health Care Center,900 S Chestnut St,Pana,IL,62557,Christian,SNF,105,US
+50015,Sullivan Rehab & Health Care Center,11 Hawthorne Lane,Sullivan,IL,61951,Moultrie ,SNF,123,US
+50016,Nokomis Rehab & Health Care Center,505 Stevens Street,Nokomis,IL,62075,Montgomery,SNF,92,US
+50017,Vandalia Rehab & Health Care Center,1500 West St Louis Avenue,Vandalia,IL,62471,Fayette,SNF,116,US
+50018,Shelbyville Rehab & Health Care Center,2116 South 3rd Dacey Drive,Shelbyville,IL,62565,Shelby,SNF,80,US
+50020,North Aurora Care Center,310 Banbury Road,North Aurora,IL,60542,Kane,SNF,129,US
+50021,Sandwich Rehab & Health Care Center,902 East Arnold Street,Sandwich,IL,60548,DeKalb,SNF,83,US
+50022,South Elgin Rehab & Health Care Center,746 West Spring Street,South Elgin,IL,60177,Kane,SNF,90,US
+50023,Collinsville Rehab & Health Care Center,614 North Summit,Collinsville,IL,62234,Madison,SNF,98,US
+50024,Lebanon Care Center,1201 North Alton,Lebanon,IL,62254,St Clair,SNF,90,US
+50025,Swansea Rehab & Health Care Center,1405 N 2nd St,Swansea,IL,62226,St Clair,SNF,94,US
+50026,Willow Rose Rehab & Health Care,410 Fletcher,Jerseyville,IL,62052,Jersey,SNF,98,US
+50027,Casey Health Care Center,100 N.E. 15Th,Casey,IL,62420,Clark,SNF,69,US
+50028,Countryview Care Center of Macomb,400 West Grant Street,Macomb,IL,61455,McDonough,SNF,62,US
+50029,Twin Lakes Rehab & Health Care,310 S Eads Avenue,Paris,IL,61944,Edgar,SNF,62,US
+50030,Flora Gardens Care Center,701 Shadwell Avenue,Flora,IL,62839,Clay,SNF,107,US
+50031,Flora Rehab & Health Care Center,232 Given Dr,Flora,IL,62839,Clay,SNF,99,US
+50032,Mt. Vernon Health Care Center,#5 Doctors Park,Mount Vernon,IL,62864,Jefferson,SNF,106,US
+50033,Rosiclare Rehab & Health Care Center,55 Ferrell Road,Rosiclare,IL,62982,Hardin,SNF,62,US
+50034,Shawnee Rose Care Center,1000 West Sloan Street,Harrisburg,IL,62946,Saline,SNF,68,US
+50035,Westside Rehab & Health Care Center,601 North Columbia,West Frankfort,IL,62896,Franklin,SNF,96,US
+50036,White Oak Rehab & Health Care Center,1700 White Street,Mount Vernon,IL,62864,Jefferson,SNF,65,US
+50037,Betty's Garden Memory Care of Kewanee,141 Acorn St,Kewanee,IL,61443,Henry,AL,24,US
+50038,Courtyard Estates of Bushnell,1201 N Cole St,Bushnell,IL,61422,McDonough,AL,38,US
+50039,Courtyard Estates of Galva,1000 Courtyard Est,Galva,IL,61434,Henry,AL,32,US
+50040,Courtyard Estates of Herscher,100 Harvest View Ln,Herscher,IL,60941,Kankakee,AL,42,US
+50041,Courtyard Village of Kewanee,860 Sunset Dr,Kewanee,IL,61443,Henry,AL,39,US
+50042,Arcola Health Care,422 E 4th St S,Arcola,IL,61910,Douglas,SNF,100,US
+50043,Bement Health Care Center,601 North Morgan,Bement,IL,61813,Piatt,SNF,60,US
+50044,Farmer City Rehab & Health Care,404 Brookview Drive,Farmer City,IL,61842,De Witt,SNF,56,US
+50045,Illini Heritage Rehab & Health Care,1315 Curt Dr,Champaign,IL,61821,Champaign,SNF,60,US
+50046,Tuscola Health Care Center,1203 Egyptian Trail,Tuscola,IL,61953,Douglas,SNF,73,US
+31370,Boise,6000 W Denton St,Boise,ID,83706,Ada,SNF,99,US
+31310,Cascadia of Nampa,900 North Happy Valley Road,Nampa,ID,83687,Canyon,SNF,99,US
+30830,Aspen Park,420 Rowe Street,Moscow,ID,83843,Latah,SNF,66,US
+30780,Caldwell,210 Cleveland Blvd,Caldwell,ID,83605,Canyon,SNF,66,US
+30790,Canyon West,2814 Indiana Ave South,Caldwell,ID,83605,Canyon,SNF,81,US
+30770,Mountain Valley,601 West Cameron Ave,Kellogg,ID,83837,Shoshone,SNF,68,US
+30800,Lewiston Transitional Care,3315 8th Street,Lewiston,ID,83501,Nez Perce,SNF,71,US
+30460,Shaw Mountain,909 Reserve St.,Boise,ID,83712,Ada,SNF,108,US
+30750,Secora Health and Rehabilitation of Cascadia,10435 SE Cora Street,Portland,OR,97266,Multnomah,SNF,53,US
+30810,The Orchards,404 N. Horton Street,Nampa,ID,83651,Canyon,SNF,92,US
+30820,Weiser Care,331 E. Park Street,Weiser,ID,83672,Washington County,SNF,62,US
+30710,Wellspring Health and Rehabilitation of Cascadia,2105 12TH Ave. Rd.,Nampa,ID,83686,Canyon,SNF,110,US
+32120,Okeena Health,1900 Parr Avenue,Dyersburg,TN,38024,Dyer,SNF,130,US
+32130,Avondale Health,2031 Avondale Street,Humboldt,TN,38343,Gibson,SNF,89,US
+32140,Patriot Health,800 Volunteer Drive,Paris,TN,38242,Henry,SNF,127,US
+30550,Arbor Nursing Center,900 N Church Street,Lodi,CA,95240,San Joaquin,SNF,148,US
+30560,Arbor Place,17 Louie Ave,Lodi,CA,95240,San Joaquin,AL,76,US
+31510,Buena Vista Care Center,160 S. Patterson Avenue,Goleta,CA,93111,Santa Barbara,SNF,142,US
+31150,Courtyard Healthcare Center,1850 East 8th Street,Davis,CA,95616,Yolo,SNF,109,US
+31120,Huntington Park Nursing Center,6425 Miles Ave,Huntington Park,CA,90255,Los Angeles,SNF,99,US
+31770,Pacific Coast Manor,1935 Wharf Road,Capitola,CA,95010,Santa Cruz,SNF,99,US
+31780,Pacific Hills Manor,370 Noble Court,Morgan Hill,CA,95037,Santa Clara,SNF,99,US
+31130,Shoreline Care Center,5225 South J Street,Oxnard,CA,93033,Ventura,SNF,192,US
+30570,Turlock Nursing and Rehabilitation Center,1111 East Tuolumne Rd,Turlock,CA,95382,Stanislaus,Multiservice Campus,193,US
+31910,Gilroy Healthcare and Rehabilitation Center,8170 Murray Avenue,Gilroy,CA,95020,Santa Clara,SNF,131,US
+31400,Cooney Health and Rehab,2555 E. Broadway Street,Helena,MT,59601,Lewis and Clark,SNF,84,US
+30990,Copper Ridge Health and Rehab,3251 Nettie Street,Butte,MT,59701,Silver Bow,SNF,89,US
+31410,Elkhorn Health and Rehab,474 Hwy. 282,Clancy,MT,59634,Jefferson,SNF,70,US
+31570,Ennis Care Center,1200 South Hall Street,Ennis,TX,75119,Ellis,SNF,120,US
+31050,Prairie Heights,400 8th Avenue North West,Aberdeen,SD,57401,Brown,SNF,68,US
+30730,Rio Vista,2410 19th Street South East,Rio Rancho,NM,87124,Sandoval,SNF,129,US
+31070,The Meadows on University,1315 S. University Drive,Fargo,ND,58103,Cass,SNF,63,US
+31630,Spalding Post Acute,415 Airport Road,Griffin,GA,30224,Spalding,SNF,148,US
+31640,Paradigm at Katy,1480 Katy Flewellen Road,Katy,TX,77494,Fort Bend,SNF,125,US
+30240,Willard,370 East Howard Street,Willard,OH,44890,Huron,Multiservice Campus,89,US
+31620,The Indigo at Elmhurst,123 W. Brush Hill,Elmhurst,IL,60126,DuPage,AL,72,US
+31610,The Indigo at Bartlett,1035 Illinois Route 59,Bartlett,IL,60103,DuPage,AL,64,US
+30490,The Indigo at Pikeville,5383 US HWY 117 North,Pikeville,NC,27863,Wayne,AL,37,US
+30480,The Indigo at New Bern,4522 Old Cherry Point Rd,New Bern,NC,28560,Craven,AL,59,US
+31650,The Indigo at Lansing,1634 Lake Lansing,Lansing,MI,48912,Ingham,AL,66,US
+31660,The Indigo at Beavercreek,2580 Hibiscus Way,Beavercreek,OH,45431,Greene,AL,66,US
+31350,City Creek Post Acute,6248 66th Avenue,Sacramento,CA,95823,Sacramento,Multiservice Campus,220,US
+31060,The Villas at Saratoga,20400 Saratoga-Los Gatos Road,Saratoga,CA,95070,Santa Clara,Multiservice Campus,122,US
+31360,Valley Skilled Nursing Center,515 East Orangeburg Avenue,Modesto,CA,95350,Stanislaus,SNF,51,US
+31690,Meadow Creek Post Acute,7039 Alondra Blvd,Paramount,CA,90723,Los Angeles,SNF,104,US
+31670,Community Care Center,8665 La Mesa Blvd,La Mesa,CA,91942,San Diego,SNF,115,US
+31680,Jacob Care Center,4075 54th St,San Diego,CA,92105,San Diego,Multiservice Campus,168,US
+31700,The Springs Post Acute,10625 Leffingwell Rd,Norwalk,CA,90650,Los Angeles,SNF,99,US
+32210,Applingwood,1536 Appling Care Lane,Cordova,TN,38018,Shelby,SNF,78,US
+32220,Shelby Oaks,5070 Sanderlin Avenue,Memphis,TN,38117,Shelby,SNF,77,US
+32230,Covington,765 Bert Johnston Avenue,Covington,TN,38019,Tipton,SNF,98,US
+32240,Cypress Grove,45 Forest Cove,Jackson,TN,38301,Madison,SNF,170,US
+32250,Northbrooke,121 Physicians Dr,Jackson,TN,38305,Madison,SNF,120,US
+32260,West Tennessee,597 West Forest Avenue,Jackson,TN,38301,Madison,SNF,67,US
+32270,Harborville,1513 N 2nd Street,Memphis,TN,38107,Shelby,SNF,103,US
+31920,Glenburnie,1901 Libbie Avenue,Richmond,VA,23226,Richmond City,SNF,125,US
+31300,Lakewest Rehabilitation and Skilled Care,2450 Bickers Street,Dallas,TX,75212,Dallas,SNF,118,US
+31590,Park Bend Rehabilitation and Healthcare Center,301 Huguley Blvd,Burleson,TX,76028,Tarrant,SNF,151,US
+31800,Villas at San Bernardino,2985 North G Street,San Bernardino,CA,92405,San Bernardino,AL,97,US
+30760,Memory Care Cottages in White Bear Lake,4650 White Bear Parkway,White Bear Lake,MN,55110,Ramsey,AL,32,US
+30070,Prelude Cottages of Woodbury,10020 Raleigh Road,Saint Paul,MN,55129,Washington County,AL,30,US
+31180,Alpine Skilled Nursing and Rehabilitation,2401 North Service Road,Ruston,LA,71270,Lincoln Parish,SNF,144,US
+31190,The Bradford Skilled Nursing and Rehabilitation,3050 Baird Road,Shreveport,LA,71118,Caddo Parish,SNF,146,US
+30590,Bridgeport Medical Lodge,2108 15th Street,Bridgeport,TX,76426,Wise,Multiservice Campus,187,US
+30600,Broadmoor Medical Lodge,5242 Medical Drive,Rockwall,TX,75032,Rockwall,SNF,140,US
+31200,Colonial Oaks Skilled Nursing and Rehabilitation,4921 Medical Drive,Bossier City,LA,71112,Bossier Parish,SNF,120,US
+30610,Decatur Medical Lodge,701 West Bennett Road,Decatur,TX,76234,Decatur,SNF,124,US
+31210,The Guest House Skilled Nursing and Rehabilitation,9225 Normandie Drive,Shreveport,LA,71118,Caddo Parish,SNF,177,US
+30860,Grapevine Medical Lodge,1005 Ira E. Woods Parkway,Grapevine,TX,76051,Tarrant,SNF,132,US
+30850,Mansfield Medical Lodge,301  N. Miller Road,Mansfield,TX,76063,Tarrant,SNF,118,US
+30840,Ridgmar Medical Lodge,6600 Lands End Court,Fort Worth,TX,76426,Wise,SNF,155,US
+31220,Pilgrim Manor Skilled Nursing and Rehabilitation,1524 Doctors Drive,Bossier City,LA,71111,Bossier Parish,SNF,155,US
+30620,Royse City Medical Lodge,901 West I-30,Royse City,TX,75189,Rockwall,SNF,124,US
+31230,Shreveport Manor Skilled Nursing and Rehabilitation,3302 Mansfield Road,Shreveport,LA,71103,Caddo Parish,SNF,127,US
+31240,Spring Lake Skilled Nursing and Rehabilitation,8622 Line Avenue,Shreveport,LA,71106,Caddo Parish,Multiservice Campus,215,US
+31250,Booker T. Washington Skilled Nursing and Rehabilitation,7605 Line Avenue,Shreveport,LA,71106,Caddo Parish,SNF,80,US
+30170,Delhi Post Acute,5999 Bender Road,Cincinnati,OH,45233,Hamilton,SNF,116,US
+30720,Fox Hollow Post Acute,310 American Drive,Brownsville,TX,78526,Cameron,SNF,126,US
+30960,Las Colinas Post Acute,800 E 5th Street,Ontario,CA,91764,San Bernardino,SNF,216,US
+30950,Riverwalk Post Acute,4000 Harrison Street,Riverside,CA,92503,Riverside,SNF,146,US
+30940,Waterman Canyon Post Acute,1850 N Waterman Avenue,San Bernardino,CA,92404,San Bernardino,SNF,164,US
+30250,Willow Knoll Post Acute and Senior Living,4400 Vannest Ave.,Middletown,OH,45042,Butler,Multiservice Campus,108,US
+31810,Columbia Post Acute,3535 Berrywood Drive,Columbia,MO,65201,Boone,SNF,70,US
+31820,Houston Transitional Care,8550 Jason Street,Houston,TX,77074,Harris,SNF,70,US
+31830,North Houston Transitional Care,9814 Grant Rd,Houston,TX,77070,Harris,Multiservice Campus,94,US
+31960,South Hills Post Acute,60 Highland Road,Bethel Park,PA,15102,Allegheny,SNF,160,US
+31970,Peters Township Post Acute,113 West McMurray Road,Canonsburg,PA,15317,Washington,SNF,140,US
+31980,Monroeville Post Acute,885 MacBeth Drive,Monroeville,PA,15146,Allegheny,SNF,131,US
+31990,Whitehall Borough Post Acute,505 Weyman Road,Pittsburgh,PA,15236,Allegheny,SNF,166,US
+32010,Haywood Post Acute,704 Dupree Road,Brownsville,TN,38012,Haywood,SNF,115,US
+32020,Cherrywood Post Acute,175 Hospital Drive,McKenzie,TN,38201,Carroll,SNF,99,US
+32030,Park Meadows Post Acute,900 Professional Park Drive,Clarksville,TN,37040,Montgomery,SNF,113,US
+32040,Lewis Park Post Acute,119 Kittrell Street,Hohenwald,TN,38462,Lewis,SNF,131,US
+32050,Grandview Post Acute,444 One Eleven Pl,Cookeville,TN,38506,Putnam,SNF,120,US
+32060,Lexington Post Acute,727 East Church Street,Lexington,TN,38351,Henderson,SNF,118,US
+32070,Selmer Post Acute,835 East Poplar Avenue,Selmer,TN,38375,McNairy,SNF,126,US
+32080,Cedar Creek Post Acute,2650 North Mt Juliet Road,Mount Juliet,TN,37122,Wilson,SNF,100,US
+32090,Stone River Post Acute,202 East MTCS Road,Murfreesboro,TN,37129,Rutherford,SNF,68,US
+32100,Alta Heights Post Acute,813 S Dickerson Rd,Goodlettsville,TN,37072,Davidson,SNF,90,US
+32110,Waverly Hills Post Acute,895 Powers Blvd,Waverly,TN,37185,Humphreys,SNF,100,US
+32280,Eaton Creek Post Acute,4343 Ashland City Highway,Nashville,TN,37218,Davidson,SNF,124,US
+31080,Madison Park,700 Madison Avenue,Huntington,WV,25704,Cabell,Multiservice Campus,67,US
+31270,Legacy West Rehabilitation and Healthcare,3300 West Second Avenue,Corsicana,TX,75110,Navarro,SNF,146,US
+31290,Pecan Tree Rehabilitation and Healthcare,1900 East California Street,Gainesville,TX,76240,Cooke,SNF,113,US
+31280,Legacy at Jacksonville,810 Bellaire,Jacksonville,TX,75766,Cherokee,SNF,101,US
+31260,The Village at Heritage Oaks,3002 West 2nd Avenue,Corsicana,TX,75110,Navarro,Multiservice Campus,195,US
+31600,Prairie Ridge Health and Rehabilitation,6501 W 75th St,Overland Park,KS,66204,Johnson,SNF,102,US
+40770,Alta Vista Rehabilitation and Healthcare,510 Paredes Line Road,Brownsville,TX,78521-2438,Cameron,SNF,100,US
+40881,Amarsi Assisted Living (the Desert Sky Facility),5125 N 58th Avenue,Glendale,AZ,85301,Maricopa,AL,103,US
+40340,Arbor Glen Care Center,1033 East Arrow Highway,Glendora,CA,91740-6110,Los Angeles,SNF,96,US
+40530,Arvada Care and Rehabilitation Center,6121 West 60th Avenue,Arvada,CO,80003-5603,Jefferson,SNF,52,US
+40780,Atlantic Memorial Healthcare Center,2750 Atlantic Avenue,Long Beach,CA,90806-2713,Los Angeles,SNF,97,US
+40050,Beatrice Health and Rehabilitation,1800 Irving Street,Beatrice,NE,68310-2236,Gage,SNF,87,US
+40880,Bella Vita Health and Rehabilitation Center,5125 North 58th Avenue,Glendale,AZ,85301-7453,Maricopa,SNF,176,US
+40100,Brookfield Healthcare Center,9300 Telegraph Road,Downey,CA,90240-2425,Los Angeles,SNF,70,US
+40830,Camarillo Healthcare Center,205 Granada Street,Camarillo,CA,93010,Ventura,SNF,114,US
+40510,Cambridge Health and Rehabilitation Center,1106 Golfview Drive,Richmond,TX,77469-5120,Fort Bend,SNF,158,US
+40820,Camelback Post Acute Care and Rehabilitation,4635 North 14th Street,Phoenix,AZ,85014-4016,Maricopa,SNF,102,US
+40030,Canterbury Gardens Independent and Assisted Living Community,11265 East Mississippi Avenue,Aurora,CO,80012-3201,Arapahoe,AL,220,US
+40580,Careage Campus of Care,811 East 14th Street,Wayne,NE,68787-1216,Wayne,Multiservice Campus,92,US
+40360,Careage Estates of Falls City,1720 Burton Drive,Falls City,NE,68355-2438,Richardson,SNF,63,US
+40040,Careage Hills Rehabilitation and Healthcare,725 North 2nd Street,Cherokee,IA,51012-1229,Cherokee,SNF,44,US
+40260,Carmel Mountain Rehabilitation and Healthcare Center,11895 Avenue of Industry,San Diego,CA,92128-3423,San Diego,SNF,120,US
+40230,Carrollton Health and Rehabilitation Center,1618 Kirby Road,Carrollton,TX,75006-7453,Dallas,SNF,108,US
+40870,Catalina Post Acute and Rehabilitation,2611 North Warren Avenue,Tucson,AZ,85719-3160,Pima,SNF,100,US
+31540,Cedar Pointe Health and Wellness Suites,1301 Cottonwood Creek Trail,Cedar Park,TX,78613,Williamson,SNF,122,US
+40281,Chateau Des Mons Care and Assisted Living,3426 South Marion Street,Englewood,CO,80113-2920,Arapahoe,AL,48,US
+40800,City Creek Post Acute and Rehabilitation,165 South 1000 East,Salt Lake City,UT,84102-1402,Salt Lake,SNF,80,US
+40380,Clarion Wellness and Rehabilitation Center,110 13th Avenue SW,Clarion,IA,50525-2004,Wright,SNF,76,US
+40560,Colonial Manor of Randolph,811 South Main Street,Randolph,NE,68771-1706,Cedar,Multiservice Campus,54,US
+40630,Copper Ridge Health Care,3706 West 9000 South,West Jordan,UT,84088-9755,Salt Lake,SNF,110,US
+40890,Desert Terrace Healthcare Center,2509 North 24th Street,Phoenix,AZ,85008-1805,Maricopa,SNF,102,US
+40670,Discovery Care Center,600 Shanafelt Street,Salmon,ID,83467-4261,Lemhi,Multiservice Campus,69,US
+31140,Downey Care Center,13007 South Paramount,Downey,CA,90242,Los Angeles,SNF,98,US
+40160,Draper Rehabilitation and Care Center,12702 Fort Street,Draper,UT,84020-9755,Salt Lake,SNF,85,US
+40440,Emerald Hills Rehabilitation and Skilled Nursing,5821 188th Street SW,Lynnwood,WA,98037-4398,Snohomish,SNF,67,US
+40650,Fort Dodge Health and Rehabilitation,728 14th Avenue N,Fort Dodge,IA,50501-7016,Webster,SNF,65,US
+40070,Gateway Transitional Care Center,527 Memorial Drive,Pocatello,ID,83201-4063,Bannock,SNF,88,US
+40390,Golden Acres Living and Rehabilitation Center,2525 Centerville Road,Dallas,TX,75228-2634,Dallas,SNF,264,US
+40790,Grand Terrace Rehabilitation and Healthcare,812 West Houston Avenue,McAllen,TX,78501-2832,Hidalgo,SNF,93,US
+40270,Heritage Gardens Rehabilitation and Healthcare,2135 North Denton Drive,Carrollton,TX,75006-3103,Dallas,SNF,140,US
+40250,Hillcrest Health Care Center and Mica Hill Estates Assisted Living,2121 Avenue L,Hawarden,IA,51023-1334,Sioux,Multiservice Campus,92,US
+40610,Holladay Healthcare Center,4782 South Holladay Boulevard,Salt Lake City,UT,84117-5464,Salt Lake,SNF,105,US
+40480,Hurricane Health and Rehabilitation,416 North State Street,Hurricane,UT,84737-1875,Washington County,SNF,54,US
+40282,Julia Temple Healthcare Center,3401 South Lafayette Street,Englewood,CO,80113-2926,Arapahoe,SNF,128,US
+30920,The Oaks at Lakewood,11411 Bridgeport Way,Tacoma,WA,98499,Pierce,SNF,80,US
+30930,The Oaks at Timberline,400 East 33rd Street,Vancouver,WA,98663,Clark,SNF,85,US
+40080,Lake Ridge Senior Living,960 South Geneva Road,Orem,UT,84058-5847,Utah County,AL,69,US
+40460,Lake Village Nursing and Rehabilitation Center,169 Lake Park Road,Lewisville,TX,75057-2303,Denton,SNF,112,US
+40010,Legacy Rehabilitation and Living,4033 West 51st Avenue,Amarillo,TX,79109-6129,Randall,SNF,150,US
+40640,Littleton Care and Rehabilitation Center,5822 South Lowell Way,Littleton,CO,80123-2849,Jefferson,SNF,35,US
+30100,Mira Vista Care Center,300 S 18th Street,Mount Vernon,WA,98274,Skagit,SNF,94,US
+40430,Monte Vista Hills Healthcare Center,1071 Renee Avenue,Pocatello,ID,83201-2508,Bannock,SNF,101,US
+40240,Mountain View Rehabilitation and Care Center,5925 47th Avenue NE,Marysville,WA,98270-5152,Snohomish,SNF,82,US
+40900,North Mountain Medical and Rehabilitation Center,9155 North 3rd Street,Phoenix,AZ,85020-2410,Maricopa,SNF,164,US
+40110,Northbrook Healthcare Center,64 Northbrook Way,Willits,CA,95490-3019,Mendocino,SNF,62,US
+40680,Northeast Rehabilitation and Healthcare Center,603 Corinne Drive,San Antonio,TX,78218-3303,Bexar,SNF,108,US
+40140,Northern Oaks Living and Rehabilitation Center,2722 Old Anson Road,Abilene,TX,79603-1834,Taylor,SNF,96,US
+40600,Oceanview Healthcare and Rehabilitation,519 Ninth Avenue North,Texas City,TX,77590-6316,Galveston,SNF,134,US
+40590,Omaha Nursing and Rehabilitation Center,4835 South 49th Street,Omaha,NE,68117-2002,Douglas,SNF,70,US
+40410,Orem Rehabilitation and Nursing Center,575 East 1400 South,Orem,UT,84097-7707,Utah County,SNF,114,US
+40320,Osborn Health and Rehabilitation,3333 North Civic Center Plaza,Scottsdale,AZ,85251-6413,Maricopa,SNF,120,US
+40180,Owyhee Health and Rehabilitation Center,108 East Owyhee Avenue,Homedale,ID,83628-3206,Owyhee,SNF,58,US
+40020,Pacific Care and Rehabilitation,3035 Cherry Street,Hoquiam,WA,98550-3098,Grays Harbor,SNF,72,US
+40490,Palomar Vista Healthcare Center,201 North Fig Street,Escondido,CA,92025-3416,San Diego,SNF,74,US
+40370,Paramount Health and Rehabilitation,4035 South 500 East,Salt Lake City,UT,84107-1867,Salt Lake,SNF,85,US
+40860,Park Manor Rehabilitation Center,1710 Plaza Way,Walla Walla,WA,99362-4362,Walla Walla,SNF,99,US
+40850,Park View Post Acute,3751 Montgomery Drive,Santa Rosa,CA,95405-5214,Sonoma,SNF,116,US
+40710,Parke View Rehabilitation and Care Center,2303 Park Avenue,Burley,ID,83318-2106,Cassia,SNF,86,US
+40210,Pinnacle Nursing and Rehabilitation Center,1340 East 300 North,Price,UT,84501-9755,Carbon,SNF,80,US
+40170,Plymouth Tower Care and Living Center,3401 Lemon Street,Riverside,CA,92501-2861,Riverside,SNF,38,US
+40570,Provo Rehabilitation and Nursing,1001 North 500 West,Provo,UT,84604-9755,Utah County,SNF,200,US
+40332,Redmond Care and Rehabilitation Center,7900 Willows Road NE,Redmond,WA,98052-6813,King,SNF,110,US
+40331,Redmond Heights Senior Living,7950 Willows Road NE,Redmond,WA,98052-6813,King,AL,97,US
+40540,Richland Hills Rehabilitation and Healthcare Center,3109 Kings Court,Fort Worth,TX,76118-6366,Tarrant,SNF,92,US
+40720,Rivers Edge Rehabilitation and Living Center,714 North Butte Avenue,Emmett,ID,83617-2725,Gem,SNF,72,US
+40730,Rose Villa Healthcare Center,9028 Rose Street,Bellflower,CA,90706-6418,Los Angeles,SNF,53,US
+40090,Rosewood Rehabilitation Center,2045 Silverada Boulevard,Reno,NV,89512-2051,Washoe,SNF,92,US
+40840,Sabino Canyon Rehabilitation and Care Center,5830 East Pima Street,Tucson,AZ,85712-5611,Pima,SNF,106,US
+40400,San Marcos Rehabilitation and Healthcare Center,1600 North Interstate 35,San Marcos,TX,78666-6984,Hays,SNF,129,US
+31530,Sedona Trace Health and Wellness,8324 Cameron Road,Austin,TX,78754,Travis,SNF,119,US
+30110,Shoreline Health and Rehabilitation Center,2818 NE 145th Street,Shoreline,WA,98155,King,SNF,114,US
+40550,Shoreline Healthcare Center,4029 East Anaheim Street,Long Beach,CA,90804-4110,Los Angeles,SNF,72,US
+40620,Southland Care Center and Southland Home,11701 Studebaker Road,Norwalk,CA,90650-7544,Los Angeles,Multiservice Campus,187,US
+40060,Southland Rehabilitation and Healthcare Center,501 North Medford Drive,Lufkin,TX,75901-5219,Angelina,SNF,144,US
+40300,St. Joseph Villa,451 East Bishop Federal Lane,Salt Lake City,UT,84115-2537,Salt Lake,Multiservice Campus,330,US
+40690,Stillhouse Rehabilitation and Healthcare Center,2900 Stillhouse Road,Paris,TX,75462-2029,Lamar,SNF,150,US
+40660,Sunview Health and Rehabilitation Center,12207 North 113th Avenue,Youngtown,AZ,85363-1208,Maricopa,SNF,127,US
+40520,The Courtyard Rehabilitation and Healthcare Center,3401 East Airline Road,Victoria,TX,77901-3921,Victoria,SNF,56,US
+40171,The Grove Assisted Living (the Plymouth Facility),3401 Lemon Street,Riverside,CA,92501,Riverside,AL,66,US
+40310,Timberwood Nursing and Rehabilitation Center,4001 Highway 59 North,Livingston,TX,77351-4663,Polk,SNF,120,US
+40450,Ukiah Post Acute,1349 South Dora Street,Ukiah,CA,95482-6512,Mendocino,SNF,50,US
+40810,Upland Rehabilitation and Care Center,1221 East Arrow Highway,Upland,CA,91786-4911,San Bernardino,SNF,198,US
+40750,Veranda Rehabilitation and Healthcare,4301 South Expressway 83,Harlingen,TX,78550-7948,Cameron,SNF,100,US
+40742,Victoria Care Center,5445 Everglades Street,Ventura,CA,93003-6523,Ventura,SNF,187,US
+40220,Wellington Rehabilitation and Healthcare,1802 South 31st Street,Temple,TX,76504-6712,Bell,SNF,109,US
+40130,West Bend Care Center Prairie Creek Assisted Living,203 4th Street NW,West Bend,IA,50597-5114,Palo Alto,Multiservice Campus,77,US
+40150,Whittier Hills Health Care Center,10426 Bogardus Avenue,Whittier,CA,90602-2642,Los Angeles,SNF,160,US
+40760,Willowbend Nursing and Rehabilitation Center,2231 Highway 80 East,East Mesquite,TX,75150-5510,Dallas,SNF,150,US
+40121,Wisteria Place,3917 Wisteria Way,Abilene,TX,79605,Taylor,SNF,120,US
+30090,Oakwood Care and Rehabilitation,5301 West 1st Avenue,Lakewood,CO,80226,Jefferson,SNF,170,US
+31100,Parker Post Acute,9398 Crown Crest Blvd,Parker,CO,80138,Douglas,SNF,135,US
+32150,Union City,1630 E Reelfoot Ave,Union City,TN,38261,Obion,SNF,115,US
+32160,Research Park,5275 Millennium Drive,Huntsville,AL,35806,Madison,SNF,91,US
+32170,VanAyer,460 Hannings Lane,Martin,TN,38237,Weakley,SNF,75,US
+32180,Meadowbrook,1245 E College St,Pulaski,TN,38478,Giles,SNF,75,US
+32190,Legacy Park,7424 Middlebrook Pike,Knoxville,TN,37909,Knox,SNF,176,US
+32200,Wellpark,7512 Middlebrook Pike,Knoxville,TN,37909,Knox,SNF,30,US
+40700,Cambridge Assisted Living,2700 Avenue N,Rosenberg,TX,77471-4507,Fort Bend,AL,43,US
+40500,Desert Springs Senior Living,6650 West Flamingo Road,Las Vegas,NV,89103-6002,Clark,AL,152,US
+40190,Grand Court of Mesa Senior Living,262 East Brown Road,Mesa,AZ,85201-3545,Maricopa,AL,174,US
+40741,Lexington Senior Living,5440 Ralston Street,Ventura,CA,93303-2173,Ventura,AL,113,US
+40350,Park Place Assisted Living,2305 Ives Court,Reno,NV,89503-1400,Washoe,AL,60,US
+30630,Sunrise Meadows Senior Living,2800 N. Calhoun Road,Brookfield,WI,53005,Waukesha,AL,48,US
+30640,Sunset Woods Senior Living,2900 S. Moorland Road,New Berlin,WI,53151,Waukesha,AL,41,US
+40470,Rose Court Senior Living,2935 North 18th Place,Phoenix,AZ,85016-7726,Maricopa,AL,92,US
+40290,Santa Maria Assisted Living,1405 East Main Street,Santa Maria,CA,93454-4801,Santa Barbara,AL,110,US
+40122,Wisteria Place ALF and Cottages,3202 South Willis Street,Abilene,TX,79605-6650,Taylor,AL,169,US
+30660,Carrier Mills Nursing & Rehabilitation Center,6789 US Route 45,Carrier Mills,IL,62917,Saline,SNF,99,US
+30680,DuQuoin Nursing & Rehabilitation Center,514 East Jackson St.,DuQuoin,IL,62832,Perry,SNF,72,US
+30740,Eldorado Rehab & Healthcare,1001 Jefferson St A,Eldorado,IL,62930,Saline,SNF,99,US
+30980,Greenville Nursing & Rehabilitation Center,400 East Hillview Ave,Greenville,IL,62246,Bond,SNF,90,US
+31580,Imboden Creek Living Center,180 W. Imboden Dr.,Decatur,IL,62521,Macon,Multiservice Campus,147,US
+31110,Oakview,1320 West 9th Street,Mt. Carmel,IL,62863,Wabash,Multiservice Campus,128,US
+30690,Pinckneyville Nursing & Rehabilitation Center,708 Virginia Court,Pinckneyville,IL,62274,Perry,SNF,60,US
+30650,Saline Care Nursing & Rehabilitation Center,120 South Land Street,Harrisburg,IL,62946,Saline,SNF,142,US
+30670,StoneBridge Nursing & Rehabilitation Center,902 South Mcleansboro,Benton,IL,62812,Franklin,SNF,80,US
+31850,Brunswick,1070 Old Ocean Highway,Bolivia,NC,28422,Brunswick,SNF,90,US
+31860,Fletcher,86 Old Airport Road,Fletcher,NC,28732,Henderson,SNF,90,US
+31870,Ramseur,7166 Jordan Road,Ramseur,NC,27316,Randolph,SNF,90,US
+31880,Rockwell Park,1930 West Sugar Creek Road,Charlotte,NC,28262,Mecklenburg,SNF,120,US
+31890,Seven Oaks,3514 Sidney Road,Columbia,SC,29210,Lexington,SNF,108,US
+25001,Beckley,100 Heartland Dr,Beckley,WV,25801,Raleigh,SNF,201,US
+25002,Belmont,506 Riverview Dr,Belmont,WV,26134,Pleasants,SNF,68,US
+25003,Berkeley Springs,456 Autumn Acres Rd,Berkeley Springs,WV,25411,Morgan,SNF,120,US
+25004,Bridgeport,41 Crestview Terrace,Bridgeport,WV,26330,Harrison,SNF,60,US
+25005,Charleston (Chesterfield),3819 Chesterfield Ave,Charleston,WV,25304,Kanawha,SNF,150,US
+25006,Clarksburg,100 Parkway Dr,Clarksburg,WV,26301,Harrison,SNF,120,US
+25007,Keyser,135 Southern Dr,Keyser,WV,26726,Mineral,SNF,122,US
+25008,Kingwood,300 Miller Rd,Kingwood,WV,26537,Preston,SNF,120,US
+25009,Lewisburg,979 Rocky Hill Rd,Ronceverte,WV,24970,Greenbrier,SNF,90,US
+25010,Lindside,10797 Seneca Trail S,Lindside,WV,24951,Monroe,SNF,60,US
+25011,Martinsburg,209 Clover St,Martinsburg,WV,25404,Berkeley,SNF,120,US
+25012,Morgantown,30 Mon General Dr,Morgantown,WV,26505,Monongalia,SNF,120,US
+25013,Moundsville,2200 Floral St,Moundsville,WV,26041,Marshall,SNF,129,US
+25014,Parkersburg,1600 27th St,Parkersburg,WV,26101,Wood,SNF,120,US
+25015,Princeton,1924 Glenwood Park Rd,Princeton,WV,24740,Mercer,Multiservice Campus,100,US
+25016,Rainelle,276 Pennsylvania Ave,Rainelle,WV,25962,Greenbrier,SNF,56,US
+25017,Wellsburg,70 Valley Haven Dr,Wellsburg,WV,26070,Brooke,SNF,60,US
+25018,Summerville,712 Professional Park Dr.,Summerville,WV,26651,Nicholas,SNF,90,US
+15701,Athens Post Acute,545 W Euclid Ave.,DeLand,FL,32720,Volusia,SNF,55,US
+15702,Blue Lake Post Acute,991 E New York Ave.,DeLand,FL,32724,Volusia,SNF,60,US
+26001,Linda Valley Care Center,25383 Cole St.,Loma Linda,CA,92354,San Bernardino,SNF,83,US
+26003,Linda Valley Assisted Living,25383 Cole St.,Loma Linda,CA,92354,San Bernardino,AL,64,US
+26002,Linda Valley Villa,11075 Benton St.,Loma Linda,CA,92354,San Bernardino,IL,98,US
+63001,Shadowridge Senior Living,2354 Watson Way,Vista,CA,92081,San Diego,AL,38,US
+30001,Greenhaven,455 Florin Rd.,Sacramento,CA,95831,Sacramento,SNF,148,US
+30002,Manzanita,5318 Manzanita Ave.,Carmichael,CA,95608,Sacramento,SNF,99,US
+30003,Fair Oaks,11300 Fair Oaks Blvd.,Fair Oaks,CA,95628,Sacramento,SNF,152,US
+30004,Spring Hill,355 Joerschke Dr,Grass Valley,CA,95945,Nevada County,SNF,86,US
+24901,Westbury of McDonough,198 Hampton St,McDonough,GA,30253,Henry,SNF,210,US
+24902,Westbury Center of Jackson,922 McDonough Rd,Jackson,GA,30233,Butts,SNF,196,US
+24903,Westbury Center of Conyers,1420 Milstead Rd NE,Conyers,GA,30012,Rockdale,SNF,173,US
+24904,Fayetteville Center,110 Brandywine Blvd,Fayetteville,GA,30214,Fayette,SNF,162,US
+20001,Carriage,4009 Gene Field Road,Saint Joseph,MO,64506,Buchanan,Multiservice Campus,162,US
+20002,Seasons,15600 Woods Chapel Rd,Kansas City,MO,64139,Jackson,SNF,78,US
+20003,Rosewood,1415 West White Oak,Independence,MO,64050,Jackson,SNF,300,US
+20004,White Oak,1515 W White Oak,Independence,MO,64050,Jackson,AL,78,US
+20005,Forest View,1515 W White Oak,Independence,MO,64050,Jackson,AL,74,US
+20006,Rancho,615 Rancho Lane,Florissant,MO,63031,St. Louis,SNF,120,US
+20007,Beauvais,3625 Magnolia Ave,St. Louis,MO,63110,St. Louis,SNF,184,US
+20008,Country Club,503 Regent Dr,Warrensburg,MO,64093,Johnson,Multiservice Campus,113,US
+20009,Wilshire,600 NE Meadowview Dr,Lee's Summit,MO,64064,Jackson,SNF,170,US
+20010,Crown,3001 East Elm,Harrisonville,MO,64701,Cass,SNF,118,US
+73561,Pasadena Meadows,150 Bellefontaine Street,Pasadena,CA,91105,Los Angeles,SNF,130,US
+35001,Cypress Pointe,5580 Daniel Smith Rd,Virginia Beach,VA,23462,Virginia Beach City,SNF,90,US
+35002,Thalia Garden,4142 Bonney Rd,Virginia Beach,VA,23452,Virginia Beach City,SNF,138,US
+35003,Birchwood Park,340 Lynn Shores Dr,Virginia Beach,VA,23452,Virginia Beach City,SNF,150,US
+35004,Northern Cardinal,4775 Bridge Rd,Suffolk,VA,23435,Suffolk City,SNF,120,US
+35005,Old Dominion,4 Ridgewood Pkwy,Newport News,VA,23602,Newport News City,SNF,115,US
+35006,Norview Heights,827 Norview Ave,Norfolk,VA,23509,Norfolk City,SNF,60,US
+35007,Nassawadox,9468 Hospital Ave,Nassawadox,VA,23413,Northampton,SNF,145,US
+35008,Bay Pointe,1148 First Colonial Rd,Virginia Beach,VA,23454,Virginia Beach City,SNF,112,US
+35009,Deer Meadows,600 Walden Rd,Abingdon,VA,24210,Washington County,SNF,119,US
+35010,Green Acres,355 William Mills Dr,Stanardsville,VA,22973,Greene,SNF,90,US
+35011,Nans Pointe,200 W Constance Rd,Suffolk,VA,23434,Suffolk City,SNF,182,US
+35012,Blue Ridge,94 South Ave,Harrisonburg,VA,22801,Harrisonburg City,SNF,117,US
+35013,Seven Hills,2081 Langhorne Rd,Lynchburg,VA,24501,Lynchburg City,SNF,120,US
+35014,Old Southwest,324 King George Ave SW,Roanoke,VA,24016,Roanoke City,SNF,130,US
+35015,River Edge,1221 Rosser Ave,Waynesboro,VA,22980,Augusta,SNF,109,US
+26701,Foothills Transitional,1012 Jamestown Way,Maryville,TN,37803,Blount,SNF,149,US
+26702,Creekview Health,3300 N Broadway,Knoxville,TN,37917,Knox,SNF,84,US
+90001,Blumenthal,3724 Wireless Drive,Greensboro,NC,27455,Guilford,Multiservice Campus,134,US
+90002,Concord,430 Brookwood Avenue NE,Concord,NC,28025,Cabarrus,SNF,120,US
+90003,Greenville,2578 West 5th Street,Greenville,NC,27834,Pitt,SNF,120,US
+90004,King,115 White Road,King,NC,27021,Stokes,SNF,96,US
+90005,Lenoir,322 Nuway Circle,Lenoir,NC,28645,Caldwell,SNF,120,US
+90006,Lillington,1995 East Cornelius Harnett Blvd,Lillington,NC,27546,Harnett,Multiservice Campus,215,US
+90007,North Raleigh,5201 Clarks Fork Drive NW,Raleigh,NC,27616,Wake,SNF,132,US
+90008,Oxford,500 Prospect Avenue,Oxford,NC,27565,Granville,Multiservice Campus,180,US
+2602,Centennial Post Acute,9100 Centennial Circle,Anchorage,AK,99504,Anchorage,SNF,102,US
+2623,Cascade Terrace Post Acute,5601 SE 122nd Avenue,Portland,OR,97236,Multnomah,SNF,86,US
+2624,Chehalem Post Acute,1900 Fulton Street,Newberg,OR,97132,Yamhill,SNF,75,US
+2625,Cottage Grove Post Acute,515 Grant Avenue,Cottage Grove,OR,97424,Lane,SNF,62,US
+2628,Glisan Post Acute,9750 NE Glisan Street,Portland,OR,97220,Multnomah,SNF,82,US
+2622,Ashland Post Acute,135 Maple Street,Ashland,OR,97520,Jackson,SNF,87,US
+2626,Evan Terrace Post Acute,421 SE Evans Street,McMinnville,OR,97128,Yamhill,SNF,80,US
+2636,Stanley Post Acute,12045 SE Stanley Avenue,Milwaukie,OR,97222,Clackamas,SNF,89,US
+2637,Woodside Post Acute,301 Ridings Avenue,Molalla,OR,97038,Clackamas,SNF,64,US
+2635,Rivercrest Post Acute,148 Hood Street,Oregon City,OR,97045,Clackamas,SNF,53,US
+2627,Evergreen Post Acute,8643 NE Beech Street,Portland,OR,97220,Multnomah,SNF,55,US
+2634,Reedwood Post Acute,3540 SE Francis Street,Portland,OR,97202,Multnomah,SNF,52,US
+2616,South Creek Post Acute,917 South Scheuber Road,Centralia,WA,98531,Lewis,SNF,128,US
+2601,Bridge Crest Post Acute,5220 NE Hazel Dell Avenue,Vancouver,WA,98663,Clark,SNF,85,US
+2613,Pine Ridge Post Acute,21008 76th Avenue West,Edmonds,WA,98026,Snohomish,SNF,80,US
+2612,Mountain View Post Acute,1050 East Mountain View Ave,Ellensburg,WA,98926,Kittitas,SNF,74,US
+2610,Linden Post Acute,802 West 3rd Avenue,Toppenish,WA,98948,Yakima,SNF,75,US
+2617,Sullivan Park ALF,421 South Adams Road,Spokane,WA,99216,Spokane,AL,65,US
+2618,Sullivan Park ILF,411 South Adams Road,Spokane,WA,99216,Spokane,IL,0,US
+2619,Sullivan Park SNF,14820 East 4th Avenue,Spokane,WA,99216,Spokane,SNF,125,US
+2604,Colonial Vista Senior Living,625 Okanogan Avenue,Wenatchee,WA,98801,Chelan,AL,177,US
+2605,Colonial Vista Post Acute,625 Okanogan Avenue,Wenatchee,WA,98801,Chelan,SNF,93,US
+2630,Karcher Senior Living,1127 Caldwell Blvd,Nampa,ID,83651,Canyon,AL,90,US
+2631,Karcher Post Acute,1127 Caldwell Blvd,Nampa,ID,83651,Canyon,SNF,64,US
+2614,Sierra Basin Memory Care,1001 Mountain Street,Carson City,NV,89703,Carson City,AL,54,US
+2615,Sierra Basin Post Acute,1001 Mountain Street,Carson City,NV,89703,Carson City,SNF,80,US
+2603,Claremont Assisted Living,1221 Claremont Drive,Lake Havasu,AZ,86406,Mohave,AL,37,US
+2632,Legends Park Assisted Living,1820 N Legends Parkway,Coeur d'Alene,ID,83815,Kootenai,AL,44,US
+2633,Parkwood Meadows Assisted Living,1885 Parkwood Street,Idaho Falls,ID,83401,Bonneville,AL,44,US
+2629,Homewood Assisted Living,17999 Southeast River Road,Milwaukie,OR,97267,Clackamas,AL,44,US
+2620,White River Assisted Living,2229 Jensen Street,Enumclaw,WA,98022,King,AL,54,US
+2607,Hazel Dell Assisted Living,7514 Northeast 13th Avenue,Vancouver,WA,98665,Clark,AL,67,US
+2606,East Wenatchee Senior Living,589 Highline Drive,East Wenatchee,WA,98802,Douglas,AL,62,US
+2608,Hearthstone Senior Living,802 East Mountain View Ave,Ellensburg,WA,98926,Kittitas,AL,90,US
+2611,Manteca Assisted Living,1130 Empire Avenue,Manteca,CA,95336,San Joaquin,AL,124,US
+2609,Kalispell Assisted Living,125 Glenwood Drive,Kalispell,MT,59901,Flathead,AL,64,US
+2621,White River Memory Care,2454 Cole Street,Enumclaw,WA,98022,King,AL,32,US
+19190,Azria Lions,901 Seton Dr,Cumberland,MD,21502,Allegany,SNF,101,US
+21051,St. Paul,1667 Saint Paul St.,Denver,CO,80206,Denver,SNF,125,US
+21052,Mission at Renton,17420 106th Pl SE,Renton,WA,98055,King,SNF,60,US
+1,South Mountain,141 S Main St,Boonsboro,MD,21713,Washington,SNF,148,US
+2,Frostburg,1 Kaylor Circle,Frostburg,MD,21532,Allegany,Multiservice Campus,147,US
+1001,Abbeywell,Dragon Square,Chesterton,UK,Newcastle under Lyme,,UK Care Homes,45,UK
+1002,Amberley,The Crescent,Truro,UK,Cornwall,,UK Care Homes,33,UK
+1003,Ancliffe,Warrington Road,Wigan,UK,Greater Manchester,,UK Care Homes,40,UK
+1005,Astbury Lodge,"Randle Meadow, Hope Farm Estate",Great Sutton,UK,Cheshire,,UK Care Homes,41,UK
+1007,Broadgate,108-114 Broadgate,Beeston,UK,Nottinghamshire,,UK Care Homes,40,UK
+1008,Croftwood,"Whitchurch Way, Halton Lodge",Runcorn,UK,Cheshire,,UK Care Homes,47,UK
+1009,Crossways,Station Rd,"Lostock Gralam, Northwich",UK,Cheshire,,UK Care Homes,39,UK
+1010,Diamond,Bewcastle Grove,Leicester,UK,Leicestershire,,UK Care Homes,74,UK
+1011,Duncote Hall,Towcester,Northants,UK,Northamptonshire,,UK Care Homes,40,UK
+1012,Duncote The Lakes,Towcester,Northants,UK,Northamptonshire,,UK Care Homes,47,UK
+1013,Elm House,76 Pillory Street,Nantwich,UK,Cheshire,,UK Care Homes,40,UK
+1016,Falcon,Middle Street,Beeston,UK,Nottinghamshire,,UK Care Homes,46,UK
+1017,Florence Grogan,Shelley Road,Blacon,UK,Chester,,UK Care Homes,40,UK
+1018,Freeland,Wroslyn Road,"Freeland, Nr Witney",UK,Oxfordshire,,UK Care Homes,111,UK
+1019,Garswood,Wentworth Road,Ashton in Makerfield,UK,Greater Manchester,,UK Care Homes,53,UK
+1020,Gleavewood,Farm Road,"Weaverham, Northwich",UK,Cheshire,,UK Care Homes,32,UK
+1021,Golborne House,Derby Road,Golborne,UK,Greater Manchester,,UK Care Homes,45,UK
+1022,Gray's Court,Church Street,Grays,UK,Essex,,UK Care Homes,87,UK
+1023,Greenacres,Green Lane,Standish,UK,Greater Manchester,,UK Care Homes,40,UK
+1026,Hourigan,Myrtle Avenue,Leigh,UK,Greater Manchester,,UK Care Homes,40,UK
+1027,Ideal,Knowsley Drive,Bicton Heath,UK,Shropshire,,UK Care Homes,50,UK
+1028,Ingersley Court,"Lowther Court, Off Church Street",Bollington near Macclesfield,UK,Cheshire,,UK Care Homes,46,UK
+1029,Karam Court,"Mallin Street, Off Highbury Road",Smethwick,UK,West Midlands,,UK Care Homes,47,UK
+1030,Lakelands,Grizedale Drive,Higher Ince,UK,Greater Manchester,,UK Care Homes,40,UK
+1031,Leycester House,Edenfield Road,"Mobberley, Knutsford",UK,Cheshire,,UK Care Homes,40,UK
+1032,Littleport,"Grange Lane, Ely Road","Littleport, Ely",UK,Cambridgeshire,,UK Care Homes,80,UK
+1033,Loxley Hall,Lower Robin Hood Lane,Helsby,UK,Cheshire,,UK Care Homes,40,UK
+1034,Lyndhurst,College Street,Leigh,UK,Greater Manchester,,UK Care Homes,40,UK
+1035,Meadows & Haywain,"Brybank Road, Hanchett Village",Haverhill,UK,Suffolk,,UK Care Homes,65,UK
+1036,Mowbray,9 Victoria Road,Malvern,UK,Worcestershire,,UK Care Homes,39,UK
+1038,New Milton House,Station Road,Alsager,UK,Cheshire,,UK Care Homes,39,UK
+1039,Parklands,"Poynton Civic Center, Park Lane",Poynton,UK,Cheshire,,UK Care Homes,40,UK
+1040,Saffron,High Street,Barwell,UK,Leicestershire,,UK Care Homes,48,UK
+1042,Sovereign,"Chelmarsh, Daimler Green",Coventry,UK,West Midlands,,UK Care Homes,60,UK
+1044,The Cedars,Brookfield Drive,Holmes Chapel,UK,Cheshire,,UK Care Homes,27,UK
+1045,The Elms,Elm Drive,Crewe,UK,Cheshire,,UK Care Homes,41,UK
+1046,Hawthorns,Hawthorne Street,Wilmslow,UK,Cheshire,,UK Care Homes,39,UK
+1047,The Laurels,Walnut Drive,Winsford,UK,Cheshire,,UK Care Homes,40,UK
+1048,Thorley,Hazelmere Gardens,Hindley,UK,Greater Manchester,,UK Care Homes,40,UK
+1049,Three Elms,Station Road,"Penketh, Warrington",UK,Cheshire,,UK Care Homes,60,UK
+1050,Turnpike Court,Middlewich Road,"Elworth, Sandbach",UK,Cheshire,,UK Care Homes,53,UK
+1051,Waterside,Leigh Sinton,Malvern,UK,Worcestershire,,UK Care Homes,47,UK
+1052,Wealstone,Wealstone Lane,Upton,UK,Cheshire,,UK Care Homes,42,UK
+1053,West Haven,11-15 Queen's Road,Wirral,UK,Merseyside,,UK Care Homes,52,UK
+1055,Whetstone Hey,Old Chester Road,"Great Sutton, Ellesmere Port",UK,Cheshire,,UK Care Homes,42,UK
+1056,Woodlands,Ash Lane,Aspull,UK,Greater Manchester,,UK Care Homes,40,UK
+1057,Wordsley,Mill St,"Brierley Hill, Wordsley",UK,West Midlands,,UK Care Homes,44,UK
+1058,Craigend,72 Croftcroighn Road,Glasgow,UK,Glasgow City,,UK Care Homes,48,UK
+1063,Carnbroe,40 Paddock Street,"Sikeside, Coatbridge",UK,North Lanarkshire,,UK Care Homes,76,UK
+1064,Grenville,HORSBECK WAY,HORSFORD,UK,Norfolk,,UK Care Homes,64,UK
+1060,Parkville,"Parkville Care Centre, Walpole Street",Middlesborough,UK,North Yorkshire,,UK Care Homes,94,UK
+1062,Roseville Care Centre,Blair Avenue,Ingleby Barwick,UK,North Yorkshire,,UK Care Homes,103,UK
+1069,Sandbanks,"Sand Banks Care Centre, Kirkleatham Street",Redcar,UK,North Yorkshire,,UK Care Homes,48,UK
+1074,Yew Tree,"Yew Tree Care Centre, 4 Yew Tree Avenue",Redcar,UK,North Yorkshire,,UK Care Homes,77,UK
+1061,Fairview House & Court,42 Hill Street,Kingswood,UK,Bristol,,UK Care Homes,81,UK
+1065,Sovereign Lodge,Sovereign Lodge Care Home,Newcastle,UK,Tyne and Wear,,UK Care Homes,48,UK
+1066,Sovereign Court,Sovereign Court Care Home,Newcastle,UK,Tyne and Wear,,UK Care Homes,12,UK
+1067,The Grove,The Grove & Courtyard,Middlesbrough,UK,North Yorkshire,,UK Care Homes,57,UK
+1068,Derwent,Derwent Care Home,Newcastle,UK,Tyne and Wear,,UK Care Homes,45,UK
+1072,Briardene,Briardene Care Home,Newcastle,UK,Tyne and Wear,,UK Care Homes,60,UK
+1073,Holly Lodge,"Holly Lodge Care Home, Maddison Street",Shildon,UK,County Durham,,UK Care Homes,41,UK
+1070,Croftbank,"CROFTBANK CARE HOME, 98 OLD MILL ROAD","UDDINGSTON, GLASGOW",UK,South Lanarkshire,,UK Care Homes,68,UK
+1071,Rosepark,"ROSEPARK CARE HOME, 261 NEW EDINBURGH ROAD","UDDINGSTON, GLASGOW",UK,South Lanarkshire,,UK Care Homes,60,UK
+1075,Belmont,High Street,Harrogate,UK,North Yorkshire,,UK Care Homes,106,UK
+1076,Park springs,Frood Street,Motherwell,UK,North Lanarkshire,,UK Care Homes,96,UK
+1077,Thorntree Mews Nursing Home,17 Arnothill,Falkirk,UK,Falkirk,,UK Care Homes,40,UK
+1078,Wallace View,77 Westhaugh Road,Stirling,UK,Stirling,,UK Care Homes,60,UK
+1079,Kingston Court,Newtown Road,Carlisle,UK,Cumbria,,UK Care Homes,76,UK
+1080,Reiver House,Newtown Road,Carlisle,UK,Cumbria,,UK Care Homes,0,UK
+1081,Surgical unit,Newtown Road,Carlisle,UK,Cumbria,,UK Care Homes,0,UK
+1082,Birchlands,Moor Lane,"Haxby, York",UK,North Yorkshire,,UK Care Homes,54,UK
+1083,Old Prebendal House,Station Rd,"Shipton-under-Wychwood, Chipping Norton",UK,Oxfordshire,,UK Care Homes,40,UK
+1086,Holmesley,Fortescue Road,Sidmouth,UK,Devon,,UK Care Homes,55,UK
+1084,Barham,Ipswich,Ipswich,UK,Suffolk,,UK Care Homes,44,UK
+1085,Baylham,Upper Street,"Baylham, Ipswich",UK,Suffolk,,UK Care Homes,55,UK
+1087,Argentum Lodge,81 Silver Street,Nailsea,UK,Bristol,,UK Care Homes,56,UK
+1088,Redhill,229 London Road,Worcester,UK,Worcestershire,,UK Care Homes,90,UK
+1089,Croft House,52a High Street,Gawthorpe,UK,West Yorkshire,,UK Care Homes,68,UK
+1091,Howgate House,Idle,Bradford,UK,West Yorkshire,,UK Care Homes,63,UK
+1092,Manor Park,Leeds Road,"Cutsyke, Castleford",UK,West Yorkshire,,UK Care Homes,75,UK
+1093,The Beeches,Beacon Road,"Wibsey, Bradford",UK,West Yorkshire,,UK Care Homes,60,UK
+1094,Laurel Bank,Main Street,Wilsden,UK,West Yorkshire,,UK Care Homes,63,UK
+1095,Willow Bank,Dean Road,Bradford,UK,West Yorkshire,,UK Care Homes,59,UK
+1097,Almond Court,15 Drumchapel Place,"Drumchapel, Glasgow",UK,Glasgow City,,UK Care Homes,42,UK
+1098,Almond View,5 Drumchapel Place,"Drumchapel, Glasgow",UK,Glasgow City,,UK Care Homes,78,UK
+1099,Bankview & Day Care Centre,Kilsyth Road,Banknock,UK,Stirlingshire,,UK Care Homes,65,UK
+1100,Beechwood,20 Bridge Street,Wishaw,UK,North Lanarkshire,,UK Care Homes,90,UK
+1101,Craigielea,French Street,Renfrew,UK,Renfrewshire,,UK Care Homes,85,UK
+1102,Granholm,Grandholm Drive,"Bridge of Don, Aberdeen",UK,Aberdeen City,,UK Care Homes,79,UK
+1103,Heatherfield,49 Bathgate Road,Armadale,UK,West Lothian,,UK Care Homes,60,UK
+1104,Larkfield,207 Burns Road,Greenock,UK,Inverclyde,,UK Care Homes,90,UK
+1105,Three Towns,20 Afton Road,Stevenston,UK,North Ayrshire,,UK Care Homes,60,UK
+1107,Blackwell vale,Durdar Road,"Blackwell, Carlisle",UK,Cumbria,,UK Care Homes,60,UK
+1106,St Peters,29 Out Risbygate,Bury St Edmonds,UK,Suffolk,,UK Care Homes,66,UK
+1109,Cedarhurst,Cedarhurst Road,Belfast,UK,County Antrim,,UK Care Homes,67,UK
+1110,Edgewater,"Copeland, Orlock and Lighthouse Suite, 4 Sunnydale Avenue",Donaghadee,UK,County Down,,UK Care Homes,75,UK
+1111,Saintfield,Old Saintfield Road,Belfast,UK,County Antrim,,UK Care Homes,51,UK
+1096,Merlin Manor,Merlin way,Hartlepool,UK,County Durham,,UK Care Homes,94,UK
+1108,Mavern,Corsham Road,"Shaw, Melksham",UK,Wiltshire,,UK Care Homes,55,UK
+1113,Carlton Hall,Chapel Rd,"Carlton Colville, Lowestoft",UK,Suffolk,,UK Care Homes,86,UK
+1114,Springhill,Springhill View,Kilmarnock,UK,East Ayrshire,,UK Care Homes,61,UK
+1115,Hillcrest,"Hillcrest House, Barbican Road",East Looe,UK,Cornwall,,UK Care Homes,88,UK
+1116,Abingdon Manor,949 Crumlin Road,Belfast,UK,County Antrim,,UK Care Homes,60,UK
+1117,Larne Care,46 Coastal Guard Road,Larne,UK,County Antrim,,UK Care Homes,87,UK
+1118,Raleigh Mead,South Molton,Devon,UK,Devon,,UK Care Homes,62,UK
+1120,Eastleigh -(East Street),90-91 East Street,South Molton,UK,Devon,,UK Care Homes,54,UK
+1119,Minehead,Periton Road,Minehead,UK,Somerset,,UK Care Homes,69,UK
+1121,Baily House,Botany Avenue,Mansfield,UK,Nottinghamshire,,UK Care Homes,66,UK
+1122,Woodleigh,Norfolk Drive,Mansfield,UK,Nottinghamshire,,UK Care Homes,44,UK
+1123,Baillieston,33 & 35 Muirhead Road,"Baillieston, Glasgow",UK,Glasgow City,,UK Care Homes,60,UK
+1124,Cardonald,663 Mosspark Drive,Glasgow,UK,Glasgow City,,UK Care Homes,31,UK
+1125,Stobhill,70 Stobhill Road,Glasgow,UK,Glasgow City,,UK Care Homes,60,UK
+1126,Madeira,Madeira Road,"Littlestone, New Romney",UK,Kent,,UK Care Homes,48,UK
+1127,Wombwell,Wombwell Gardens,"North Fleet, Gravesend",UK,Kent,,UK Care Homes,120,UK
+1128,Methven House,4 Bennochy Road,Kirkcaldy,UK,Fife,,UK Care Homes,60,UK
+1129,Walton House,"Walton House, Victoria Road",Leven,UK,Fife,,UK Care Homes,40,UK
+1130,Roselea House,175 Stenhouse Street,Cowdenbeath,UK,Fife,,UK Care Homes,20,UK
+1131,Camilla House,Main Street,Auchtertool,UK,Fife,,UK Care Homes,40,UK
+1132,Alexander House,Main Street,Crossgates,UK,Fife,,UK Care Homes,40,UK
+1133,Fernlea House,19 Wallsgreen Road,Cardenden,UK,Fife,,UK Care Homes,36,UK
+1134,Craigie House,Main Street,Crossgates,UK,Fife,,UK Care Homes,30,UK
+1135,Finavon Court,Glenrothes,Glenrothes,UK,Fife,,UK Care Homes,24,UK
+1136,Lomond View,Falkland,Falkland,UK,Fife,,UK Care Homes,50,UK
+1137,Preston House,Alburne Park,Glenrothes,UK,Fife,,UK Care Homes,60,UK
+1138,Barrogil House,Cluny,Kirkcaldy,UK,Fife,,UK Care Homes,40,UK
+1139,Willow House,77 Toll Road,Cellardyke,UK,Fife,,UK Care Homes,40,UK
+1140,Corbrook Park,Audlem,Crewe,UK,Cheshire,,UK Care Homes,80,UK
+1141,Isle Court,Isle Lane,"Bicton, Shrewsbury",UK,Shropshire,,UK Care Homes,82,UK
+1142,Morris Care Centre,Holyhead Road,"Wellington, Telford",UK,Shropshire,,UK Care Homes,96,UK
+1143,Oldbury Grange,Oldbury,Bridgnorth,UK,Shropshire,,UK Care Homes,69,UK
+1144,Radbrook,Stanhill Road,Shrewsbury,UK,Shropshire,,UK Care Homes,63,UK
+1145,Stretton Hall,All Stretton,Church Stretton,UK,Shropshire,,UK Care Homes,50,UK
+1059,Rydal,"Rydal Care Home, Rydal Road",Darlington,UK,County Durham,,UK Care Homes,60,UK
+30020,St. Joseph's Villa IND,425 E Bishop Federal Lane,Salt Lake City,UT,84115,Salt Lake,IL,0,US
+50019,Ironwood Estates of Sandwich,902 E Arnold St,Sandwich,IL,60548,DeKalb,IL,0,US
+32350,Port Washington Post Acute,140 South Marion Avenue,Bremerton,WA,98312,Kitsap,SNF,96,US
+32360,Olympic View Post Acute,1116 E Lauridsen Blvd,Port Angeles,WA,98362,Clallam,SNF,94,US
+32370,Bremerton Trails Post Acute,2701 Clare Avenue,Bremerton,WA,98310,Kitsap,SNF,125,US
+32380,Edmonds Post Acute,21400 72nd Avenue West,Edmonds,WA,98026,Snohomish,SNF,100,US
+32390,Sequim Bay Post Acute,650 W Hemlock Street,Sequim,WA,98382,Clallam,SNF,100,US
+32400,Othello Post Acute,495 N 13th Ave Street,Othello,WA,99344,Adams,SNF,39,US
+32410,Three Creeks Post Acute,1310 NW Deane Street,Pullman,WA,99163,Whitman,SNF,45,US
+32420,Saint Helens Post Acute,75 Shore Drive,St Helens,OR,97051,Columbia,SNF,70,US
+32330,Todos Santos Assisted Living and Memory Care,1081 Mohr Lane,Concord,CA,94518,Contra Costa,AL,160,US
+32300,Katella Alamitos,3952 & 3902 Katella Ave,Los Alamitos,CA,90720,Orange,Multiservice Campus,282,US
+32430,Ivy Court,2200 Ironwood Place,Coeur d'Alene,ID,83814,Kootenai,SNF,80,US
+32440,Silver Ridge,210 W Lacrosse Avenue,Coeur d'Alene,ID,83814,Kootenai,SNF,100,US
+73562,Avocado Post Acute,510 E. Washington Ave.,El Cajon,CA,92020,San Diego,SNF,256,US
+9001,Clearwater  Health  and  Rehabilitation  of Cascadia,1204 Shriver Road,Orofino,ID,83544,Clearwater,SNF,60,US
+9002,Coeur d'Alene Health of Cascadia,2514 N 7th St,Coeur d'Alene,ID,83814,Kootenai,SNF,83,US
+9003,The Cove of Cascadia,620 N 6th St,Bellevue,ID,83313,Blaine,SNF,32,US
+9004,The Cove of Cascadia,620 N 6th St,Bellevue,ID,83313,Blaine,AL,16,US
+9005,Grangeville  Health  and  Rehabilitation  of Cascadia,410 NE 2nd St,Grangeville,ID,83530,Idaho County,SNF,60,US
+9006,Cascadia  of Lewiston,2852  Juniper  Drive,Lewiston,ID,83501,Nez Perce,SNF,34,US
+9007,Eagle  Rock Health  and  Rehabilitation  of Cascadia,840 East Elva Street,Idaho Falls,ID,83401,Bonneville,SNF,113,US
+9008,Silverton  Health  and  Rehabilitation  of Cascadia,405 7th St,Silverton,ID,83867,Shoshone,SNF,50,US
+9009,Silverton  Health  and  Rehabilitation  of Cascadia,405 7th St,Silverton,ID,83867,Shoshone,IL,21,US
+9010,Paradise  Creek  Health  and  Rehabilitation  of Cascadia,640  Eisenhower St,Moscow,ID,83843,Latah,SNF,62,US
+9011,Paradise  Creek of Olympus  &  Fairview Retirement  Living,403  Samaritan  Ln,Moscow,ID,83843,Latah,AL,157,US
+9012,Libby Care Center of Cascadia,308 E 3rd St,Libby,MT,59923,Libby,SNF,89,US
+9013,Mountain  View  Health  and  Rehabilitation  of Cascadia,10 Mountain View Dr,Eureka,MT,59917,Lincoln,SNF,49,US
+9014,Village Manor of Cascadia,2060 NE 238th Dr,Wood Village,OR,97060,Multnomah,SNF,60,US
+9015,Curry Village  Health  and  Rehabilitation  of Cascadia,1 Park Avenue,Brookings,OR,97415,Curry,SNF,59,US
+9016,Curry Village of Cascadia,1 Park Avenue,Brookings,OR,97415,Curry,IL,13,US
+9017,Creekside  Health  and  Rehabilitation  of Cascadia,3500  Hilyard  Street,Eugene,OR,97405,Lane,SNF,56,US
+9018,Creekside  of Olympus  Retirement  Living,3500  Hilyard  Street,Eugene,OR,97405,Lane,IL,24,US
+9019,The Abbey of Olympus Retirement Living,494 W 10th Ave,Eugene,OR,97401,Lane,IL,53,US
+9020,Fairlawn Health and  Rehabilitation of Cascadia,3457  NE Division Street,Gresham,OR,97030,Multnomah,SNF,62,US
+9021,Fairlawn Health and  Rehabilitation of Cascadia,3457  NE Division Street,Gresham,OR,97030,Multnomah,IL,119,US
+9022,Brookfield  Health  and  Rehabilitation  of Cascadia,510 N Parkway Ave,Battle Ground,WA,98604,Clark,SNF,76,US
+9023,Colville  Health  and  Rehabilitation  of Cascadia,1000 E Elep Ave,Colville,WA,99114,Colville,SNF,92,US
+9024,Alderwood Park Health &  Rehabilitation,2726  Alderwood Avenue,Bellingham,WA,98225,Whatcom,SNF,92,US
+9025,Snohomish  Health  and  Rehabilitation  of Cascadia,800 10th St,Snohomish,WA,98290,Snohomish,SNF,91,US
+9026,Spokane  Valley Health and Rehab of  Cascadia,17121 E 8th Ave,Spokane Valley,WA,99016,Spokane,SNF,97,US
+9027,Olympus Living of Spokane Valley,17117 E 8th Ave,Spokane Valley,WA,99016,Spokane,IL,149,US
+9028,Stafholt Health and Rehab of Cascadia,456 C Street,Blaine,WA,98230,Whatcom,SNF,57,US
+9029,NorthPark Health  &  Rehabilitation  of   Cascadia,2020 N 95th Ave,Phoenix,AZ,85037,Maricopa,SNF,54,US
+9030,Boswell  Transitional  Care  of Cascadia,10601 W Santa Fe Dr,Sun City,AZ,85351,Maricopa,SNF,115,US
+14765,Mission Healthcare at Bellevue,2424 156th Ave NE,Bellevue,WA,98008,King,SNF,69,US

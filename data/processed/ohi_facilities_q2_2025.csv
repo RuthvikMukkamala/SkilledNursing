@@ -1,0 +1,1005 @@
+facility_name,facility_type,street_address,city,county,state,zip,country
+Avalon Place (Cypress Cove),Skilled Nursing Facility,200 Alabama Avenue Muscle,Muscle Shoals,Colbert,AL,35661,US
+Brookshire (fka Westside),Skilled Nursing Facility,4320 Judith Lane Huntsville,Huntsville,Madison,AL,35805,US
+Canterbury Health Center,Skilled Nursing Facility,1720 Knowles Road Phoenix,Phoenix City,Russell,AL,36867,US
+Cottage of the Shoals,Skilled Nursing Facility,500 John Aldridge,Aldridge Drive Tuscumbia,Colbert,AL,35674,US
+Keller Landing,Skilled Nursing Facility,813 Keller Lane Tuscumbia,Tuscumbia,Colbert,AL,35674,US
+Lynwood Nursing Home,Skilled Nursing Facility,4164 Halls Mill,Mill Road Mobile,Mobile,AL,36693,US
+Merrywood Lodge,Skilled Nursing Facility,280 Mount Hebron,"Hebron Road, P.O. Box 130 Elmore",Elmore,AL,36025,US
+Northside Health Care,Skilled Nursing Facility,700 Hutchins Avenue Gadsden,Gadsden,Etowah,AL,35901,US
+River City,Skilled Nursing Facility,1350 14th Avenue SE Decatur,Decatur,Morgan,AL,35601,US
+Encanto Palms,Assisted Living Facility,3901 West Encanto,Encanto Boulevard Phoenix,Maricopa,AZ,85009,US
+Gardens,Skilled Nursing Facility,31 West Maryland,Maryland Avenue Phoenix,Maricopa,MD,85013,US
+Palm Valley,Skilled Nursing Facility,13575 West McDowell,McDowell Road Goodyear,Maricopa,MD,85338,US
+Ridgecrest,Skilled Nursing Facility,16640 North 38th Street Phoenix,Phoenix,Maricopa,MD,85032,US
+Sandridge (Mesa Christian),Skilled Nursing Facility,255 West Brown,Brown Road Mesa,Maricopa,MD,85201,US
+Santa Catalina,Independent Living Facility,7500 North Calle,Calle Sin Envidia Tucson,Pima,MD,85718,US
+Silverwood (L'Estancia),Skilled Nursing Facility,15810 South 42nd Street Phoenix,Phoenix,Maricopa,MD,85048,US
+Sun City,Skilled Nursing Facility,9940 West Union,Union Hills Drive Sun City,Maricopa,MD,85373,US
+Verde Valley (Austin House),Assisted Living Facility,195 South Willard,Willard Street Cottonwood,Yavapai,MD,86326,US
+Ash Flat Nursing & Rehab Center,Skilled Nursing Facility,66 Ozbirn Lane Ash,Ash Flat,Sharp,AR,72513,US
+Conway Healthcare & Rehab Center (Faulkner),Skilled Nursing Facility,2603 Dave Ward,Ward Drive Conway,Faulkner,AR,72032,US
+Des Arc Nursing & Rehab Center,Skilled Nursing Facility,"2216 West Main,","Main, P.O. Box 143B Des Arc",Prairie,AR,72040,US
+Garland Nursing & Rehab Center and Apts.,Skilled Nursing Facility,610 Carpenter Dam,Dam Road Hot Springs,Garland,AR,71901,US
+Sheridan Nursing & Rehab Center,Skilled Nursing Facility,113 South Briarwood,Briarwood Drive Sheridan,Grant,AR,72150,US
+The Atrium at Serenity Pointe,Assisted Living Facility,2803 Albert Pike,Pike Road Hot Springs,Garland,AR,71913,US
+Arbor Hills Nursing & Rehab,Skilled Nursing Facility,7800 Parkway Avenue La,La Mesa San,Diego,CA,91942,US
+Artesia Palms,Skilled Nursing Facility,11900 East Artesia,Artesia Boulevard Artesia Los,Angeles,CA,90701,US
+Arvin,Skilled Nursing Facility,323 Campus Drive Arvin,Arvin,Kern,CA,93203,US
+Bakersfield,Skilled Nursing Facility,6212 Tudor Way Bakersfield,Bakersfield,Kern,CA,93306,US
+Camino (fka Hawthorne),Skilled Nursing Facility,13922 Cerise Avenue Hawthorne,Hawthorne San,Diego,CA,90250,US
+Castle Manor Nursing & Rehab,Skilled Nursing Facility,541 South V,V Avenue National City San,Diego,CA,91950,US
+Claremont,Skilled Nursing Facility,219 East Foothill,Foothill Boulevard Pomona Los,Angeles,CA,91768,US
+Community Care,Skilled Nursing Facility,4070 Jurupa Avenue Riverside,Riverside,Riverside,CA,92506,US
+Country Oaks,Skilled Nursing Facility,215 West Pearl,Pearl Street Pomona Los,Angeles,CA,91768,US
+Diablo Valley (Concord),Skilled Nursing Facility,3806 Clayton Road Concord,Concord Contra,Costa,CA,94521,US
+Extended Care,Skilled Nursing Facility,8171 Magnolia Avenue Riverside,Riverside,Riverside,CA,92504,US
+Fremont,Skilled Nursing Facility,2400 Parkside Drive Fremont,Fremont,Alameda,CA,94536,US
+French Park,Skilled Nursing Facility,600 East Washington,Washington Avenue Santa Ana,Orange,CA,92701,US
+Friendship Manor Nursing & Rehab,Skilled Nursing Facility,902 Euclid Avenue National,National City San,Diego,CA,91950,US
+Golden Hills Subacute & Rehab Center,Skilled Nursing Facility,1201 34th Street San,San Diego San,Diego,CA,92102,US
+Gordon Lane,Skilled Nursing Facility,1819 East Chapman,Chapman Avenue Fullerton,Orange,CA,92831,US
+Hayward Gardens,Skilled Nursing Facility,1628 B Street Hayward,Hayward,Alameda,CA,94541,US
+Heritage Court Assisted Living,Assisted Living Facility,275 Garnet Way B,B Upland San,Bernardino,CA,91786,US
+Heritage Manor,Skilled Nursing Facility,610 North Garfield,Garfield Avenue Monterey Park Los,Angeles,CA,91754,US
+Heritage Park Nursing,Skilled Nursing Facility,275 Garnet Way Upland,Upland San,Bernardino,CA,91786,US
+Kearny Mesa Nursing,Skilled Nursing Facility,7675 Family Circle San,San Diego San,Diego,CA,92111,US
+Lakeport,Skilled Nursing Facility,1291 Craig Avenue Lakeport,Lakeport,Lake,CA,95453,US
+Lindsay Gardens,Skilled Nursing Facility,1011 W. Tulare,Tulare Road Lindsay,Tulare,CA,93247,US
+Mission,Skilled Nursing Facility,8487 Magnolia Street Riverside,Riverside,Riverside,CA,92504,US
+Murrieta,Assisted Living Facility,24350 Jackson Avenue Murrieta,Murrieta,Riverside,CA,92562,US
+Newport Beach,Skilled Nursing Facility,1555 Superior Avenue Newport,Newport Beach,Orange,CA,92663,US
+North Valley,Skilled Nursing Facility,7660 Wyngate Street Tujunga,Tujunga Los,Angeles,CA,91042,US
+Pomona Vista,Skilled Nursing Facility,651 North Main,Main Street Pomona Los,Angeles,CA,91768,US
+Ridgeway (Petaluma),Skilled Nursing Facility,523 Hayes Lane Petaluma,Petaluma,Sonoma,CA,94952,US
+Salinas,Skilled Nursing Facility,637 East Romie,Romie Lane Salinas,Monterey,CA,93901,US
+San Diego,Skilled Nursing Facility,3022 45th Street San,San Diego San,Diego,CA,92105,US
+Sierra View,Skilled Nursing Facility,14318 Ohio Street Baldwin,Baldwin Park Los,Angeles,CA,91706,US
+St. Catherine (fka Fullerton),Skilled Nursing Facility,245 East Wilshire,Wilshire Avenue Fullerton,Orange,CA,92832,US
+Sun Villa (Sequoia),Skilled Nursing Facility,350 N. Villa,Villa Street Porterville,Tulare,CA,93257,US
+Sunset Villa (Long Beach),Skilled Nursing Facility,3232 East Artesia,Artesia Boulevard Long Beach Los,Angeles,CA,90805,US
+Valley (Gateway),Skilled Nursing Facility,661 W Poplar,Poplar Porterville,Tulare,CA,93257,US
+Victoria (fka Rose),Skilled Nursing Facility,3541 Puente Avenue Baldwin,Baldwin Park Los,Angeles,CA,91706,US
+Villa Rancho Bernardo,Skilled Nursing Facility,15720 Bernardo Center,Center Drive San Diego San,Diego,CA,92127,US
+Vista Knoll Specialized Care Facility,Skilled Nursing Facility,2000 Westwood Road Vista,Vista San,Diego,CA,92083,US
+Blossom Grove,Assisted Living Facility,11116 New Jersey,Jersey Street Redlands San,Bernardino,CA,92373,US
+Amberwood,Skilled Nursing Facility,4686 E. Asbury,Asbury Circle Denver,Denver,CO,80222,US
+Atlas (Pueblo),Skilled Nursing Facility,2611 Jones Avenue Pueblo,Pueblo,Pueblo,CO,81004,US
+Boulder (Mesa Vista),Skilled Nursing Facility,2121 Mesa Drive Boulder,Boulder,Boulder,CO,80304,US
+Brookshire,Skilled Nursing Facility,4660 E. Asbury,Asbury Circle Denver,Denver,CO,80222,US
+Eagle Ridge,Skilled Nursing Facility,2425 Teller Ave,Ave Grand Junction,Mesa,CO,81501,US
+Highline,Skilled Nursing Facility,6060 East Iliff,Iliff Avenue Denver,Denver,CO,80222,US
+Lakeside (Christopher House),Skilled Nursing Facility,6270 W. 38th Avenue Wheat,Wheat Ridge,Jefferson,CO,80033,US
+Mountain View IL (Cheyenna Place),Independent Living Facility,945 Tenderfoot Hill,Hill Road Colorado Springs El,Paso,CO,80906,US
+Mountain View SNF(Cheyenne Mountain),Skilled Nursing Facility,835 Tenderfoot Hill,Hill Road Colorado Springs El,Paso,CO,80906,US
+Pikes Peak Care Center,Skilled Nursing Facility,2719 North Union,Union Boulevard Colorado Springs El,Paso,CO,80909,US
+Red Cliffs (Mesa Manor),Skilled Nursing Facility,2901 North 12th Street Grand,Grand Junction,Mesa,CO,81506,US
+Riverdale,Skilled Nursing Facility,2311 E. Bridge,Bridge Street Brighton,Adams,CO,80601,US
+Sierra,Skilled Nursing Facility,1432 Depew Street Lakewood,Lakewood,Jefferson,CO,80214,US
+Westwood (North Star),Skilled Nursing Facility,3185 W. Arkansas,Arkansas Avenue Denver,Denver,CO,80219,US
+Benchmark at Stamford,Assisted Living Facility,251 Turn of,of River Stamford,Fairfield,CT,06905,US
+Danbury,Assisted Living Facility,22 Hospital Avenue (30,(30 Crane Street) Danbury,Fairfield,CT,06810,US
+Darien,Assisted Living Facility,599 Boston Post,Post Road Darien,Fairfield,CT,06820,US
+Newtown,Assisted Living Facility,166 Mount Pleasant,Pleasant Road Newtown,Fairfield,CT,06470,US
+Norwalk (Strawberry Hill),Assisted Living Facility,73 Strawberry Hill,Hill Avenue Norwalk,Fairfield,CT,06855,US
+Orange,Assisted Living Facility,245 Indian River,River Road Orange New,Haven,CT,06477,US
+Southport,Assisted Living Facility,917 Mill Hill,Hill Terrace Southport,Fairfield,CT,06890,US
+Stony Hill (Bethel),Assisted Living Facility,46 Stony Hill,"Hill Road, US Route 6 Bethel",Fairfield,CT,06801,US
+District of Columbia Embassy,Assisted Living Facility,"2100 Massachusetts Avenue,","Avenue, NW Washington",DC,CT,20008,US
+Aldringham Court,Assisted Living Facility,Aldeburgh Road Aldringham,Aldringham Suffolk,IP16,England,4QF,UK
+Alexandra House,Assisted Living Facility,Havelock Terrace Gateshead,Gateshead Tyne & Wear,NE8,England,1QU,UK
+Alexandra View,Assisted Living Facility,Lilburn Place Southwick,Southwick Sunderland,SR5,England,2AF,UK
+Ashfield Court,Assisted Living Facility,Great Lime Road Forest,Forest Hall Newcastle Upon Tyne,NE12,England,9DH,UK
+Ashlea Court,Assisted Living Facility,Church Lane Waltham,Waltham Grimsby Waltham Grimsby,DN37,England,0ES,UK
+Ashley Court,Assisted Living Facility,6-10 St Peter's,Peter's Road Poole Dorset,BH14,England,0PA,UK
+Ashley Gardens,Assisted Living Facility,Sutton Road Maidstone,Maidstone Kent,ME15,England,8RA,UK
+Autumn Vale Care Centre,Assisted Living Facility,Danesbury Park Road Welwyn,Welwyn Hertfordshire,AL6,England,9SW,UK
+Avon Lodge,Assisted Living Facility,Southey Avenue Kingswood,Kingswood Bristol,BS15,England,1QT,UK
+Aycliffe,Assisted Living Facility,Burnhope Newton Aycliffe,Aycliffe Durham,DL5,England,7ER,UK
+Ayresome Court,Assisted Living Facility,Green Lane Yarm,Yarm Stockton on Tees,TS15,England,9EH,UK
+Barking Hall,Assisted Living Facility,Needham Market Barking,Barking Suffolk,IP6,England,8HJ,UK
+Baugh House,Assisted Living Facility,19 Baugh Road Sidcup,Sidcup Kent,DA14,England,5ED,UK
+Beaumont,Assisted Living Facility,56 Kenilworth Road Coventry,Coventry Coventry,CV4,England,7AH,UK
+Beaumont Park,Assisted Living Facility,Shortmead Street Biggleswade,Biggleswade Bedfordshire,SG18,England,0AT,UK
+Bedhampton,Assisted Living Facility,55 Hulbert Road Bedhampton,Bedhampton Havant,PO9,England,3TB,UK
+Beech Grove,Assisted Living Facility,St. Paul's Street Low,Low Moor Clitheroe,BB7,England,2LS,UK
+Bilney Hall,Assisted Living Facility,East Bilney East,East Bilney Norfolk,NR20,England,4AL,UK
+Blandford Grange,Assisted Living Facility,Milldown Road Blandford,Blandford Forum Dorset,DT11,England,7DE,UK
+Bletchley House,Assisted Living Facility,"Beaverbrook Court Bletchley,","Bletchley, Milton Keynes Buckinghamshire",MK3,England,7JS,UK
+Brackenridge House,Assisted Living Facility,"Brackenhill Victoria Road Ruislip,","Ruislip, Hillingdon Middlesex",HA4,England,0JH,UK
+Brantwood Hall,Assisted Living Facility,10-14 (even) North,North Avenue Wakefield Wakefield,WF1,England,3RX,UK
+Bridge View,Assisted Living Facility,Ashington Drive Choppington,Choppington Northumberland,NE62,England,5JF,UK
+Burrows House,Assisted Living Facility,"12 Derwent Road Penge,","Penge, London London",SE20,England,8SW,UK
+Cameron House,Assisted Living Facility,2 Cameron Street Elton,Elton Bury Greater Manchester,BL8,England,2QH,UK
+Cedar Court,Assisted Living Facility,60 Moorland Road Witney,Witney Oxfordshire,OX28,England,6LG,UK
+Cedar Grange,Assisted Living Facility,Main Street Cherry,Cherry Burton Beverly,HU17,England,7RF,UK
+Chapel Lodge,Assisted Living Facility,105 Station Road Chapeltown,Chapeltown Sheffield,S35,England,2XF,UK
+Charlton Court,Assisted Living Facility,Bristol Drive Wallsend,Wallsend Tyne & Wear,NE28,England,9RH,UK
+Chichester Court,Assisted Living Facility,111 Chicester Road South,South Shields Tyne & Wear,NE33,England,4HE,UK
+Church House,Assisted Living Facility,Coole Lane Austerson,"Austerson Nantwich, Cheshire East",CW5,England,8AB,UK
+Church View,Assisted Living Facility,Main Street South,"South Church, Biship Aukland Country Durham",DL14,England,6SL,UK
+Claremont House / Lodge,Assisted Living Facility,"20a Yarmouth Road,","Road, Caister-on-Sea Great Yarmouth Norfolk",NR30,England,5AA,UK
+Coble House,Assisted Living Facility,North View Whitley,Whitley Bay North Tyneside,NE12,England,2EU,UK
+Comfort House,Assisted Living Facility,21 Middlegate Tyne,Tyne & Wear Newcastle Upon Tyne,NE5,England,5AY,UK
+Crofton Court,Assisted Living Facility,Edward Street Blyth,Blyth Northumberland,NE24,England,1DW,UK
+Croston,Assisted Living Facility,Town Road Croston,Croston Leyland,PR26,England,9RA,UK
+Dene Park House,Assisted Living Facility,Killingworth Road South,South Gosforth Newcastle Upon Tyne,NE3,England,1SY,UK
+Dolphin View,Assisted Living Facility,Harbour Road Amble,Amble Northumberland,NE65,England,0AP,UK
+Drayton Village Care Centre,Assisted Living Facility,1 Spring Promenade,"Promenade West Drayton, London London",UB7,England,9GL,UK
+Evergreens,Assisted Living Facility,Stephenson Court Station,"Station Road Forest Hall, Newcastle Upon Tyne North Tyneside",NE12,England,9BQ,UK
+Fornham House,Assisted Living Facility,Fornham St Martin,Martin Bury St Edmunds Suffolk,IP31,England,1SR,UK
+Foxearth Lodge,Assisted Living Facility,"Little Green Saxtead,","Saxtead, Woodbridge Suffolk",IP13,England,9QY,UK
+Foxgrove Court,Assisted Living Facility,High Road East,East Felixstowe Suffolk,IP11,England,9PU,UK
+Frindsbury Hall,Assisted Living Facility,Frindsbury Hill Rochester,Rochester Medway,ME2,England,4JS,UK
+Guisborough Manor,Assisted Living Facility,Woodhouse Triangle Middlesborough,Middlesborough Road Guisborough Guisborough Manor,TS14,England,6QU,UK
+Halcyon Days Care Home,Assisted Living Facility,"The Old Rectory,","Rectory, Church Lane Graveley, Hitchin Hertfordshire",SG4,England,7LU,UK
+Hamilton House,Assisted Living Facility,West Street Buckingham,Buckingham Buckinghamshire,MK18,England,1HL,UK
+Handford House,Assisted Living Facility,27A Cumberland Street Ipswich,Ipswich Suffolk,IP1,England,3PA,UK
+Haughgate,Assisted Living Facility,Haugh Lane Woodbridge,Woodbridge Suffolk,IP12,England,1JG,UK
+Haythorne Place,Assisted Living Facility,Shiregreen Lane Shirefield,Shirefield Sheffield,S5,England,6AB,UK
+Heath Lodge,Assisted Living Facility,Danesbury Park Road Welwyn,Welwyn Hertfordshire,AL6,England,9SN,UK
+Hillcroft House,Assisted Living Facility,Finborough Road Stowmarket,Stowmarket Suffolk,IP14,England,1PW,UK
+Hillside Nursing Home,Assisted Living Facility,North Hill Drive Romford,Romford Essex,RM3,England,9AW,UK
+Hilltop Lodge,Assisted Living Facility,White Lane Chapeltown,Chapeltown Sheffield,S35,England,2YH,UK
+Home Close,Assisted Living Facility,Cow Lane Fulbourn,Fulbourn Cambridgeshire,CB21,England,5HB,UK
+Home Meadow,Assisted Living Facility,Comberton Road Toft,Toft Cambridgeshire,CB23,England,2RY,UK
+Hylton View,Assisted Living Facility,Old Mill Road Southwick,Southwick Sunderland,SR5,England,5TP,UK
+Ivybank House,Assisted Living Facility,Ivy Bank Park,Park Bath Somerset,BA2,England,5NF,UK
+Kent House,Assisted Living Facility,Augustine Road Harrow,Harrow Middlesex,HA3,England,5NS,UK
+Kingsley Court,Assisted Living Facility,855 Uxbridge Road Hayes,Hayes Middlesex,UB4,England,8HZ,UK
+Langford Park Nursing Home,Assisted Living Facility,Langford Road Exeter,Exeter Exeter,EX5,England,5AG,UK
+Lindsay House,Assisted Living Facility,"Parbold Hill Parbold,","Parbold, Wigan Lancashire",WN8,England,7TG,UK
+Long Meadow,Assisted Living Facility,"Bakewell Road, Darley",Darley Dale Matlock Derbyshire,DE4,England,3BN,UK
+Lowgate,Assisted Living Facility,Grass Road Lowgate,Lowgate Hexham,NE46,England,2NN,UK
+Lucton House,Assisted Living Facility,8 Long Wood,Wood Birmingham West Midlands,B30,England,1HT,UK
+Magnolia House,Assisted Living Facility,42 - 52 Hull,Hull Road Cottingham East Yorkshire,HU16,England,4PX,UK
+Malthouse,Assisted Living Facility,Bay Road Gillingham,Gillingham Dorset,SP8,England,4EW,UK
+Manor House,Assisted Living Facility,1 Amblecote Avenue Birmingham,Birmingham West Midlands,B44,England,9AL,UK
+Martins House,Assisted Living Facility,Jessop Road Stevenage,Stevenage Hertfordshire,SG1,England,5LL,UK
+Maynell House,Assisted Living Facility,High Road East,East Felixstowe Suffolk,IP11,England,9PU,UK
+Meadow House,Assisted Living Facility,Norwich Road Swaffham,Swaffham Norfolk,PE37,England,8DD,UK
+Mill Lane,Assisted Living Facility,Mill Lane Felixstowe,Felixstowe Suffolk,IP11,England,7RW,UK
+Moorend Place,Assisted Living Facility,34 Commonside Walkley,Walkley Sheffield,S10,England,1GE,UK
+Moorfield House,Assisted Living Facility,6 Kenton Road Gosforth,Gosforth Newcastle Upon Tyne,NE3,England,4NB,UK
+Moorgate 3,Assisted Living Facility,Nightingale Close Rotherham,Rotherham South Yorkshire,S60,England,2AB,UK
+Oaklands House,Assisted Living Facility,"Lowestoft Road, Reydon",Reydon Southwold Suffolk,IP18,England,6RD,UK
+Old Vicarage,Assisted Living Facility,Leigh Sherborne Dorset,Dorset,DT9,England,6HL,UK
+Olive House,Assisted Living Facility,"Olive Avenue, Newton",Newton Flotman Norwich Norfolk,NR15,England,1PF,UK
+Overbury House,Assisted Living Facility,9 Staitheway Road Wroxham,Wroxham Norfolk,NR12,England,8TH,UK
+Park House,Assisted Living Facility,27 Park Crescent,Crescent Peterborough Cambridgeshire,PE1,England,4DX,UK
+Park View,Assisted Living Facility,Feetham Avenue Newcastle,Newcastle Upon Tyne Newcastle Upon Tyne,NE12,England,9QN,UK
+Partridge House,Assisted Living Facility,"Heath Hill Ave,","Ave, Bevendean East Sussex Sussex",BN2,England,4LT,UK
+Pavilion Court,Assisted Living Facility,Mckendrick Villas Tyne,Tyne & Wear Newcastle Upon Tyne,NE5,England,3AB,UK
+Peregrine House,Assisted Living Facility,281 to 287 (Odd),"(Odd) St. Ann's Road Tottenham, London London",N15,England,5RE,UK
+Philips Court,Assisted Living Facility,Bluebell Close Beacon,Beacon Lough Gateshead,NE9,England,6RL,UK
+Piper Court,Assisted Living Facility,Sycamore Way Stockton-On-Tees,Stockton-On-Tees Durham,TS19,England,8FR,UK
+Princes Court,Assisted Living Facility,Hedley Road North,North Shields Tyne & Wear,NE29,England,6XP,UK
+Queensway House,Assisted Living Facility,Jupiter Drive Hemel,Hemel Hempstead Hertfordshire,HP2,England,5NP,UK
+Red Brick House,Assisted Living Facility,Victoria Terrace Prudhoe,Prudhoe Northumberland,NE42,England,5AE,UK
+Rosemount,Assisted Living Facility,Earsdon Road West,West Monkseaton North Tyneside,NE25,England,9YF,UK
+Sandown Park,Assisted Living Facility,61 Vale Road Windsor,Windsor Berkshire,SL4,England,5JY,UK
+Saxlingham Hall,Assisted Living Facility,The Green Saxlingham,Saxlingham Nethergate Norwich,NR15,England,1TH,UK
+Seale Pastures House,Assisted Living Facility,"Burton Road Acresford,","Acresford, Swadlincote Derbyshire",DE12,England,8AP,UK
+Shipdham Manor,Assisted Living Facility,Chapel Street Shipdham,Shipdham Norfolk,IP25,England,7LB,UK
+South Bebside,Assisted Living Facility,Patterdale Road Blyth,Blyth Northumberland,NE24,England,5JU,UK
+South Park,Assisted Living Facility,Gale Lane Acomb,Acomb York,YO2,England,3HX,UK
+South Quay,Assisted Living Facility,Cowpen Road Blyth,Blyth Northumberland,NE24,England,5TT,UK
+Sovereign Lodge,Assisted Living Facility,2 Carew Road Eastbourne,Eastbourne East Sussex,BN21,England,2BF,UK
+Springfield House,Assisted Living Facility,Oaken Drive Codsall,Codsall Wolverhampton,WV8,England,2EE,UK
+St Leonard’s Court,Assisted Living Facility,6 St. Leonard's,"Leonard's Street, Mundford Thetford Norfolk",IP26,England,5HG,UK
+St Marks Court,Assisted Living Facility,73 Split Crow,"Crow Road, Gateshead Tyne & Wear",NE8,England,3SA,UK
+St Peters Court,Assisted Living Facility,98 Church Bank,"Bank Wallsend, Notrh Tyneside Tyne & Wear",NE28,England,7LH,UK
+St. Stephens Care Home,Assisted Living Facility,"St. Stephens Terrace,","Terrace, Droitwich Road Worcester Worcestershire",WR3,England,7HU,UK
+Stanshawes Nursing Home,Assisted Living Facility,11 Stanshawes Drive Yate,Yate Bristol,BS37,England,4ET,UK
+Swiss Cottage,Assisted Living Facility,Plantation Road Leighton,Leighton Buzzard Bedfordshire,LU7,England,3HU,UK
+Tenchley Manor,Assisted Living Facility,Ursula Square Selsey,Selsey Chichester,PO20,England,0HR,UK
+The Chase,Assisted Living Facility,4 Printers Avenue Watford,Watford Hertfordshire,WD18,England,7QR,UK
+The Gables,Assisted Living Facility,"6 Marine Parade,","Parade, Gorleston Great Yarmouth Norfolk",NR31,England,6DU,UK
+The Hall,Assisted Living Facility,Chestnut Avenue Thornton,Thornton Le Dale North Yorkshire,YO18,England,7RR,UK
+The Hillings,Assisted Living Facility,"Grenville Way ,",", Eaton Socon St Neots Cambridgeshire",PE19,England,8HZ,UK
+The Lodge,Assisted Living Facility,Portway Langport Somerset,Somerset,TA10,England,0NQ,UK
+The Manor House,Assisted Living Facility,Skeyton Road North,North Walsham Norfolk,NR28,England,0LU,UK
+The Tudors Care Home,Assisted Living Facility,North Street Stanground,Stanground Peterborough Cambridgeshire,PE2,England,8HR,UK
+The White House,Assisted Living Facility,15 Ashmans Road Beccles,Beccles Suffolk,NR34,England,9NS,UK
+Uvedale Hall,Assisted Living Facility,Coddenham Road Needham,Needham Market Suffolk,IP6,England,8AX,UK
+Victoria,Assisted Living Facility,Victoria Street St.,St. Helens Merseyside,WA11,England,8DA,UK
+Walcot Hall,Assisted Living Facility,Walcot Road Walcott,"Walcott Green, Diss Norfolk",IP22,England,5SR,UK
+Wallace House,Assisted Living Facility,Ravensworth Road Dunston,Dunston Gateshead,NE11,England,9AE,UK
+Manor,Assisted Living Facility,Hollin Hill Road Washington,Washington Washington,NE37,WA,2DP,US
+Wellburn House,Assisted Living Facility,Wellburn Road Stockton-On-Tees,Stockton-On-Tees Durham,TS19,WA,7PP,US
+Westerleigh,Assisted Living Facility,Scott Street Stanley,Stanley Durham,DH9,WA,8AD,US
+Wheatfield Court,Assisted Living Facility,Wheatfield Road Newcastle,Newcastle Upon Tyne Tyne & Wear,NE5,WA,5HQ,US
+Willow Court,Assisted Living Facility,Osborne Gardens North,North Shields Tyne & Wear,NE29,WA,9AT,US
+Willow Green,Assisted Living Facility,Eastbourne Road Darlington,Darlington Darlington,DL1,WA,4ER,US
+Willow Lodge,Assisted Living Facility,Osborne Gardens North,North Shields Tyne & Wear,NE29,WA,9AT,US
+Willowbrook,Assisted Living Facility,363 Aldridge Road Birmingham,Birmingham Staffordshire,B44,WA,8BW,US
+Willowmead Care Home,Assisted Living Facility,Wickham Bishops Road Hatfield,Hatfield Peverel Chelmsford Hertfordshire,CM3,WA,2JL,US
+Windermere Grange,Assisted Living Facility,Windermere Road Middlesborough,Middlesborough Middlesborough,TS5,WA,5DH,US
+Woodside Grange,Assisted Living Facility,Tedder Avenue Thornaby,Thornaby Stockton-on-Tees,TS17,WA,9JP,US
+Wordsworth House,Assisted Living Facility,Clayton Road Jesmond,Jesmond Newcastle Upon Tyne,NE2,WA,1TL,US
+Alexander,Assisted Living Facility,21 Rushey Mead,Mead Lewisham London Kent,SE4,WA,1JJ,US
+Amber Lodge,Assisted Living Facility,"21 Thornhill Road Armley,","Armley, Leeds Stirlingshire",LS12,WA,4LL,US
+April Park,Assisted Living Facility,West Street Eckington,Eckington Derbyshire,S21,WA,4GA,US
+Ash Court,Assisted Living Facility,Brookside Avenue Knotty,"Knotty Ash, Liverpool Lancashire",L14,WA,7NB,US
+Aspen Court (Tower Hamlets),Assisted Living Facility,17-21 Dodd Street Limehouse,Limehouse London Cheshire,E14,WA,7EP,US
+"Beeches, The",Assisted Living Facility,Yew Tree Lane Dukinfield,Dukinfield Cheshire,SK16,WA,5BJ,US
+Carrington Court (Grosvenor),Assisted Living Facility,190-191 Derby Lane Hindley,Hindley Wigan Greater Manchester Lancashire,WN2,WA,3DU,US
+Fazakerley House,Assisted Living Facility,"Park Road Prescot,","Prescot, Merseyside Lancashire",L34,WA,3LN,US
+Fir Trees,Assisted Living Facility,"Gorse Hill Road,","Road, Dukinfield, SK16 5HN Dukinfield Cheshire",SK16,WA,5HN,US
+Holme Lea,Assisted Living Facility,Ashtley Road Stalybridge,Stalybridge South Yorkshire,SK15,WA,1RA,US
+Holmwood,Assisted Living Facility,"Warminster Road, Norton",Norton Lees Sheffield South Yorkshire,S8,WA,9BN,US
+Kirkby House,Assisted Living Facility,"James Holt Avenue Kirkby,","Kirkby, Merseyside Lancashire",L32,WA,5TD,US
+Milliner Court (Barton House),Assisted Living Facility,Marsh Road Luton,Luton Bedfordshire,LU3,WA,2QE,US
+Oaklands (Laindon),Assisted Living Facility,"Forest Glade, Dunton",Dunton Hills Laindon Essex,SS16,WA,6SA,US
+"Orchards (Birmingham), The",Assisted Living Facility,"Shard End Crescent,","Crescent, Shard End Birmingham West Midlands",B34,WA,7BP,US
+Rievaulx House,Assisted Living Facility,"21 Thornhill Road Armley,","Armley, Leeds Yorkshire, West Riding",LS12,WA,4LL,US
+Rosebridge Court,Assisted Living Facility,190-191 Derby Lane Hindley,Hindley Wigan Greater Manchester Lancashire,WN2,WA,3DU,US
+Stamford Court,Assisted Living Facility,Astley Road Stalybridge,Stalybridge Lancashire,SK15,WA,1RA,US
+Westwood Lodge,Assisted Living Facility,"Brookview, Heimsman Way,","Way, Off Poolstock Lane Wigan Lancashire",WN3,WA,5DJ,US
+Yew Trees,Assisted Living Facility,"Yew Tree Lane,","Lane, Dukinfield Cheshire",SK16,WA,5BJ,US
+Abingdon Court,Assisted Living Facility,Marcham Road Abingdon,Abingdon Berkshire,OX14,WA,1AD,US
+Appletree Court,Assisted Living Facility,158 Burnt Oak,"Oak Broadway Burnt Oak, Edgware Middlesex",HA8,WA,0AX,US
+Chestnut Court,Assisted Living Facility,Frizlands Lane Dagenham,Dagenham Essex,RM10,WA,7YD,US
+Highfield,Assisted Living Facility,Mandeville Road Saffron,Saffron Walden Essex,CB11,WA,4AQ,US
+Kents Hill,Assisted Living Facility,50 Tunbridge Grove,"Grove Kents Hill, Milton Keynes Buckinghamshire",MK7,WA,6JD,US
+Parkview House,Assisted Living Facility,206/212 Chingford Mount,"Mount Road Chingford, London Essex",E4,WA,8JR,US
+Alexandra Court,Assisted Living Facility,110 Victoria Road East,"East Thornton, Cleveleys Lancashire",FY5,WA,3SZ,US
+Allingham House,Assisted Living Facility,"Stocksdean Close, Deansgate",Deansgate Lane Timperley Altrincham West Riding,WA15,WA,6S,US
+"Belvedere, The",Assisted Living Facility,Horseshoe Lane Alderley,Alderley Edge Cheshire,SK9,WA,7QP,US
+Birch Heath Lodge,Assisted Living Facility,"Birch Heath Lane Christleton,","Christleton, Chester Cheshire",CH3,WA,7AP,US
+Bowerfield Court,Assisted Living Facility,3 Broadwood Close,"Close Disley, Stockport Cheshire",SK12,WA,2NJ,US
+Bowerfield House,Assisted Living Facility,3 Broadwood Close,"Close Disley, Stockport Cheshire",SK12,WA,2NJ,US
+Bridge House,Assisted Living Facility,Farnham Road Elstead,Elstead Surrey,GU8,WA,6DB,US
+Carmel Lodge,Assisted Living Facility,"London Road Adlington,","Adlington, Macclesfield Cheshire",SK10,WA,4NJ,US
+Cavendish Court,Assisted Living Facility,Horseshoe Lane Alderley,Alderley Edge Cheshire,SK9,WA,7QP,US
+Clarendon Court,Assisted Living Facility,Beechwood Stapeley Nantwich,Nantwich Cheshire,CW5,WA,7FY,US
+Corinthian House,Assisted Living Facility,Green Hill Lane Upper,"Upper Wortley, Leeds West Yorkshire",LS12,WA,4EZ,US
+Furze Hill Lodge,Assisted Living Facility,"Furze Hill Kinswood,","Kinswood, Tadworth Surrey",KT20,WA,6EP,US
+Hope Green,Assisted Living Facility,"London Road Adlington,","Adlington, Macclesfield Cheshire",SK10,WA,4NJ,US
+Manorhey Care Ctr,Assisted Living Facility,128-130 Stretford Road Urmston,Urmston Manchester Lancashire,M41,WA,9LT,US
+Monread Lodge,Assisted Living Facility,London Road Woomer,"Woomer Green, Hertfordshire Hertfordshire",SG3,WA,6HG,US
+Rosedale,Assisted Living Facility,"The Old Vicarage,","Vicarage, Catterick Rd TBD North Yorkshire",DL9,WA,4DD,US
+Water Royd House,Assisted Living Facility,"Locke Road Gilroyd,","Gilroyd, Barnsley South Yorkshire",S75,WA,3QH,US
+Willow Bank,Assisted Living Facility,5 Barwick Road Leeds,Leeds West Yorkshire,LS15,WA,8SE,US
+Willowdene,Assisted Living Facility,"Lizard Lane Sedgefield,","Sedgefield, Stockton on Tees Durham",TS21,WA,3ET,US
+Windmill Court,Assisted Living Facility,St Minver Nr,Nr Wadebridge Cornwall,PL27,WA,6RD,US
+Ringway Mews,Assisted Living Facility,"5 Stancliffe Road,","Road, Wythenshawe Manchester Cheshire",M22,WA,4RY,US
+Westbury,Assisted Living Facility,(blank) Westbury/Wilshire,Westbury/Wilshire,Wiltshire,WA,BA133PR,US
+Verulam House,Assisted Living Facility,Verulam Road St.,St. Albans Hertfordshire,AL3,WA,4DH,US
+Cedar Court I,Assisted Living Facility,Elmbridge Road Cranleigh,Cranleigh Surrey,GU6,WA,8TX,US
+Check House,Assisted Living Facility,61 Beer Road Seaton,Seaton Devon,EX12,WA,2ST,US
+Silverleigh,Assisted Living Facility,Silver Street Axminster,Axminster Devon,EX13,WA,5AF,US
+Thornfield,Assisted Living Facility,87 Scalwell Lane Seaton,Seaton Devon,EX12,WA,2ST,US
+Aspen Court,Assisted Living Facility,Hope Corner Lane Taunton,Taunton Somerset,TA2,WA,7PB,US
+Campania,Assisted Living Facility,18-20 Ellenborough Park,Park South Weston-Super-Mare Somerset,BS23,WA,1XN,US
+Casa Di Lusso,Assisted Living Facility,Bower Lane Bridgwater,Bridgwater Somerset,TA6,WA,4GU,US
+Cedar Lodge,Assisted Living Facility,Hope Corner Lane Taunton,Taunton Somerset,TA2,WA,7PB,US
+Clarence Park,Assisted Living Facility,7-9 Clarence Road North,North Weston-Super-Mare Somerset,BS23,WA,4AT,US
+Immacolata House,Assisted Living Facility,Portway I Langport,Langport Somerset,TA10,WA,0NQ,US
+La Fontana,Assisted Living Facility,Foldhill Lane Martock,Martock Somerset,TA12,WA,6PQ,US
+Serenita Care,Assisted Living Facility,15-19 Clevedon Road Weston-Super-Mare,Weston-Super-Mare Somerset,BS23,WA,1DA,US
+Stuart House,Assisted Living Facility,21-23 Clevedon Road Weston-Super-Mare,Weston-Super-Mare Somerset,BS23,WA,1DA,US
+Vane Hill,Assisted Living Facility,15-72 Vane Hill,Hill Road Torquay Devon,TQ1,WA,2BZ,US
+Watford House,Assisted Living Facility,Watford Road New,New Mills Derbyshire,SK22,WA,4EJ,US
+Acton Care,Assisted Living Facility,48 Gunnersbury Ln,Ln London Middlesex,W3,WA,8EF,US
+Hatfield,Assisted Living Facility,Tamblin Way Hatfield,Hatfield Hertfordshire,AL10,WA,9EZ,US
+St. Mary's Court,Assisted Living Facility,Deanery Hill Braintree,Braintree Essex,CM7,WA,5SR,US
+Sycamore Court,Assisted Living Facility,"Fitzherbert Dr, Bear",Bear Road Brighton Sussex,BN2,WA,4DU,US
+The New Deanery,Assisted Living Facility,Deanery Hill Braintree,Braintree Essex,CM7,WA,5SR,US
+The Lodge I,Assisted Living Facility,Back Lane Penshall,Penshall Tyne & Wear,DH4,WA,7ER,US
+Amy Woodgate House,Assisted Living Facility,Nigel Fisher Way Chessington,Chessington Surrey,KT9,WA,2SN,US
+Marlborough Court,Assisted Living Facility,7 Copperfield Rd,Rd London Thamesmead,SE28,WA,8QA,US
+Murrayfield,Assisted Living Facility,77 Dysons Road London,London Edmonton,EH12,WA,6AY,US
+Norwood Green,Assisted Living Facility,Tentelow Lane Southall,Southall Middlesex,UB2,England,4JA,UK
+Copper Beeches,Assisted Living Facility,5 Sylewood Close,Close Rochestor Kent,ME1,England,3LL,UK
+Murdoch,Assisted Living Facility,1 Murdoch Road Workingham,Workingham Berkshire,RG40,England,2DL,UK
+Woodbury,Assisted Living Facility,Jouldings Lane Farley,Farley Hill Berkshire,RG7,England,1UR,UK
+Hillside Lodge,Assisted Living Facility,Braeside Berwick upon,upon Tweed Northumberland,TD15,England,2BY,UK
+Charlton Park,Assisted Living Facility,21 Cemetary Lane Charlton,Charlton Greater London,SE7,England,8DZ,UK
+Emberbrook,Assisted Living Facility,16 Raphael Drive Thames,Thames Ditton Surrey,KT7,England,0BL,UK
+Headington,Assisted Living Facility,Roosevelt Drive Headington,Headington Oxfordshire,OX3,England,7XR,UK
+Hungerford,Assisted Living Facility,Wantage Road Hungerford,Hungerford Newtown Berkshire,RG17,England,0PN,UK
+Kingfisher House,Assisted Living Facility,St. Fabians Close,Close Newmarket Suffolk,CB8,England,0EJ,UK
+Kingston,Assisted Living Facility,Jemmet Close Kingston,Kingston upon Thames Surrey,KT2,England,7AJ,UK
+Lansdowne,Assisted Living Facility,Claremont Road Cricklewood,Cricklewood London Borough of Barnet,NW2,England,1TU,UK
+Abigail Lodge,Assisted Living Facility,Goucester Road Consett,Consett Durham,DH8,England,7LB,UK
+Barrington Lodge,Assisted Living Facility,Berkshire Place Bishop,Bishop Auckland Durham DL,14,England,6XX,UK
+Bishopsmead Lodge,Assisted Living Facility,Vicarage Road Bristol,Bristol Bristol,BS13,England,8ES,UK
+Brockwell Court,Assisted Living Facility,9 Cobden Street Consett,Consett Durham,NE23,England,1XX,UK
+Granby Rose,Assisted Living Facility,Granby Road Harrogate,Harrogate North Yorkshire,HG1,England,4SR,UK
+Harbour View,Assisted Living Facility,Bransty Road Whitehaven,Whitehaven Cumbria,CA28,England,6HA,UK
+Harrogate Lodge,Assisted Living Facility,25 Harrogate Road Leeds,Leeds West Yorkshire,LS7,England,3PD,UK
+Henleigh Hall,Assisted Living Facility,20 Abbey Lane Dell,Dell Beauchief Derbyshire,S8,England,0BZ,UK
+Hollie Hill,Assisted Living Facility,Durham Road Stanley,Stanley Durham,DH9,England,6QZ,UK
+Maple Lodge,Assisted Living Facility,Woolwich Road Sunderland,Sunderland Tyne and Wear,SR5,England,5SF,UK
+Northlea Court,Assisted Living Facility,Northumbrian Way Cramlington,Cramlington Northumberland,NE23,England,1XX,UK
+Redwell Hills,Assisted Living Facility,St Ives Road Leadgate,Leadgate Durham,DH8,England,7SN,UK
+Regents View,Assisted Living Facility,Francis Way Houghton-le-Spring,Houghton-le-Spring Durham,DH5,England,9EQ,UK
+Riverside Court,Assisted Living Facility,Salmoor Way Maryport,Maryport Cumbria,CA15,England,8AZ,UK
+St Catherines,Assisted Living Facility,Queen Street Bolton,Bolton Greater Manchester,BL6,England,6QU,UK
+The Granby,Assisted Living Facility,Granby Road Harrogate,Harrogate North Yorkshire,HG1,England,4SR,UK
+The Laurels,Assisted Living Facility,Francis Way Houghton-le-Spring,Houghton-le-Spring Durham,DH5,England,9EQ,UK
+Warrior Park,Assisted Living Facility,Warrior Drive Hartlepool,Hartlepool Durham,TS25,England,1EZ,UK
+The Lodge II,Assisted Living Facility,1a Knighton Rise,Rise Leicester Leicestershire,LE2,England,2RF,UK
+Abbey,Skilled Nursing Facility,7101 Dr. Martin,Martin Luther King Jr. Street North St. Petersburg,Pinellas,FL,33702,US
+Alpine,Skilled Nursing Facility,3456 21st Avenue South,South St. Petersburg,Pinellas,FL,33711,US
+Bartow,Skilled Nursing Facility,2055 Georgia St.,St. East Bartow,Polk,FL,33830,US
+Bay Pointe,Skilled Nursing Facility,4201 31st Street South,South St. Petersburg,Pinellas,FL,33712,US
+Boca Ciega,Skilled Nursing Facility,1414 59th Street Gulfport,Gulfport,Pinellas,FL,33707,US
+Boca Raton,Skilled Nursing Facility,755 Meadows Road Boca,Boca Raton Palm,Beach,FL,33486,US
+Cape Coral,Skilled Nursing Facility,2629 Del Prado,Prado Blvd. Cape Coral,Lee,FL,33904,US
+Carrollwood,Skilled Nursing Facility,15002 Hutchinson Road Tampa,Tampa,Hillsborough,FL,33625,US
+Casa Mora,Skilled Nursing Facility,1902 59th Street West,West Bradenton,Manatee,FL,34209,US
+Clearwater,Skilled Nursing Facility,1270 Turner St.,St. Clearwater,Pinellas,FL,33756,US
+Community Convalescent,Skilled Nursing Facility,2202 West Oak,Oak Avenue Plant City,Hillsborough,FL,33563,US
+Concordia Manor,Skilled Nursing Facility,321 13th Avenue North,North St. Petersburg,Pinellas,FL,33701,US
+Deerfield Beach (Broward),Skilled Nursing Facility,401 East Sample,Sample Road Pompano Beach,Broward,FL,33064,US
+Destination (fka Destin),Skilled Nursing Facility,195 Mattie M.,M. Kelly Boulevard Destin,Okaloosa,FL,32541-2811,US
+Egret Cove,Skilled Nursing Facility,550 62nd. St.,St. St. Petersburg,Pinellas,FL,33707,US
+Elegance Lake Worth,Assisted Living Facility,9948 Woodwind Lane Lake,Lake Worth Palm,Beach,FL,33467,US
+Emerald Coast,Skilled Nursing Facility,114 3rd Street Fort,Fort Walton Beach,Okaloosa,FL,32548,US
+Evergreen Woods,Skilled Nursing Facility,7045 Evergreen Woods,Woods Tr. Spring Hill,Hernando,FL,34608,US
+First Coast,Skilled Nursing Facility,7723 Jasper Avenue Jacksonville,Jacksonville,Duval,FL,32211,US
+Groves,Skilled Nursing Facility,512 South 11th Street Lake,Lake Wales,Polk,FL,33853,US
+Highland Pines,Skilled Nursing Facility,1111 South Highland,Highland Ave. Clearwater,Pinellas,FL,33756,US
+Lake Miriam (Brandywyne),Skilled Nursing Facility,1801 North Lake,Lake Mariam Drive Winter Haven,Polk,FL,33884,US
+Lake Montgomery (Avalon),Skilled Nursing Facility,1270 SW Main,Main Blvd Lake City,Columbia,FL,32025,US
+Lakeland Hills,Skilled Nursing Facility,610 East Bella,Bella Vista Dr. Lakeland,Polk,FL,33805,US
+North Tampa,Skilled Nursing Facility,18940 Sunlake Boulevard Lutz,Lutz,Hillsborough,FL,33558,US
+Nursing Pavilion at Chipola,Skilled Nursing Facility,4294 3rd Ave,Ave Marianna,Jackson,FL,32446,US
+Oakview (Doctor's Lake),Skilled Nursing Facility,833 Kingsley Avenue Orange,Orange Park,Clay,FL,32073,US
+Palm Beaches,Skilled Nursing Facility,301 Northpointe Parkway,Parkway West Palm Beach Palm,Beach,FL,33407,US
+Pensacola (Park Place),Skilled Nursing Facility,1717 West Avery,Avery Street Pensacola,Escambia,FL,32501,US
+Pompano,Skilled Nursing Facility,51 West Sample,Sample Road Pompano Beach,Broward,FL,33064,US
+Sanford,Skilled Nursing Facility,950 Mellonville Avenue Sanford,Sanford,Seminole,FL,32771,US
+Sarasota,Skilled Nursing Facility,1524 East Avenue South,South Sarasota,Sarasota,FL,34239,US
+Savannas Park (Emerald),Skilled Nursing Facility,1655 Southeast Walton,Walton Road Port St. Lucie Saint,Lucie,FL,34952,US
+Scott Lake,Skilled Nursing Facility,800 Highway 540A E Lakeland,Lakeland,Polk,FL,33803,US
+South Heritage,Skilled Nursing Facility,718 Lakeview Avenue South,South St. Petersburg,Pinellas,FL,33705,US
+South Orange (Terra Vista),Skilled Nursing Facility,1730 Lucerne Terrace,Terrace Orlando,Orange,FL,32806,US
+Southside,Independent Living Facility,9601 Southbrook Drive Jacksonville,Jacksonville,Duval,FL,32256,US
+Tampa,Skilled Nursing Facility,4411 North Habana,Habana Avenue Tampa,Hillsborough,FL,33614,US
+Tampa Lakes,Skilled Nursing Facility,750 Hayes Road Lutz,Lutz,Hillsborough,FL,33549,US
+Tarpon Bayou (Peninsula),Skilled Nursing Facility,515 Chesapeake Dr.,Dr. Tarpon Springs,Pinellas,FL,34689,US
+The Brookshire (Catalina Gardens),Assisted Living Facility,85 Bulldog Boulevard Melbourne,Melbourne,Brevard,FL,32901,US
+The Fairway (Fairway Sun 'n' Pines/Sebring),Assisted Living Facility,5959 Sun 'N,'N Lake Blvd Sebring,Highlands,FL,33872,US
+Titusville,Skilled Nursing Facility,1705 Jess Parrish,Parrish Court Titusville,Brevard,FL,32796,US
+Treasure Isle,Skilled Nursing Facility,1735 North Treasure,Treasure Drive North Bay Village,Miami-Dade,FL,33141,US
+Valencia Hills Health & Rehab Ctr,Skilled Nursing Facility,1350 Sleepy Hill,Hill Road Lakeland,Polk,FL,33810,US
+Windsor Woods,Skilled Nursing Facility,13719 Dallas Drive Hudson,Hudson,Pasco,FL,34667,US
+Winkler Court,Skilled Nursing Facility,3250 Winkler Avenue Exten,Exten Fort Meyers,Lee,FL,33916,US
+Winter Haven,Skilled Nursing Facility,202 Avenue O,O NE Winter Haven,Polk,FL,33881,US
+Barrington Terrace,Assisted Living Facility,5175 Tamiami Trail,Trail East Naples,Collier,FL,34113,US
+Grand Villa of Port Charlotte,Assisted Living Facility,2500 Aaron Street Port,Port Charlotte,Charlotte,FL,33952,US
+Bonterra Nursing Center,Skilled Nursing Facility,2801 Felton Drive East,East Point,Fulton,GA,30344,US
+Brighton Gardens of Buckhead,Assisted Living Facility,3088 Lenox Rd,Rd NE Atlanta,Fulton,GA,30324,US
+Cordelia Manor,Assisted Living Facility,1307 Blackshear Road Cordele,Cordele,Crisp,GA,31015,US
+Fellowship Home at Brookside,Assisted Living Facility,470 Fellowship Home,Home Lane Valdosta,Lowndes,GA,31602,US
+Fellowship Home at Nashville,Assisted Living Facility,1207 E. McPherson,McPherson Ave. Nashville,Lowndes,GA,31602,US
+Macon Rehab & Healthcare (fka Laurel Baye Macon),Skilled Nursing Facility,505 Coliseum Dr,Dr Macon,Bibb,GA,31217,US
+Parkview (Legacy),Skilled Nursing Facility,460 Auburn Avenue Atlanta,Atlanta,Fulton,GA,30312,US
+Scepter (Parkside) (Snellville SNF),Skilled Nursing Facility,3000 Lenora Church,Church Road SW Snellville,Gwinnitt,GA,30078,US
+Toccoa,Skilled Nursing Facility,633 Falls Road Toccoa,Toccoa,Stephens,GA,30577,US
+,Skilled Nursing Facility,112 Hospital Drive Washington,Washington,Wilkes,WA,30673,US
+Chapters Buford,Assisted Living Facility,4355 S Lee,Lee Street Buford,Gwinnett,WA,30518,US
+Chapters Canton,Assisted Living Facility,125 Riverstone Terrace,Terrace Canton,Cherokee,WA,30114,US
+Arbor Valley (fka Capital Care/Apex),Skilled Nursing Facility,8211 Ustick Road Boise,Boise,Ada,ID,83704,US
+Cherry Ridge (fka Emmett Canyon),Skilled Nursing Facility,501 West Idaho,Idaho Boulevard Emmett,Gem,ID,83617,US
+Payette,Skilled Nursing Facility,1019 Third Avenue South,South Payette,Payette,ID,83661,US
+Royal Plaza (Lewiston),Skilled Nursing Facility,2870 Juniper Drive Lewiston,Lewiston Nez,Perce,ID,83501,US
+Teton (Idaho Falls),Skilled Nursing Facility,3111 Channing Way Idaho,Idaho,Bonneville,ID,83404,US
+Twin Falls Care Center,Skilled Nursing Facility,674 Eastland Drive Twin,Twin Falls Twin,Falls,ID,83301,US
+Orchard View,Skilled Nursing Facility,1014 Burrell Avenue Lewiston,Lewiston Nez,Perce,ID,83501,US
+Friendship Village ALF,Assisted Living Facility,350 W Schaumburg,Schaumburg Road Schaumburg,Cook,IL,60194,US
+Friendship Village ILF,Independent Living Facility,350 W Schaumburg,Schaumburg Road Schaumburg,Cook,IL,60194,US
+Friendship Village Memory Care,Assisted Living Facility,350 W Schaumburg,Schaumburg Road Schaumburg,Cook,IL,60194,US
+Friendship Village SNF,Skilled Nursing Facility,350 W Schaumburg,Schaumburg Road Schaumburg,Cook,IL,60194,US
+Orland Park,Assisted Living Facility,16051 South La,La Grange Road Orland Park,Cook,IL,60467,US
+Allison Pointe,Skilled Nursing Facility,5226 E. 82nd Street Indianapolis,Indianapolis,Hamilton,IN,46250,US
+American Village Harrison Hall,Skilled Nursing Facility,2026 E 54th St.,St. Indianapolis,Marion,IN,46220,US
+American Village Lincoln Lodge,Independent Living Facility,2026 E 54th St.,St. Indianapolis,Marion,IN,46220,US
+American Village Patriot Place,Independent Living Facility,2026 E 54th St.,St. Indianapolis,Marion,IN,46220,US
+American Village Washington Manor,Assisted Living Facility,2026 E 54th St.,St. Indianapolis,Marion,IN,46220,US
+Arbor Grove Village,Skilled Nursing Facility,1021 East Central,Central Avenue Greensburg,Decatur,IN,47240,US
+Autumn Ridge,Skilled Nursing Facility,600 Washington St,St Wabash,Wabash,IN,46992,US
+Avalon Village,Skilled Nursing Facility,200 Kingston Circle Drive Ligonier,Ligonier,Noble,IN,46767,US
+Beech Grove ILF,Independent Living Facility,2002 Albany St.,St. Beech Grove,Marion,IN,46107,US
+Beech Grove SNF,Skilled Nursing Facility,2002 Albany St.,St. Beech Grove,Marion,IN,46107,US
+Bridgewater,Skilled Nursing Facility,14751 Carey Road Carmel,Carmel,Hamilton,IN,46033,US
+Brookville Healthcare Center,Skilled Nursing Facility,11049 State Road 101 Brookville,Brookville,Franklin,IN,47012,US
+Caroleton Rehab & Healthcare (fka Trinity Mission Connorsville),Skilled Nursing Facility,2500 Iowa Avenue Connersville,Connersville,Fayette,IN,47331,US
+Charlestown Place (Providence),Skilled Nursing Facility,4915 Charlestown Road New,New Albany,Floyd,IN,47150,US
+Clinton Gardens,Skilled Nursing Facility,375 S 11th St,St Clinton,Vermillion,IN,47842,US
+DeKalb,Skilled Nursing Facility,520 West Liberty,Liberty Street Butler,DeKalb,IN,46721,US
+Dyer,Skilled Nursing Facility,2300 Great Lakes,Lakes Drive Dyer,Lake,IN,46311,US
+Eagle Valley Meadows,Skilled Nursing Facility,2233 W Jefferson,Jefferson St. Indianapolis,Marion,IN,46227,US
+Edgewater Woods,Skilled Nursing Facility,1809 N Madison,Madison Ave Anderson,Madison,IN,46011,US
+Evergreen Crossings,Skilled Nursing Facility,5404 Georgetown Road Indianapolis,Indianapolis,Hamilton,IN,46254,US
+Forest Creek Village,Skilled Nursing Facility,525 E Thompson,Thompson Rd. Indianapolis,Marion,IN,46214,US
+Franklin Meadows,Skilled Nursing Facility,1285 W Jefferson,Jefferson St. Franklin,Johnson,IN,46131,US
+Greenfield,Skilled Nursing Facility,200 Green Meadows,Meadows Drive Greenfield,Hancock,IN,46140,US
+Greenwood,Skilled Nursing Facility,377 Westridge Boulevard Greenwood,Greenwood,Johnson,IN,46142,US
+Harcourt Terrace (Greenbriar),Skilled Nursing Facility,8181 Harcourt Road Indianapolis,Indianapolis,Marion,IN,46260,US
+Harrison,Skilled Nursing Facility,150 Beechmont Drive Corydon,Corydon,Harrison,IN,47112,US
+Harrison Terrace (Wellington),Skilled Nursing Facility,1924 Wellesley Boulevard Indianapolis,Indianapolis,Marion,IN,46219,US
+Heritage Park ALF,Assisted Living Facility,2001 Hobson Rd.,Rd. Fort Wayne,Allen,IN,46805,US
+Heritage Park ILF-GH,Independent Living Facility,2001 Hobson Rd.,Rd. Fort Wayne,Allen,IN,46805,US
+Heritage Park SNF,Skilled Nursing Facility,2001 Hobson Rd.,Rd. Fort Wayne,Allen,IN,46805,US
+Hillcrest Centre for Health & Rehab,Skilled Nursing Facility,203 Sparks Ave.,Ave. Jeffersonville,Clark,IN,47130,US
+Kokomo,Skilled Nursing Facility,429 W. Lincoln,Lincoln Road Kokomo,Howard,IN,46902,US
+Lowell Health Care Center,Skilled Nursing Facility,710 Michigan Ave.,Ave. Lowell,Lake,IN,46356,US
+Maple Park Village,Skilled Nursing Facility,776 N Union,Union St Westfield,Hamilton,IN,46074,US
+Monticello Asst. Living & Healthcare,Skilled Nursing Facility,1120 N Main,Main St. Monticello,White,IN,47960,US
+North Woods Village,Skilled Nursing Facility,2233 W Jefferson,Jefferson St. Kokomo,Howard,IN,46901,US
+Riverside Village,Skilled Nursing Facility,1400 W Franklin,Franklin Elkhart,Elkhart,IN,46516,US
+Riverview Village,Skilled Nursing Facility,586 Eastern Blvd.,Blvd. Clarksville,Clark,IN,47129,US
+Riverwalk Village,Skilled Nursing Facility,295 Westfield Rd.,Rd. Nobleville,Hamilton,IN,46060,US
+Rolling Hills,Skilled Nursing Facility,3625 St. Joseph,Joseph Road New Albany,Floyd,IN,47150,US
+Rosegate Village (Rosebud),Skilled Nursing Facility,2050 Chester Boulevard Richmond,Richmond,Wayne,IN,47374,US
+Rosewalk at Lutherwoods ALF,Assisted Living Facility,1302 N Lesley,Lesley Ave. Indianapolis,Marion,IN,46219,US
+Rosewalk Village - Lafayette,Skilled Nursing Facility,1903 Union St.,St. Lafayette,Tippecanoe,IN,47904,US
+Rosewalk Village of Indianapolis,Skilled Nursing Facility,1302 N Lesley,Lesley Ave. Indianapolis,Marion,IN,46219,US
+Salem Crossing,Skilled Nursing Facility,200 Connie Ave,Ave Salem,Washington,IN,47167,US
+Sellersburg,Skilled Nursing Facility,7823 Old Hwy,Hwy #60 Sellersburg,Clark,IN,47172,US
+Seymour Crossing,Skilled Nursing Facility,707 S Jackson,Jackson Park Dr Seymour,Jackson,IN,47274,US
+Southpointe,Skilled Nursing Facility,4904 War Admiral,Admiral Drive Indianapolis,Hamilton,IN,46237,US
+Southwood,Skilled Nursing Facility,2222 Margaret Avenue Terre,Terre Haute,Vigo,IN,47802,US
+Spring Mill Meadows ILF- GH,Independent Living Facility,2140 W 86th St.,St. Indianapolis,Marion,IN,46260,US
+Spring Mill Meadows SNF,Skilled Nursing Facility,2140 W 86th St.,St. Indianapolis,Marion,IN,46260,US
+Springhill Village,Skilled Nursing Facility,1001 E Springhill,Springhill Dr. Terre Haute,Vigo,IN,47802,US
+Summit City,Skilled Nursing Facility,2940 North Clinton,Clinton Street Fort Wayne,Allen,IN,46805,US
+Timbers of Jasper,Skilled Nursing Facility,2909 Howard Dr,Dr Jasper,Dubois,IN,47546,US
+University Nursing Center,Skilled Nursing Facility,1564 S. University,University Blvd Upland,Grant,IN,46989,US
+Valley View,Skilled Nursing Facility,333 W. Mishawaka,Mishawaka Road Elkhart,Elkhart,IN,46517,US
+Health Care,Skilled Nursing Facility,8201 W. Washington,Washington St. Indianapolis,Marion,WA,46237,US
+Wedgewood,Skilled Nursing Facility,101 Potters Lane Clarksville,Clarksville,Clark,WA,47129,US
+Whitewater Commons Senior Living,Skilled Nursing Facility,215 West High,High Street Liberty,Union,WA,47353,US
+Wildwood,Skilled Nursing Facility,7301 E. 16th Street Indianapolis,Indianapolis,Hamilton,WA,46219,US
+Williamsport,Skilled Nursing Facility,200 Short Street Williamsport,Williamsport,Warren,WA,47993,US
+Zionsville Meadows ALF,Assisted Living Facility,675 S Ford,Ford Rd. Zionsville,Boone,WA,46077,US
+Zionsville Meadows ILF-GH,Independent Living Facility,675 S Ford,Ford Rd. Zionsville,Boone,WA,46077,US
+Zionsville Meadows SNF,Skilled Nursing Facility,675 S Ford,Ford Rd. Zionsville,Boone,WA,46077,US
+Hawthorne (Madison),Skilled Nursing Facility,7465 S. Madison,Madison Avenue Indianapolis,Marion,WA,46227,US
+Heritage,Skilled Nursing Facility,200 Clive Dr.,Dr. SW Cedar Rapids,Linn,IA,52404,US
+Linn Haven (New Hampton),Skilled Nursing Facility,530 South Linn,Linn Avenue New Hampton,Chickasaw,IA,50659,US
+Creston (Crest Haven),Skilled Nursing Facility,1000 East Howard,Howard Street Creston,Union,IA,50801,US
+Muscatine,Skilled Nursing Facility,3440 Mulberry Ave,Ave Muscatine,Muscatine,IA,52761,US
+Onawa (Elmwood),Skilled Nursing Facility,222 15th Street Onawa,Onawa,Monona,IA,51040,US
+Rock Rapids ALF (Premiere Estates),Assisted Living Facility,1510 South Carroll,Carroll Street Rock Rapids,Lyon,IA,51246,US
+Toledo,Skilled Nursing Facility,403 Grandview Drive Toledo,Toledo,Tama,IA,52342,US
+Jersey La Haule,Assisted Living Facility,La Route de,de L'Isle St. Brelade Contra Costa,JE3,IA,8BF,US
+Silver Springs,Assisted Living Facility,La Route des,des Genets St. Brelade Contra Costa,JE3,IA,8DB,US
+Arma,Skilled Nursing Facility,605 East Melvin,Melvin Street Arma,Crawford,KS,66712,US
+Colby,Skilled Nursing Facility,105 East College,College Drive Colby,Thomas,KS,67701,US
+Hutchinson,Skilled Nursing Facility,2301 North Severance,Severance Hutchinson,Reno,KS,67502,US
+Lakewood Heights,Skilled Nursing Facility,1319 South Seville,Seville Street Wichita,Sedgwick,KS,67209,US
+Lakewood of Haviland,Skilled Nursing Facility,200 North Main,Main Street Haviland,Kiowa,KS,67059,US
+Lakewood of Pratt,Skilled Nursing Facility,1221 Larimer Street Pratt,Pratt,Pratt,KS,67124,US
+Legacy Park,Skilled Nursing Facility,407 North Locust,Locust Street Peabody,Marion,KS,66866,US
+McPherson,Skilled Nursing Facility,1601 North Main,Main Street McPherson,McPherson,KS,67460,US
+Onaga,Skilled Nursing Facility,500 Western Street Onaga,Onaga,Pottawatomie,KS,66521,US
+Oswego,Skilled Nursing Facility,1104 Ohio Street Oswego,Oswego,Labette,KS,67356,US
+Smith Center,Skilled Nursing Facility,117 West 1st Street Smith,Smith Center,Smith,KS,66967,US
+Wellington,Skilled Nursing Facility,1600 West 8th Street Wellington,Wellington,Sumner,KS,67152,US
+Clinton County Care and Rehabilitation,Skilled Nursing Facility,404 Washington Street Albany,Albany,Clinton,KY,42602,US
+Gallatin,Skilled Nursing Facility,499 Center Street Warsaw,Warsaw,Gallatin,KY,41095,US
+Hermitage Care & Rehab,Skilled Nursing Facility,1614 West Parrish,Parrish Avenue Owensboro,Daviess,KY,42301,US
+Homestead Lexington,Skilled Nursing Facility,1608 Versailles Road Lexington,Lexington,Fayette,KY,40504,US
+Homestead New Castle,Skilled Nursing Facility,50 Adams Street New,New Castle,Henry,KY,40050,US
+Lee County Care & Rehab,Skilled Nursing Facility,246 East Main,Main Street Beattyville,Lee,KY,41311,US
+Mayfair Manor Care & Rehabilitation,Skilled Nursing Facility,3300 Tates Creek,Creek Road Lexington,Fayette,KY,40502,US
+Morgantown Care & Rehab,Skilled Nursing Facility,206 South Warren,Warren Street Morgantown,Butler,KY,42261,US
+Mountain Manor of Prestonsburg,Skilled Nursing Facility,147 N. Highland,Highland Avenue Prestonsburg,Floyd,KY,41653,US
+Pine Meadows,Skilled Nursing Facility,1608 Hill Rise,Rise Drive Lexington,Fayette,KY,40504,US
+Riverview Manor,Skilled Nursing Facility,79 Sparrow Lane Prestonsburg,Prestonsburg,Floyd,KY,41653,US
+Signature Healthcare of East Louisville,Skilled Nursing Facility,2529 Six Mile,Mile Lane Louisville,Jefferson,KY,40220,US
+Signature Healthcare of Georgetown,Skilled Nursing Facility,102 Pocahontas Trail,Trail Georgetown,Scott,KY,40324,US
+Signature Healthcare of South Louisville,Skilled Nursing Facility,1120 Cristland Road Louisville,Louisville,Jefferson,KY,40214,US
+The Oaks,Assisted Living Facility,1010 Richwood Way LaGrange,LaGrange,Oldham,KY,40031,US
+The Richwood,Skilled Nursing Facility,1012 Richwood Way LaGrange,LaGrange,Oldham,KY,40031,US
+Twin Oaks,Assisted Living Facility,98 Adams Street New,New Castle,Henry,KY,40050,US
+Valley View Health Care and Rehab (Spencer Co.),Skilled Nursing Facility,625 Taylorsville Road Taylorsville,Taylorsville,Spencer,KY,40071,US
+Claiborne,Skilled Nursing Facility,1536 Claiborne Shreveport,Shreveport,Caddo,LA,71103,US
+Columns CCC,Skilled Nursing Facility,3025 Fourth Street Jonesville,Jonesville,Catahoula,LA,71343,US
+Garden Court,Skilled Nursing Facility,4405 Airline Drive Bossier,Bossier City,Bossier,LA,71111-2058,US
+Gonzales,Skilled Nursing Facility,905 West Cornerview,Cornerview Road Gonzales,Ascension,LA,70737,US
+Heritage - Bossier,Skilled Nursing Facility,2575 Airline Drive Bossier,Bossier City,Bossier,LA,71111-5812,US
+Kaplan,Skilled Nursing Facility,1300 West 8th Street Kaplan,Kaplan,Vermillion,LA,70548,US
+Many North,Skilled Nursing Facility,120 Natchitoches Hwy,Hwy 6 East Many,Sabine,LA,71449,US
+Marrero,Skilled Nursing Facility,5301 August Lane Marrero,Marrero,Jefferson,LA,70072,US
+Meadowview,Skilled Nursing Facility,400 Meadowview Drive Minden,Minden,Webster,LA,71055,US
+New Iberia Manor North,Skilled Nursing Facility,1803 Jane Street New,New Iberia,Iberia,LA,70563,US
+New Iberia Manor South,Skilled Nursing Facility,600 Bayard Street New,New Iberia,Iberia,LA,70560,US
+Oak Haven CCC,Skilled Nursing Facility,1515 Highway 107 Center,Center Point,Avoyelles,LA,71323,US
+Patterson,Skilled Nursing Facility,910 Lia Street Patterson,Patterson St.,Mary,LA,70392,US
+Pierremont,Skilled Nursing Facility,725 Mitchell Lane Shreveport,Shreveport,Caddo,LA,71106,US
+St. Clare Manor,Skilled Nursing Facility,7435 Bishop Ott,Ott Drive Baton Rouge East Baton,Rouge,LA,70806,US
+Thibodaux ALF (Maison Bienvenue),Assisted Living Facility,152 Percy Brown,Brown Road Thibodaux,Lafourche,LA,70301,US
+Thibodaux New SNF,Skilled Nursing Facility,150 Percy Brown,Brown Road Thibodaux,Lafourche,LA,70301,US
+Vivian,Skilled Nursing Facility,912 South Pecan,Pecan Street Vivian,Caddo,LA,71082,US
+Anchorage Nursing & Rehab Center,Skilled Nursing Facility,105 Times Square,Square Salisbury,Wicomico,MD,21801,US
+Blue Point Nursing & Rehab,Skilled Nursing Facility,2525 West Belvedere,Belvedere Baltimore Baltimore,City,MD,21215,US
+Clinton Nursing & Rehab,Skilled Nursing Facility,9211 Stuart Lane Clinton,Clinton Prince,Georges,MD,20735,US
+Ellicott City Health & Rehab Center,Skilled Nursing Facility,3000 North Ridge,Ridge Road Ellicott City,Howard,MD,21043,US
+Forestville Health & Rehab Center,Skilled Nursing Facility,7420 Marlboro Pike,Pike Forestville Prince,Georges,MD,20747,US
+Holly Hills,Skilled Nursing Facility,531 Stevenson Lane Towson,Towson,Baltimore,MD,21286,US
+Kensington Nursing & Rehab,Skilled Nursing Facility,3000 McComas Avenue Kensington,Kensington,Montgomery,MD,20895,US
+Laurelwood Care Center at Elkton,Skilled Nursing Facility,100 Laurel Drive Elkton,Elkton,Cecil,MD,21921,US
+Northwest Health & Rehab Center,Skilled Nursing Facility,4601 Pall Mall,Mall Road Baltimore Baltimore,City,MD,21215,US
+Pleasant View,Skilled Nursing Facility,4101 Baltimore National,National Pike Mount Airy,Carroll,MD,21771,US
+South River Health & Rehab,Skilled Nursing Facility,144 Washington Road Edgewater,Edgewater Anne,Arundel,MD,21037,US
+Silver Spring,Skilled Nursing Facility,13908 New Hampshire,Hampshire Avenue Silver Spring,Montgomery,MD,20904,US
+Brewster,Assisted Living Facility,0 Harwich Road Brewster,Brewster,Barnstable,MA,02631,US
+Mayflower ALF,Assisted Living Facility,579 Buck Island,Island Road West Yarmouth,Barnstable,MA,02673,US
+Mayflower SNF,Skilled Nursing Facility,579 Buck Island,Island Road West Yarmouth,Barnstable,MA,02673,US
+Mill Hill Residence (Vara),Assisted Living Facility,164 MA 28 West,West Yarmouth,Barnstable,MA,02673,US
+Norumbega Point,Assisted Living Facility,99 Norumbega Rd.,Rd. Weston,Middlesex,MA,02493,US
+Autumnwood of McBain,Skilled Nursing Facility,220 Hughston St.,St. McBain,Missaukee,MI,49657,US
+Brittany Manor,Skilled Nursing Facility,3615 East Ashman,Ashman Street Midland,Midland,MI,48642,US
+Carson City,Skilled Nursing Facility,620 N. Second,Second Street Carson City,Montcalm,MI,48811,US
+Chene,Skilled Nursing Facility,2295 East Vernor,Vernor Highway Detroit,Wayne,MI,48207,US
+Christian Park H.C.C.,Skilled Nursing Facility,2415 Fifth Avenue South,South Escanaba,Delta,MI,49829,US
+Christian Park Village,Skilled Nursing Facility,2525 Seventh Avenue South,South Escanaba,Delta,MI,49829,US
+Coldwater,Skilled Nursing Facility,90 North Michigan,Michigan Avenue Coldwater,Branch,MI,49036,US
+Courtney Manor,Skilled Nursing Facility,1167 Eas Hopson,Hopson St. Bad Axe,Huron,MI,48413,US
+Ely Manor,Skilled Nursing Facility,1200 Ely St,St Allegan,Allegan,MI,49010,US
+Fremont (Transitional Health),Skilled Nursing Facility,4554 West 48th Street Fremont,Fremont,Newaygo,MI,49412,US
+Fulton,Skilled Nursing Facility,4735 Ranger Road Perrinton,Perrinton,Gratiot,MI,48871,US
+Galesburg,Skilled Nursing Facility,1080 North 35th Street Galesburg,Galesburg,Kalamazoo,MI,49053,US
+Hartford,Skilled Nursing Facility,6700 Outer Drive Detroit,Detroit,Wayne,MI,48235,US
+Hickory,Skilled Nursing Facility,951 Hickory Creek,Creek Blvd. Temperance,Monroe,MI,48182,US
+Hudsonville,Skilled Nursing Facility,3650 Van Buren,Buren Road Hudsonville,Ottawa,MI,49426,US
+Kent,Skilled Nursing Facility,350 North Center,Center Street Lowell,Kent,MI,49331,US
+Kith Haven,Skilled Nursing Facility,G-1069 Ballenger Highway,Highway Flint,Genesee,MI,48504,US
+Manor of Farmington,Skilled Nursing Facility,21017 Middlebelt Rd.,Rd. Farmington Hills,Oakland,MI,48336,US
+Manor of Novi,Skilled Nursing Facility,24500 Meadowbrook Novi,Novi,Oakland,MI,48375,US
+Maplewood of Sandy Creek,Assisted Living Facility,425 East Elm,Elm Street Wayland,Allegan,MI,49348,US
+Mt. Pleasant,Skilled Nursing Facility,400 South Crapo,Crapo Street Mt. Pleasant,Isabella,MI,48858,US
+Ovid Healthcare,Skilled Nursing Facility,9480 E M-21,M-21 Ovid,Clinton,MI,48866,US
+Regency at Bluffs Park,Skilled Nursing Facility,355 Huronview Blvd.,Blvd. Ann Arbor,Washtenaw,MI,48103,US
+Regency at Lansing West,Skilled Nursing Facility,12200 Broadbent Road Lansing,Lansing,Clinton,MI,48917,US
+Regency at Waterford,Skilled Nursing Facility,1901 N Telegraph,Telegraph Road Waterford,Oakland,MI,48328,US
+Regency at Whitmore Lake,Skilled Nursing Facility,8633 Main St.,St. Whitmore Lake,Washtenaw,MI,48189,US
+Regency Heights Detroit,Skilled Nursing Facility,19100 West Seven,Seven Mile Rd. Detroit,Wayne,MI,48219,US
+Royalton,Skilled Nursing Facility,288 Peace Blvd.,Blvd. St. Joseph,Berrien,MI,49085,US
+Sandy Creek,Skilled Nursing Facility,425 East Elm,Elm Street Wayland,Allegan,MI,49348,US
+Troy,Skilled Nursing Facility,2785 W. Maple,Maple Road Troy,Oakland,MI,48084,US
+West Bloomfield (Notting Hill),Skilled Nursing Facility,6535 Drake Rd.,Rd. West Bloomfield,Oakland,MI,48322,US
+Willowbrook,Skilled Nursing Facility,4436 Beecher Road Flint,Flint,Genesee,MI,48532,US
+Auburn Hills,Assisted Living Facility,3151 Walton Boulevard Auburn,Auburn Hills,Oakland,MI,48326,US
+Allegra,Skilled Nursing Facility,434 W North,North Street Jackson,Jackson,MI,49202,US
+Aria,Skilled Nursing Facility,707 Armstrong Road Lansing,Lansing,Ingham,MI,48911,US
+North Ridge ALF,Assisted Living Facility,5500 Boone Avenue North,North New Hope,Hennepin,MN,55428,US
+North Ridge Apts,Independent Living Facility,5500 Boone Avenue North,North New Hope,Hennepin,MN,55428,US
+North Ridge CC,Skilled Nursing Facility,5430 Boone Avenue North,North New Hope,Hennepin,MN,55428,US
+Columbia,Skilled Nursing Facility,1506 North Main,Main Street Columbia,Marion,MS,39429,US
+Cornerstone,Skilled Nursing Facility,302 Alcorn Drive Corinth,Corinth,Alcorn,MS,38834,US
+Courtyard,Skilled Nursing Facility,501 S. Locust,Locust Street McComb,Pike,MS,39648-4336,US
+Crystal,Skilled Nursing Facility,902 John Pittman,Pittman Drive Greenwood,Leflore,MS,38930,US
+Delta,Skilled Nursing Facility,200 Martin Luther,Luther King Drive Cleveland,Bolivar,MS,38732,US
+Great Oaks,Skilled Nursing Facility,111 Chase Street Byhalia,Byhalia,Marshall,MS,38611,US
+Grenada,Skilled Nursing Facility,1966 Hill Drive Grenada,Grenada,Grenada,MS,38901,US
+Hilltop Manor,Skilled Nursing Facility,101 Kirkland Street Union,Union,Neshoba,MS,39365-3205,US
+Holly Springs,Skilled Nursing Facility,1315 Highway 4 East,East Holly Springs,Marshall,MS,38635,US
+Indianola,Skilled Nursing Facility,401 US Highway,Highway 82 West Indianola,Sunflower,MS,38751,US
+Natchez,Skilled Nursing Facility,344 Arlington Avenue Natchez,Natchez,Adams,MS,39120,US
+Oaks,Skilled Nursing Facility,3716 Highway 39 North,North Meridian,Lauderdale,MS,39301-1013,US
+Picayune,Skilled Nursing Facility,1620 Read Road Picayune,Picayune Pearl,River,MS,39466,US
+Starkville Manor,Skilled Nursing Facility,1001 Hospital Road Starkville,Starkville,Oktibbeha,MS,39759-2125,US
+The Bluffs,Skilled Nursing Facility,2850 Porters Chapel,Chapel Road Vicksburg,Warren,MS,39180,US
+West Point Community Living Center,Skilled Nursing Facility,2056 North Eshman,Eshman Avenue West Point,Clay,MS,39773,US
+Woodlands,Skilled Nursing Facility,102 Woodchase Park,Park Drive Clinton,Hinds,MS,39056,US
+Yazoo City,Skilled Nursing Facility,925 Calhoun Avenue Yazoo,Yazoo City,Yazoo,MS,39194,US
+Grand Trace (Glenburney),Skilled Nursing Facility,555 John R.,R. Junkin Drive Natchez,Adams,MS,39120-4709,US
+Middleton Oaks (Winona),Skilled Nursing Facility,627 Middleton Road Winona,Winona,Montgomery,MS,38967-2021,US
+Grandview Healthcare Center,Skilled Nursing Facility,201 Grand Avenue Washington,Washington,Franklin,MO,63090,US
+Hot Springs,Skilled Nursing Facility,600 First Avenue North,North Hot Springs,Sanders,MT,59845,US
+Polson,Skilled Nursing Facility,9 14th Avenue West,West Polson,Lake,MT,59860,US
+North Platte,Skilled Nursing Facility,2900 West E Street North,North Platte,Lincoln,NE,69101,US
+Kenesaw (Haven Home),Skilled Nursing Facility,100 West Elm,Elm Street Kenesaw,Adams,NE,68956,US
+Pierce,Skilled Nursing Facility,515 East Main,Main Street Pierce,Pierce,NE,68767,US
+Desert Lane Care Center,Skilled Nursing Facility,660 Martin L,L King Boulevard Las Vegas,Clark,NV,89106,US
+Gardnerville,Skilled Nursing Facility,1573 Muller Parkway,Parkway Gardnerville,Douglas,NV,89410,US
+Mountain View,Skilled Nursing Facility,201 Koontz Lane Carson,Carson City Carson,City,NV,89701,US
+North Las Vegas Care Center,Skilled Nursing Facility,3215 East Cheyenne,Cheyenne Ave. North Las Vegas,Clark,NV,89030,US
+(Oceanside) Seacoast,Skilled Nursing Facility,22 Tuck Road Hampton,Hampton,Rockingham,NH,03842,US
+Elmwood (Claremont),Skilled Nursing Facility,RFD 3 Box,"Box 47, Highway 120 North Hanover",Sullivan,NH,03743,US
+Partridge House,Assisted Living Facility,777 (779 per,per Tax Assessor) Lafayette Road (22 Tuck Rd) Hampton,Rockingham,NH,03842,US
+Hillsborough,Assisted Living Facility,600 Auten Road Hillsborough,Hillsborough Township,Somerset,NJ,08844,US
+Princeton,Assisted Living Facility,1 Hospital Drive Plainsboro,Plainsboro Township,Middlesex,NJ,08536,US
+Bloomfield,Skilled Nursing Facility,803 Hacienda Lane Bloomfield,Bloomfield San,Juan,NM,87413,US
+Casa Real,Skilled Nursing Facility,1650 Galisteo Street Santa,Santa Fe Santa,Fe,NM,87505,US
+Clayton,Skilled Nursing Facility,419 Harding Street Clayton,Clayton,Union,NM,88415,US
+Red Rocks,Skilled Nursing Facility,3720 Church Rock,Rock Street Gallup,McKinley,NM,87301,US
+Silver City,Skilled Nursing Facility,3514 Fowler Avenue Silver,Silver City,Grant,NM,88061,US
+Albuquerque Heights,Skilled Nursing Facility,103 Hospital Loop,Loop NE Albuquerque,Bernalillo,NM,87109,US
+Canyon Transitional Rehab,Skilled Nursing Facility,10101 Lagrima De,De Oro N.E. Albuquerque,Bernalillo,NM,87111,US
+Maplewood 2nd Avenue,Assisted Living Facility,1802-1810 2nd Avenue New,New York,Bronx,NY,10128,US
+Abbotts Creek,Skilled Nursing Facility,877 Hill Everhart,Everhart Road Lexington,Davidson,NC,27295,US
+Alexandria Place (Gastonia),Skilled Nursing Facility,1770 Oak Hollow,Hollow Road Gastonia,Gaston,NC,28054,US
+Alston Brook (Davidson),Skilled Nursing Facility,4748 Old Salisbury,Salisbury Rd Lexington,Davidson,NC,27295,US
+Autumn Care of Biscoe,Skilled Nursing Facility,401 Lambert Road Biscoe,Biscoe,Montgomery,NC,27209,US
+Autumn Care of Cornelius,Skilled Nursing Facility,19530 Mt. Zion,Zion Parkway Cornelius,Cumberland,NC,28031,US
+Autumn Care of Drexel,Skilled Nursing Facility,307 Oakland Avenue Drexel,Drexel,Burke,NC,28619,US
+Autumn Care of Fayetteville,Skilled Nursing Facility,1401 71st School,School Road Fayetteville,Cumberland,NC,28314,US
+Autumn Care of Marion,Skilled Nursing Facility,1264 Airport Road Marion,Marion,McDowell,NC,28752,US
+Autumn Care of Marshville,Skilled Nursing Facility,311 W. Phifer,Phifer Street Marshville,Union,NC,28103,US
+Autumn Care of Myrtle Grove,Skilled Nursing Facility,5725 Carolina Beach,Beach Road Wilmington New,Hanover,NC,28412,US
+Autumn Care of Nash,Skilled Nursing Facility,1210 Eastern Avenue Nashville,Nashville,Nash,NC,27856,US
+Autumn Care of Raeford,Skilled Nursing Facility,1206 N. Fulton,Fulton Street Raeford,Hoke,NC,28376,US
+Autumn Care of Salisbury,Skilled Nursing Facility,1505 Bringle Ferry,Ferry Road Salisbury,Rowan,NC,28145,US
+Autumn Care of Saluda,Skilled Nursing Facility,501 Esseola Drive Saluda,Saluda,Polk,NC,28773,US
+Autumn Care of Shallotte,Skilled Nursing Facility,237 Mulberry Street Shallotte,Shallotte,Brunswick,NC,28470,US
+Autumn Care of Waynesville,Skilled Nursing Facility,360 Old Balsam,Balsam Road Waynesville,Haywood,NC,28786,US
+Brightmoor (Piedmont),Skilled Nursing Facility,610 W Fisher,Fisher St Salisbury,Rowan,NC,28144,US
+Brunswick,Skilled Nursing Facility,9600 No 5 School,School Road Ash,Columbus,NC,28420,US
+Carrington Place (Matthews),Skilled Nursing Facility,600 Fullwood Lane Matthews,Matthews,Mecklenburg,NC,28105,US
+Chatham,Skilled Nursing Facility,72 Chatham Business,Business Drive Pittsboro,Chatham,NC,27312,US
+Davie Health & Rehab (Mocksville New Build),Skilled Nursing Facility,498 Madison Road Mocksville,Mocksville,Davie,NC,27028,US
+Emerald Ridge,Skilled Nursing Facility,25 Reynolds Mountain,Mountain Boulevard Woodfin,Buncombe,NC,28804,US
+Forest Glen,Skilled Nursing Facility,1101 Hartwell Street Garner,Garner,Wake,NC,27529,US
+Forrest Oakes,Skilled Nursing Facility,620 Heathwood Drive Albemarle,Albemarle,Stanly,NC,28001-8604,US
+Green Tree Ridge,Skilled Nursing Facility,70 Sweeten Creek,Creek Road Asheville,Buncombe,NC,28803,US
+Kannapolis,Skilled Nursing Facility,1810 Concord Lake,Lake Road Kannapolis,Cabarrus,NC,28083-6434,US
+Lotus Village (Allegheny),Skilled Nursing Facility,179 Combs Street Sparta,Sparta,Alleghany,NC,28675,US
+Mount Olive Healthcare,Skilled Nursing Facility,228 Smith Chapel,Chapel Road Mount Olive,Wayne,NC,28365,US
+Oak Grove,Skilled Nursing Facility,518 Old US,US Highway 221 Rutherfordton,Rutherford,NC,28139-8670,US
+Old Knox Commons (Lakeside),Skilled Nursing Facility,13825 Hunton Lane Huntersville,Huntersville,Mecklenburg,NC,28078,US
+Ranson Ridge,Assisted Living Facility,13910 Hunton Lane Huntersville,Huntersville,Mecklenburg,NC,28078,US
+Salisbury,Skilled Nursing Facility,215 Lash Drive Salisbury,Salisbury,Rowan,NC,28147,US
+Siler City Healthcare,Skilled Nursing Facility,900 West Dolphin,"Dolphin Street, P.O. Box 789 Siler City",Chatham,NC,27344,US
+Triad (Meridian),Skilled Nursing Facility,707 N. Elm,Elm Street Highpoint,Guilford,NC,27262,US
+Valley View,Skilled Nursing Facility,551 Kent Street Andrews,Andrews,Cherokee,NC,28901-8088,US
+Walnut Cove,Skilled Nursing Facility,511 Windmill Street Walnut,Walnut Cove,Stokes,NC,27052,US
+Warsaw Health & Rehab Center,Skilled Nursing Facility,214 Lanefield Road Warsaw,Warsaw,Duplin,NC,28398,US
+Wellington,Skilled Nursing Facility,1000 Tandal Place Knightdale,Knightdale,Wake,NC,27545,US
+Westwood,Skilled Nursing Facility,625 Ashland Street Archdale,Archdale,Randolph,NC,27263-2943,US
+Willowbrook,Skilled Nursing Facility,333 East Lee,Lee Avenue Yadkinville,Yadkin,NC,27055-8132,US
+Wilora Lake,Skilled Nursing Facility,6001 Wilora Lake,Lake Road Charlotte,Mecklenburg,NC,28212-2833,US
+Pembroke,Skilled Nursing Facility,310 East Wardell,Wardell Drive Pembroke,Robeson,NC,28372,US
+Biltmore Haven (Oaks Sweeten),Skilled Nursing Facility,3864 Sweeten Creek,Creek Road Arden,Buncombe,NC,28704,US
+Hibriten Mountain (Gateway),Skilled Nursing Facility,2030 Harper Avenue Lenoir,Lenoir,Caldwell,NC,28645,US
+Highfield (Cary),Skilled Nursing Facility,6590 Tryon Road Cary,Cary,Wake,NC,27518-7052,US
+Best Care Nursing & Rehab Center,Skilled Nursing Facility,2159 Dogwood Ridge,Ridge Wheelersburg,Scioto,OH,45694,US
+Bradford Place,Skilled Nursing Facility,1302 Millville Avenue Hamilton,Hamilton,Butler,OH,45013,US
+Carillon (fka Dunbar),Skilled Nursing Facility,320 Albany Street Dayton,Dayton,Montgomery,OH,45417,US
+Crawford Manor,Skilled Nursing Facility,1802 Crawford Road Cleveland,Cleveland,Cuyahoga,OH,44106,US
+Cuyahoga Falls,Assisted Living Facility,190 W. Bath,Bath Road Cuyahoga Falls,Summit,OH,44223,US
+Defiance,Skilled Nursing Facility,1701 South Jefferson,Jefferson Avenue Defiance,Defiance,OH,43512,US
+Eagle Creek,Skilled Nursing Facility,141 Spruce Lane West,West Union,Adams,OH,45693,US
+Forest Hills,Skilled Nursing Facility,8700 Moran Road Cincinnati,Cincinnati,Hamilton,OH,45244,US
+Gahanna,Skilled Nursing Facility,5151 North Hamilton,Hamilton Road Columbus,Garner,OH,43230,US
+Heather SNF,Skilled Nursing Facility,12460 Bass Lake,Lake Road Chardon,Geauga,OH,44024,US
+Hillsboro,Skilled Nursing Facility,175 Chillicothe Avenue Hillsboro,Hillsboro,Highland,OH,45133,US
+Huber Heights,Skilled Nursing Facility,5440 Charlesgate Road Huber,Huber Heights,Montgomery,OH,45424,US
+Ivy Woods Manor,Skilled Nursing Facility,2025 Wyoming Avenue Cincinnati,Cincinnati,Hamilton,OH,45205,US
+Kenwood Terrace,Skilled Nursing Facility,7450 Keller Road Cincinnati,Cincinnati,Hamilton,OH,45243,US
+Liberty (Heather Hill),Assisted Living Facility,12350 Bass Lake,Lake Road Chardon,Geauga,OH,44024,US
+Madeira Health,Skilled Nursing Facility,6940 Stiegler Lane Madeira,Madeira,Hamilton,OH,45243,US
+Massillon,Skilled Nursing Facility,2000 Sherman Circle NE Massillon,Massillon,Stark,OH,44646,US
+Mt. Vernon,Skilled Nursing Facility,13 Avalon Road Mt.,Mt. Vernon,Knox,OH,43050,US
+New London,Skilled Nursing Facility,204 West Main,Main Street New London,Huron,OH,44851,US
+Norworth,Skilled Nursing Facility,6830 North High,High Street Worthington,Franklin,OH,43085,US
+Patrician/Diplomate,Skilled Nursing Facility,9001 West 130th Street North,North Royalton,Cuyahoga,OH,44133,US
+Pleasant Ridge,Skilled Nursing Facility,5501 Verulam Avenue Cincinnati,Cincinnati,Hamilton,OH,45213,US
+Siena Woods,Skilled Nursing Facility,6125 North Main,Main Street Dayton,Montgomery,OH,45415,US
+Southbrook,Skilled Nursing Facility,2299 S Yellow,Yellow Springs Street Springfield,Clark,OH,45506,US
+Springfield (Allen View),Skilled Nursing Facility,2615 Derr Road Springfield,Springfield,Clark,OH,45503,US
+Steubenville,Skilled Nursing Facility,500 Stanton Boulevard Steubenville,Steubenville,Jefferson,OH,43952,US
+The Willows/Indian Hills,Skilled Nursing Facility,1500 East 191st Street Euclid,Euclid,Cuyahoga,OH,44117,US
+Twinsburg,Assisted Living Facility,2463 Sussex Boulevard Twinsburg,Twinsburg,Summit,OH,44087,US
+University Manor,Skilled Nursing Facility,2186 Ambleside Drive Cleveland,Cleveland,Cuyahoga,OH,44106,US
+Walden,Skilled Nursing Facility,5700 Karl Road Columbus,Columbus,Franklin,OH,43229,US
+West Carrollton,Skilled Nursing Facility,115 Elmwood Circle West,West Carrollton,Montgomery,OH,45449,US
+West Columbus,Skilled Nursing Facility,441 Norton Road Columbus,Columbus,Franklin,OH,43228,US
+Wexford Care Center,Skilled Nursing Facility,3889 East Galbraith,Galbraith Road Cincinnati,Hamilton,OH,45236,US
+Wexford Place,Skilled Nursing Facility,3875 East Galbraith,Galbraith Road Cincinnati,Hamilton,OH,45236,US
+Worthington,Skilled Nursing Facility,1030 High Street Worthington,Worthington,Franklin,OH,43085,US
+Evergreen Manor,Skilled Nursing Facility,924 Charlies Way Montpelier,Montpelier,Williams,OH,43543,US
+St. Mary's (Grande Lake),Skilled Nursing Facility,1209 Indiana Avenue St.,St. Mary's,Auglaize,OH,45885,US
+Ponca City Nursing Home,Skilled Nursing Facility,1400 N. Waverly,Waverly St. Ponca City,Kay,OK,74602,US
+Shawnee Colonial Estates Nursing Home,Skilled Nursing Facility,535 W. Federal,Federal St. Shawnee,Pottawatomie,OK,74801,US
+Westhaven Nursing Home,Skilled Nursing Facility,1215 S. Western,Western Rd. Stillwater,Payne,OK,74074,US
+Aspen Ridge,Assisted Living Facility,1025 NE Purcell,Purcell Boulevard Bend,Deschutes,OR,97701,US
+Cascade Valley (Oregon Freewater),Assisted Living Facility,1010 NE Third,Third Milton Freewater,Umatilla,OR,97862,US
+Evergreen Oregon (LaGrande),Skilled Nursing Facility,91 Aries Lane La,La Grande,Union,OR,97850,US
+Menlo Park,Skilled Nursing Facility,745 NE 122 Avenue Portland,Portland,Multnomah,OR,97230,US
+Milton Freewater,Skilled Nursing Facility,120 Elzora Street Milton,Milton Freewater,Umatilla,OR,97862,US
+Newberg,Assisted Living Facility,3802 Hayes Street Newberg,Newberg,Yamhill,OR,97132,US
+Redmond,Assisted Living Facility,1620/1622 SW Quartz,Quartz Avenue Redmond,Deschutes,OR,97756,US
+Regent Court,Assisted Living Facility,400 NW Elks,Elks Drive Corvallis,Benton,OR,97330,US
+River Valley Tualatin,Assisted Living Facility,19200 SW 65th Avenue Tualatin,Tualatin,Clackamas,OR,97062,US
+Rose Valley Cottages,Independent Living Facility,33800 SE Frederick,Frederick Street Scapoose,Columbia,OR,97056,US
+Rose Valley Scappoose,Assisted Living Facility,33800 SE Frederick,Frederick Street Scapoose,Columbia,OR,97056,US
+Roseburg,Assisted Living Facility,3400 NW Edenbower,Edenbower Boulevard Roseburg,Douglas,OR,97470,US
+The Dalles,Skilled Nursing Facility,1023 West 25th The,The Dalles,Wasco,OR,97058,US
+Heron Pointe,Assisted Living Facility,504 Gwinn Street E Monmouth,Monmouth,Polk,OR,97361,US
+Ambler,Skilled Nursing Facility,32 South Bethlehem,Bethlehem Pike Ambler,Montgomery,PA,19002,US
+Amity Village,Independent Living Facility,1000 Stacie Drive Hazleton,Hazleton,Luzerne,PA,18201,US
+Baldwin Health Center,Skilled Nursing Facility,1717 Skyline Drive Pittsburgh,Pittsburgh,Allegheny,PA,15227,US
+Blue Bell,Assisted Living Facility,795 Penllyn Blue,Blue Bell Pike Blue Bell,Montgomery,PA,19422,US
+Broad Mountain,Skilled Nursing Facility,500 W Laurel,Laurel St Frackville,Schuylkill,PA,17931,US
+Brookline Cottages,Independent Living Facility,"RD #1, Box",Box 463 Mifflintown,Juniata,PA,17059,US
+Brookline Manor,Skilled Nursing Facility,"RD #1, Box",Box 463 Mifflintown,Juniata,PA,17059,US
+Brookline Village,Assisted Living Facility,"RD #1, Box",Box 463 Mifflintown,Juniata,PA,17059,US
+Broomall Manor,Skilled Nursing Facility,43 Church Lane Broomall,Broomall,Delaware,PA,19008,US
+Bryn Mawr,Skilled Nursing Facility,956 Railroad Avenue Bryn,Bryn Mawr,Delaware,PA,19010,US
+Collegeville,Assisted Living Facility,1421 South Collegeville,Collegeville Road Collegeville,Montgomery,PA,19426,US
+Cottages at Locust Grove,Independent Living Facility,69 Cottage Road Mifflin,Mifflin,Juniata,PA,17058,US
+Darway Elder Care & Rehab Center,Skilled Nursing Facility,5865 PA Route,Route 154 Forksville,Sullivan,PA,18616,US
+Dunmore,Skilled Nursing Facility,1000 Mill Street Dunmore,Dunmore,Lackawanna,PA,18512,US
+Edison Manor,Skilled Nursing Facility,222 West Edison,Edison Avenue New Castle,Lawrence,PA,16101,US
+Exton,Assisted Living Facility,200 Sunrise Boulevard Exton,Exton,Chester,PA,19341,US
+Gettysburg,Skilled Nursing Facility,595 Biglerville Road Gettysburg,Gettysburg,Adams,PA,17325,US
+Grayson View,Assisted Living Facility,29 Grayson View,View Court Selinsgrove,Snyder,PA,17870,US
+Highlands Care Center,Skilled Nursing Facility,"P.O. Box 10, Main",Main Street Laporte,Sullivan,PA,18626,US
+Julia Ribaudo,Skilled Nursing Facility,1404 Golf Park,Park Drive Lake Ariel,Wayne,PA,18436,US
+Luther Ridge at Seiders Hill,Assisted Living Facility,160 Red Horse,Horse Road Pottsville,Schuykill,PA,17901,US
+Manor at Penn Village,Skilled Nursing Facility,51 Route 204 Selinsgrove,Selinsgrove,Snyder,PA,17870,US
+Manor at St. Luke Village,Skilled Nursing Facility,1711 East Broad,Broad Street Hazleton,Luzerne,PA,18201,US
+Milford Convalescent Home,Skilled Nursing Facility,264 Route 6 &,& 209 Milford,Pike,PA,18337,US
+Pavilion at St. Luke Village,Skilled Nursing Facility,1000 Stacie Drive Hazleton,Hazleton,Luzerne,PA,18201,US
+Pennknoll Village,Skilled Nursing Facility,208 Pennknoll Road Everett,Everett,Bedford,PA,15537,US
+Pennsfield Apartments,Independent Living Facility,51 Route 204 Selinsgrove,Selinsgrove,Snyder,PA,17870,US
+Richfield Senior Living,Skilled Nursing Facility,"631 Main St,","St, PO Box 248 Richfield",Juniata,PA,17086,US
+Riverside Nursing & Rehab,Skilled Nursing Facility,500 West Hospital,Hospital Street Taylor,Lackawanna,PA,18517,US
+Rolling Hills Manor,Skilled Nursing Facility,17350 Old Turnpike,Turnpike Road Millmont,Union,PA,17845,US
+Scenery Hill Manor,Skilled Nursing Facility,680 Lions Health,Health Camp Road Indiana,Indiana,PA,15701,US
+Silver Lake,Skilled Nursing Facility,905 Tower Road Bristol,Bristol,Bucks,PA,19007,US
+Sunset Ridge (Bloomsburg),Skilled Nursing Facility,3298 Ridge Road Bloomsburg,Bloomsburg,Columbia,PA,17815,US
+Symphony Square,Assisted Living Facility,35 Old Lancaster,Lancaster Road Bala Cynwyd,Montgomery,PA,19004,US
+Towamencin,Assisted Living Facility,900 Towamencin Avenue Lansdale,Lansdale,Montgomery,PA,19446,US
+Twin Pines (fka Chatham Acres),Skilled Nursing Facility,315 East London,London Grove Road Chatham,Chester,PA,19390,US
+Wexford House,Skilled Nursing Facility,9850 Old Perry,Perry Highway Wexford,Allegheny,PA,15090,US
+Locust Grove I,Skilled Nursing Facility,69 Cottage Road Mifflin,Mifflin,Juniata,PA,17058,US
+Coventry,Skilled Nursing Facility,10 Woodland Drive Coventry,Coventry,Kent,RI,02816,US
+Greenville,Skilled Nursing Facility,735 (745 per,per Tax Assessor) Putnam Pike Greenville,Providence,RI,02828,US
+Warren,Skilled Nursing Facility,642 Metacom Avenue Warren,Warren,Bristol,RI,02885,US
+Bearehill,Assisted Living Facility,24 Castle Street Brechin,Brechin Brechin,DD9,Scotland,6JU,UK
+Buchanan Campus,Assisted Living Facility,1 Grampian Way Glasgow,Glasgow Bearsden,G61,Scotland,4SP,UK
+Craighead,Assisted Living Facility,To be determined,determined Newport-on-Tay Norwood,DD6,Scotland,8DW,UK
+Dounemount,Assisted Living Facility,Gellymill Street Macduff,Macduff Banff,AB45,Scotland,3QL,UK
+Earlsferry House,Assisted Living Facility,Williamsburgh Leven Elie,Elie,KY9,Scotland,1BA,UK
+Garioch Care Home,Assisted Living Facility,Commercial Road Inverurie,Inverurie Aberdeenshire,AB51,Scotland,3TX,UK
+Gowrie House,Assisted Living Facility,West Albert Road Kirkcaldy,Kirkcaldy Kirkcaldy,KY1,Scotland,1DL,UK
+Hallhouse,Assisted Living Facility,21 Main Road Kilmamock,Kilmamock Fenwick,KA3,Scotland,6AH,UK
+Havencourt,Assisted Living Facility,Woodcot Gardens Stonehaven,Stonehaven Forest Road,AB39,Scotland,2ZH,UK
+Henderson House,Assisted Living Facility,2 Link Road Dunfermline,Dunfermline Dalgety Bay,KY11,Scotland,9GW,UK
+Laurels,Assisted Living Facility,Station Road Aberdeen,Aberdeen Woodside,AB24,Scotland,2UL,UK
+Mayfield West,Assisted Living Facility,31 Queen's Road Edinburgh,Edinburgh Aberdeen,AB15,Scotland,4ZN,UK
+Meadowvale,Assisted Living Facility,1 Bridgend Court Bathgate,Bathgate Bathgate,EH48,Scotland,2BF,UK
+Annfield Nursing Home,Assisted Living Facility,58 Annfield Gardens,Gardens Stirling Stirlingshire,FK8,Scotland,2BJ,UK
+Castle View,Assisted Living Facility,Glasgow Rd/Castlegreen St,St Dunbarton W. Dunbartonshire,G82,Scotland,1JU,UK
+Finavon Court,Assisted Living Facility,5 Carseburn Rd,"Rd 5 Carseburn Rd, Forfar, DD8 3HW Angus",DD8,Scotland,3HW,UK
+Forth Bank,Assisted Living Facility,Drip Road Kildean,Kildean Stirling,FK8,Scotland,1RR,UK
+Greenfield Park,Assisted Living Facility,291 Myreside St,St Glasgow Lancashire,G32,Scotland,6BX,UK
+Kyle Court,Assisted Living Facility,23 Lochore Ave,Ave Paisley Renfrewshire,PA3,Scotland,4BY,UK
+Linlithgow Nursing Home,Assisted Living Facility,45 St Ninian's,Ninian's Rd Linlithgow West Lothian,EH49,Scotland,7BW,UK
+Mavis Bank,Assisted Living Facility,Lennox Crescent Bishopsbriggs,Bishopsbriggs East Dunbartonshire,G64,Scotland,1XE,UK
+Murrayfield House Nursing Home,Assisted Living Facility,66 Murrayfield Ave,Ave Edinburgh Midlothian,EH12,Scotland,6AY,UK
+Springfield Bank,Assisted Living Facility,"Cockpen Crescent Bonnyrigg,","Bonnyrigg, Midlothian Midlothian",EH19,Scotland,3PN,UK
+Ailsa Lodge,Assisted Living Facility,21 Erskine Ferry,Ferry Rd Bishopton Renfrewshire,PA7,Scotland,5PP,UK
+Ardenlee,Assisted Living Facility,72 Bullwood Rd,Rd Dunoon Argyllshire,PA23,Scotland,7QJ,UK
+Ashgrove,Assisted Living Facility,229 Alexandra Parade,Parade Dunoon Argyllshire,PA23,Scotland,8HD,UK
+Burnfoot,Assisted Living Facility,Ayr Road Patna,Patna Ayrshire,KA6,Scotland,7LP,UK
+Cathay,Assisted Living Facility,St. Leonards Road Forres,Forres Morayshire,IV36,Scotland,2RE,UK
+Crosslaw House,Assisted Living Facility,Home Street Lanark,Lanark Lanarkshire,ML11,Scotland,9AZ,UK
+Doonbank,Assisted Living Facility,Ayr Road Patna,Patna Ayrshire,KA6,Scotland,7JW,UK
+Fleet Valley,Assisted Living Facility,43 Fleet Street Castle,Castle Douglas Kirkcudbrightshire,DG7,Scotland,2JT,UK
+Glebe House,Assisted Living Facility,Armour Wynd Dalmellington,Dalmellington Ayrshire,KA6,Scotland,7PS,UK
+Hutton Park,Assisted Living Facility,60 Greenock Road Largs,Largs Ayrshire,KA30,Scotland,8PD,UK
+Marchmont,Assisted Living Facility,1 Alderwood Road Port,Port Glasgow Renfrewshire,PA14,Scotland,5LE,UK
+Struan Lodge,Assisted Living Facility,54 Balgreen Avenue Edinburgh,Edinburgh Midlothian,EH12,Scotland,5SU,UK
+Windyhall,Assisted Living Facility,3 Southpark Road Ayr,Ayr Ayrshire,KA7,Scotland,2TL,UK
+Angusfield,Assisted Living Facility,226 Queens Road Aberdeen,Aberdeen Aberdeenshire,AB15,Scotland,8DN,UK
+Benarty View,Assisted Living Facility,17 Rowan Lea,Lea Kelty Fife,KY4,Scotland,0FY,UK
+Campsie View,Assisted Living Facility,Canal Street Kirkintilloch,Kirkintilloch East Dunbartonshire,G66,Scotland,1QY,UK
+Colinton,Assisted Living Facility,69 Spylaw Road Edinburgh,Edinburgh City of Edinburgh,EH10,Scotland,5BP,UK
+Craigie Knowes,Assisted Living Facility,Craigieknowes Road Perth,Perth Perthshire,PH2,Scotland,0DG,UK
+Cumbrae Lodge,Assisted Living Facility,Castle Park Road Irvine,Irvine North Ayrshire,KA12,Scotland,8SZ,UK
+Gilmerton,Assisted Living Facility,9 Moredunvale Road Moredun,Moredun N/A,EH17,Scotland,7QU,UK
+Gilmerton NCC,Assisted Living Facility,10 Moredunvale Road Moredun,Moredun N/A,EH17,Scotland,7QU,UK
+Guthrie House,Assisted Living Facility,12 Lasswade Road Edinburgh,Edinburgh City of Edinburgh,EH16,Scotland,6RZ,UK
+Lammermuir,Assisted Living Facility,East Links Road Dunbar,Dunbar East Lothian,EH42,Scotland,1LT,UK
+Lunardi Court,Assisted Living Facility,39 Robertson Road Cupar,Cupar Fife,KY15,Scotland,5YR,UK
+St Margarets,Assisted Living Facility,5 East Suffolk,Suffolk Road Edinburgh City of Edinburgh,EH16,Scotland,5PH,UK
+Cheraw (Chesterfield),Skilled Nursing Facility,1150 State Road Cheraw,Cheraw,Chesterfield,SC,29520,US
+Cottages (Brushy Creek),Skilled Nursing Facility,101 Cottage Creek,Creek Circle Greer,Greenville,SC,29650,US
+Edisto (Orangeburg or Riverside),Skilled Nursing Facility,575 Stonewall Jackson,Jackson Blvd Orangeburg,Orangeburg,SC,29115,US
+Lancaster,Skilled Nursing Facility,2044 Pageland Highway,Highway Lancaster,Lancaster,SC,29721,US
+Laurel Baye of Greenville,Skilled Nursing Facility,661 Rutherford Rd,Rd Greenville,Greenville,SC,29609,US
+Magnolia Place of Spartanburg,Skilled Nursing Facility,8020 White Avenue Spartanburg,Spartanburg,Spartanburg,SC,29303,US
+Spartanburg (Valley Falls),Skilled Nursing Facility,400 Locust Grove,Grove Road Spartanburg,Spartanburg,SC,29303,US
+St. Matthews (Calhoun),Skilled Nursing Facility,601 Dantzler Street Saint,Saint Matthews,Calhoun,SC,29135,US
+Gables at Pelham,Assisted Living Facility,1306 Pelham Road Greenville,Greenville,Greenville,SC,29615,US
+Bloom at Belfair,Independent Living Facility,60 Oak Forest,Forest Rd Bluffton,Beaufort,SC,29910,US
+Bridge at Monteagle,Skilled Nursing Facility,26 Second Street Monteagle,Monteagle,Grundy,TN,37356,US
+Bridge at Ridgely,Skilled Nursing Facility,117 N. Main,Main Street Ridgely,Lake,TN,38080,US
+Bridge at Rockwood,Skilled Nursing Facility,5580 Roane State,State Hwy Rockwood,Roane,TN,37854,US
+Bridge at South Pittsburg,Skilled Nursing Facility,201 East 10 Street South,South Pittsburg,Marion,TN,37380,US
+Buchanan Place (Claiborne),Skilled Nursing Facility,"902 Buchanan Road,","Road, P.O. Box 505 New Tazewell",Claiborne,TN,37825,US
+Camden Healthcare & Rehabilitation,Skilled Nursing Facility,197 Hospital Drive Camden,Camden,Benton,TN,38320,US
+Cumberland Village,Skilled Nursing Facility,136 Davis Lane LaFollette,LaFollette,Campbell,TN,37766,US
+Dover Care Center,Skilled Nursing Facility,"537 Spring Street,","Street, P.O. Box 399 Dover",Stewart,TN,37058,US
+Elizabethton (fka Pine Ridge),Skilled Nursing Facility,1200 Spruce Lane Elizabethtown,Elizabethtown,Carter,TN,37643,US
+Greystone Health Care Center,Skilled Nursing Facility,181 Dunlap Road Blountville,Blountville,Sullivan,TN,37617,US
+Huntingdon Health & Rehab Center,Skilled Nursing Facility,635 High Street Huntingdon,Huntingdon,Carroll,TN,38344,US
+Jefferson City ALF,Assisted Living Facility,129 Mossy Creek,Creek Drive Jefferson City,Jefferson,TN,37760,US
+Jefferson City Health & Rehab Center,Skilled Nursing Facility,283 West Broadway,Broadway Blvd Jefferson City,Jefferson,TN,37760,US
+Mountain City Care & Rehab,Skilled Nursing Facility,919 Medical Park,Park Drive Mountain City,Johnson,TN,37683,US
+Pickett Care & Rehab,Skilled Nursing Facility,129 Hillcrest Drive Byrdstown,Byrdstown,Pickett,TN,38549,US
+Pine Meadows Health Care,Skilled Nursing Facility,700 Nuckolls Road Bolivar,Bolivar,Hardeman,TN,38008,US
+Puryear,Skilled Nursing Facility,220 College Street Puryear,Puryear,Henry,TN,38251,US
+Rainbow Rehab & Healthcare (Memphis),Skilled Nursing Facility,8119 Memphis-Arlington Road Bartlett,Bartlett,Shelby,TN,38133,US
+Ripley Healthcare & Rehab Center,Skilled Nursing Facility,118 Halliburton Road Ripley,Ripley,Lauderdale,TN,38063,US
+Rock Springs,Assisted Living Facility,640 Rock Springs,Springs Road Kingsport,Sullivan,TN,37664,US
+Rogersville ALF,Assisted Living Facility,1341 East Main,Main Street Rogersville,Hawkins,TN,37857,US
+Signature Healthcare of Cleveland,Skilled Nursing Facility,2750 Executive Park,Park Cleveland,Bradley,TN,37312,US
+Signature Healthcare of Erin,Skilled Nursing Facility,278 Rocky Hollow,Hollow Road Erin,Houston,TN,37061,US
+Signature Healthcare of Fentress County,Skilled Nursing Facility,208 Duncan Street North,North Jamestown,Fentress,TN,38556,US
+Signature Healthcare of Greeneville,Skilled Nursing Facility,106 Holt Court Greeneville,Greeneville,Greene,TN,37743,US
+Signature Healthcare of Memphis,Skilled Nursing Facility,1150 Dovecrest Road Memphis,Memphis,Shelby,TN,38134,US
+Signature Healthcare of Rogersville,Skilled Nursing Facility,109 Highway 70 North,North Rogersville,Hawkins,TN,37857,US
+Smyrna Care Center,Skilled Nursing Facility,200 Mayfield Drive Smyrna,Smyrna,Rutherford,TN,37167,US
+Spring City Care & Rehab,Skilled Nursing Facility,331 Hinch Street Spring,Spring City,Rhea,TN,37381,US
+Spring Gate Rehab & Healthcare Center,Skilled Nursing Facility,3909 Covington Pike,Pike Memphis,Shelby,TN,38135,US
+Standing Stone Care & Rehab,Skilled Nursing Facility,410 West Crawford,Crawford Ave Monterey,Putnam,TN,38574,US
+Westmoreland Care & Rehab,Skilled Nursing Facility,1559 New Highway,Highway 52 Westmoreland,Sumner,TN,37186,US
+Willow Ridge,Skilled Nursing Facility,215 Richardson Way Maynardville,Maynardville,Union,TN,37807,US
+Arapaho (Richardson),Skilled Nursing Facility,1111 Rockingham Lane Richardson,Richardson,Dallas,TX,75080,US
+Arbor Hills (fka Eagle Lake),Skilled Nursing Facility,535 South Austin,Austin Road Eagle Lake,Colorado,TX,77434,US
+Ashford Hall,Skilled Nursing Facility,2021 Shoaf Drive Irving,Irving,Dallas,TX,75061,US
+Ballinger (fka Heritage Oaks),Skilled Nursing Facility,2001 6th Street Ballinger,Ballinger,Runnells,TX,76821,US
+Barton Valley (fka Monte Siesta),Skilled Nursing Facility,4501 Dudmar Drive Austin,Austin,Travis,TX,78735,US
+Bertram Nursing,Skilled Nursing Facility,540 E. Hwy,Hwy 29 Bertram,Burnet,TX,78605,US
+Birchwood,Skilled Nursing Facility,110 West Highway,Highway 64 Cooper,Delta,TX,75432,US
+Bluebonnet,Skilled Nursing Facility,696 FM 99 Karnes,Karnes City,Karnes,TX,78118,US
+Brentwood Terrace,Skilled Nursing Facility,2885 Stillhouse Road Paris,Paris,Lamar,TX,75462,US
+Bridgecrest,Skilled Nursing Facility,14100 Karissa Court Houston,Houston,Harris,TX,77049,US
+Brownwood,Skilled Nursing Facility,101 Miller Drive Brownwood,Brownwood,Brown,TX,76801,US
+Casa Rio Health Care,Skilled Nursing Facility,6211 S. New,New Braunfels Avenue San Antonio,Bexar,TX,78223,US
+Castle Hills (Alamo),Skilled Nursing Facility,8020 Blanco Road San,San Antonio,Bexar,TX,78216,US
+Cedar Ridge (fka Countryside),Skilled Nursing Facility,1700 N. Washington,Washington St. Pilot Point,Denton,TX,76258,US
+Champions,Assisted Living Facility,14050 Cutten Road Houston,Houston,Harris,TX,77069,US
+Conroe (fka Woodland Manor),Skilled Nursing Facility,99 Rigby Owen,Owen Road Conroe,Montgomery,TX,77304,US
+Corpus North (Retama),Skilled Nursing Facility,2322 Morgan Ave.,Ave. Corpus Christi,Nueces,TX,78405,US
+Cottonwood,Skilled Nursing Facility,2224 North Carroll,Carroll Boulevard Denton,Denton,TX,76201,US
+Crane Nursing & Rehab,Skilled Nursing Facility,699 Campus Drive Crane,Crane,Crane,TX,79731,US
+Deerings,Skilled Nursing Facility,1020 North County,County Road West Odessa,Ector,TX,79763,US
+DeLeon,Skilled Nursing Facility,809 East Navarro,Navarro Avenue DeLeon,Comanche,TX,76444,US
+Diboll,Skilled Nursing Facility,900 S Temple,Temple Drive Diboll,Angelina,TX,75941,US
+Dove Hill,Skilled Nursing Facility,1315 East State,State Highway 22 Hamilton,Hamilton,TX,76531,US
+Eden Estates,Independent Living Facility,1997 Forest Ridge,Ridge Drive Bedford,Tarrant,TX,76021,US
+Edgewood,Skilled Nursing Facility,1101 Windbell Drive Mesquite,Mesquite,Dallas,TX,75149,US
+Estates (fka Fort Worth),Skilled Nursing Facility,201 Sycamore School,School Road Fort Worth,Tarrant,TX,76134,US
+Forest Park N&R (fka Premier Dallas),Skilled Nursing Facility,6825 Harry Hines,Hines Blvd Dallas,Dallas,TX,75235,US
+Forney (Ridgecrest),Skilled Nursing Facility,561 E. Ridgecrest,Ridgecrest Road Forney,Kaufman,TX,75126,US
+Fort Stockton,Skilled Nursing Facility,501 North Sycamore,Sycamore Street Fort Stockton,Pecos,TX,79735,US
+Fortress Health & Rehab of Rock Prairie,Skilled Nursing Facility,1105 Rock Prairie,Prairie Road College Station,Brazos,TX,77845,US
+Gilmer,Skilled Nursing Facility,703 North Titus,Titus Gilmer,Upshur,TX,75644,US
+Golden Creek,Skilled Nursing Facility,2100 Dove Crossing,Crossing Lane Navasota,Grimes,TX,77868,US
+Graham Oaks Care Center,Skilled Nursing Facility,1325 First Street Graham,Graham,Young,TX,76450,US
+Greenhill Villas,Skilled Nursing Facility,2530 Greenhill Road Mt.,Mt. Pleasant,Titus,TX,75455,US
+Gulf Shores (fka Falfurrias),Skilled Nursing Facility,1301 South Terrell,Terrell Street Falfurrias,Brooks,TX,78355,US
+Hillcrest of North Dallas (fka Premier Hillcrest),Skilled Nursing Facility,18648 Hillcrest Rd,Rd Dallas,Collin,TX,75252,US
+Hogan Park Nursing & Rehab,Skilled Nursing Facility,3203 Sage Street Midland,Midland,Midland,TX,79705,US
+Humble,Skilled Nursing Facility,8450 Will Clayton,Clayton Parkway Humble,Harris,TX,77338,US
+Katy,Skilled Nursing Facility,1525 Tull Drive Katy,Katy,Harris,TX,77449,US
+Kemp Care Center,Skilled Nursing Facility,1351 South Elm,Elm Street Kemp,Kaufman,TX,75143,US
+Kerens Care Center,Skilled Nursing Facility,809 NE 4th Street Kerens,Kerens,Navarro,TX,75144,US
+Lake Highlands (fka Doctors),Skilled Nursing Facility,9009 White Rock,Rock Trail Dallas,Dallas,TX,75238,US
+Lake Lodge,Skilled Nursing Facility,3800 Marina Drive Lake,Lake Worth,Tarrant,TX,76135,US
+Lakeview (fka Winnsboro),Skilled Nursing Facility,502 East Coke,Coke Road Winnsboro,Wood,TX,75494,US
+Lampstand Health & Rehab of Bryan,Skilled Nursing Facility,2001 E 29th Street Bryan,Bryan,Brazos,TX,77802,US
+Levelland (fka Lynwood),Skilled Nursing Facility,803 South Alamo,Alamo Road Levelland,Hockley,TX,79336,US
+Lily Springs (fka Spring Oaks),Skilled Nursing Facility,901 Central Texas,Texas Expressway Lampasas,Lampasas,TX,76550,US
+Lone Star Ranch (fka Kleberg),Skilled Nursing Facility,316 General Cavazos,Cavazos Boulevard Kingsville,Kleberg,TX,78363,US
+Medi Park W,Independent Living Facility,7404 Wallace Boulevard Amarillo,Amarillo,Potter,TX,79106,US
+Memorial City (Village),Skilled Nursing Facility,1341 Blalock Rd.,Rd. Houston,Harris,TX,77055,US
+Midwestern,Skilled Nursing Facility,601 Midwestern Parkway,Parkway Wichita Falls,Wichita,TX,76302,US
+Mira Vista Court,Skilled Nursing Facility,7021 Bryant Irvin,Irvin Road Fort Worth,Tarrant,TX,76132,US
+Normandy Terrace,Skilled Nursing Facility,841 Rice Road San,San Antonio,Bexar,TX,78220,US
+North Pointe,Skilled Nursing Facility,7804 Virgil Anthony,Anthony Boulevard Watauga,Tarrant,TX,76148,US
+North Star (fka Bonham),Skilled Nursing Facility,709 West Fifth,Fifth Street Bonham,Fannin,TX,75418,US
+Northshore,Independent Living Facility,401 Northshore Boulevard Portland,Portland San,Patricio,TX,78374,US
+Prairie Meadows (fka Regency Manor),Skilled Nursing Facility,1615 11th Street Floresville,Floresville,Wilson,TX,78114,US
+Renaissance (fka Italy),Skilled Nursing Facility,220 Davenport Street Italy,Italy,Ellis,TX,76651,US
+River City Care Center,Skilled Nursing Facility,921 Nolan Street San,San Antonio,Bexar,TX,78202,US
+Rockwood Manor,Skilled Nursing Facility,2000 N Main,Main Street Midland,Midland,TX,79705,US
+Sage (Lamesa) Healthcare Center,Skilled Nursing Facility,1201 N 15th Street Lamesa,Lamesa,Dawson,TX,79331,US
+San Gabriel,Skilled Nursing Facility,4100 College Park,Park Drive Round Rock,Williamson,TX,78665,US
+Sandy Lake,Skilled Nursing Facility,1410 East Sandy,Sandy Lake Road Coppell,Dallas,TX,75019,US
+Seabury Nursing & Rehab,Skilled Nursing Facility,2443 W 16th Street Odessa,Odessa,Ector,TX,79763,US
+Seven Oaks,Skilled Nursing Facility,901 Seven Oaks,Oaks Road Bonham,Fannin,TX,75418,US
+Shady Shores of San Saba,Skilled Nursing Facility,2400 West Brown,Brown Street San Saba San,Saba,TX,76877,US
+Sienna,Skilled Nursing Facility,2510 West 8th Street Odessa,Odessa,Ector,TX,79763,US
+Songbird Lodge,Skilled Nursing Facility,2500 Songbird Circle Brownwood,Brownwood,Brown,TX,76801,US
+St. Theresa Nursing & Rehab,Skilled Nursing Facility,10350 Montana Avenue El,El Paso El,Paso,TX,79925,US
+Sterling Hills (fka Nolan),Skilled Nursing Facility,705 NE Georgia,Georgia Avenue Sweetwater,Nolan,TX,79556,US
+Sunflower Park Health Care,Skilled Nursing Facility,1803 Highway 243 East,East Kaufman,Kaufman,TX,75142,US
+City (fka Seabreeze),Skilled Nursing Facility,6602 Memorial Dr.,Dr. Texas City,Galveston,TX,77591,US
+Treemont Healthcare & Rehab Center,Skilled Nursing Facility,5550 Harvest Hill,"Hill Road, Suite 500 Dallas",Dallas,TX,75230,US
+Truman W Smith Children Center,Skilled Nursing Facility,2200 West Upshur,Upshur Ave (West Highway 80) Gladewater,Upshur,TX,75647,US
+Twin Pines,Skilled Nursing Facility,3301 East Mockingbird,Mockingbird Lane Victoria,Victoria,TX,77904,US
+Village Creek (Lumberton),Skilled Nursing Facility,705 North Main,Main Street Lumberton,Hardin,TX,77657,US
+Westlake Hills,Independent Living Facility,1034 Liberty Park,Park Drive Austin,Travis,TX,78746,US
+Whispering Pines Lodge,Skilled Nursing Facility,2131 Alpine Road Longview,Longview,Gregg,TX,75601,US
+Whispering Springs (fka Carrizo),Skilled Nursing Facility,506 South 7th Street Carrizo,Carrizo Springs,Dimmit,TX,78834,US
+Willis,Skilled Nursing Facility,3000 North Danville,Danville Road Willis,Montgomery,TX,77318,US
+Willow Park (fka Clifton),Skilled Nursing Facility,1000 FM 3220 Clifton,Clifton,Bosque,TX,76634,US
+Willows Sherman,Assisted Living Facility,3410 Post Oak,Oak Crossing Sherman,Grayson,TX,75092,US
+Five Points,Skilled Nursing Facility,521 South Heatherwilde,Heatherwilde Boulevard Pflugerville,N/A,TX,78660,US
+Park Place,Skilled Nursing Facility,101 & 121 FM,FM 971 Georgetown,N/A,TX,78626,US
+Harvest Home & Inwood Cross,Assisted Living Facility,1441 Bandera Highway,Highway Kerrville,Kerr,TX,78028,US
+River Point of Kerrville,Assisted Living Facility,520 Baker Driver,Driver Tomball,Harris,TX,77375,US
+Amistad,Skilled Nursing Facility,200 Riverside Drive Uvalde,Uvalde,Uvalde,TX,78801,US
+Arboretum,Skilled Nursing Facility,1215 TX-124 Winnie,Winnie,Chambers,TX,77665,US
+Ganado,Skilled Nursing Facility,107 Rogers Street East,East Ganado,Jackson,TX,77962,US
+Matagorda,Skilled Nursing Facility,4521 Avenue F,F Bay City,Matagorda,TX,77414,US
+Shady Oak,Skilled Nursing Facility,101 South Lancaster,Lancaster Street Moulton,Lavaca,TX,77975,US
+Shiner,Skilled Nursing Facility,1213 V Ave,Ave B #6217 Shiner,Lavaca,TX,77984,US
+Twilight,Skilled Nursing Facility,2001 West 4th Avenue Corsicana,Corsicana,Navarro,TX,75110,US
+Lake Champlain (formerly St. Albans),Skilled Nursing Facility,596 Sheldon Road St.,St. Albans,Franklin,VT,05478,US
+Ashland,Skilled Nursing Facility,906 Thompson Street Ashland,Ashland,Hanover,VA,23005,US
+Autumn Care of Chesapeake,Skilled Nursing Facility,715 Argyll Street Chesapeake,Chesapeake Chesapeake,City,VA,23320,US
+Autumn Care of Madison,Skilled Nursing Facility,One Autumn Court Madison,Madison,Madison,VA,22727,US
+Autumn Care of Mechanicsville,Skilled Nursing Facility,7600 Autumn Park,Park Way Mechanicsville,Hanover,VA,23116,US
+Autumn Care of Norfolk,Skilled Nursing Facility,1401 Halstead Avenue Norfolk,Norfolk Norfolk,City,VA,23502,US
+Autumn Care of Portsmouth,Skilled Nursing Facility,3610 Winchester Drive Portsmouth,Portsmouth Portsmouth,City,VA,23707,US
+Autumn Care of Suffolk,Skilled Nursing Facility,2580 Pruden Boulevard Suffolk,Suffolk Suffolk,City,VA,23434,US
+Bon Air,Skilled Nursing Facility,9101 Bon Air,Air Richmond,Henrico,VA,23233,US
+Charlottesville,Skilled Nursing Facility,490 Hillsdale Drive Charlottesville,Charlottesville,Albemarle,VA,22901,US
+Colonial (Windermere),Skilled Nursing Facility,1604 Old Donation,Donation Parkway Virginia Beach Virginia Beach,City,VA,23454,US
+Forest Health & Rehab (The Carrington),Skilled Nursing Facility,2406 Atherholt Road Lynchburg,Lynchburg Lynchburg,City,VA,24501,US
+Hampton,Skilled Nursing Facility,2230 Executive Drive Hampton,Hampton Hampton,City,VA,23666,US
+Lake Ridge,Assisted Living Facility,3940 Prince William,William Parkway Woodbridge Prince,William,VA,22192,US
+Mt. Vernon,Skilled Nursing Facility,8111 Tiswell Drive Alexandria,Alexandria,Fairfax,VA,22306,US
+Norfolk (Waterside),Skilled Nursing Facility,249 South Newtown,Newtown Road Norfolk Norfolk,City,VA,23502,US
+Oak Grove (Sentara Residence),Skilled Nursing Facility,776 Oak Grove,Grove Road Chesapeake Chesapeake,City,VA,23320,US
+Portsmouth (Portside),Skilled Nursing Facility,4201 Greenwood Drive Portsmouth,Portsmouth Portsmouth,City,VA,23701,US
+Rosemont (Virginia Beach SNF),Skilled Nursing Facility,3750 Sentara Way Virginia,Virginia Beach Virginia Beach,City,VA,23452,US
+South Boston (Woodview),Skilled Nursing Facility,103 Rosehill Drive South,South Boston,Halifax,VA,24592,US
+University Park,Skilled Nursing Facility,2420 Pemberton Road Richmond,Richmond,Henrico,VA,23233,US
+Villages of Rosemont (Virginia Beach ALF),Assisted Living Facility,3751 Sentara Way Virginia,Virginia Beach Virginia Beach,City,VA,23452,US
+Waddell Nursing & Rehabilitation,Skilled Nursing Facility,202 Painter Street Galax,Galax Galax,City,VA,24333,US
+Willow Creek,Skilled Nursing Facility,11611 Robious Road Midlothian,Midlothian,Chesterfield,VA,23113,US
+Ghent (Norfolk),Skilled Nursing Facility,3900 Llewellyn Avenue Norfolk,Norfolk Norfolk,City,VA,23504,US
+Clarksville (Meadowview Terrace),Skilled Nursing Facility,184 Buffalo Road Clarksville,Clarksville,Mecklenburg,VA,23927,US
+Canterbury House,Assisted Living Facility,77 Dyserth Road Rhyl,Rhyl Flintshire,LL18,Wales,4DT,UK
+Cartref Y Borth,Assisted Living Facility,Betws Road Llanrwst,Llanrwst Conwy,LL26,Wales,0HE,UK
+Preswylfa,Assisted Living Facility,20 Russell Road Rhyl,Rhyl Flintshire,LL18,Wales,3DD,UK
+Stonebridge,Assisted Living Facility,7900 NE Vancouver,Vancouver Mall Drive Vancouver,Clark,Wales,98662,UK
+Torbett,Assisted Living Facility,221 Torbett Street Richland,Richland,Benton,Wales,99354,UK
+Quarry Hall,Assisted Living Facility,"Newport Rd Rumney,","Rumney, St Mellons Monmouthshire",CF3,Wales,5TW,UK
+Buena Vista,Skilled Nursing Facility,151 Buena Vista,Vista Drive Colville,Stevens,WA,99114,US
+Clarkston,Skilled Nursing Facility,1242 11th Street Clarkston,Clarkston,Asotin,WA,99403,US
+Fisher's Landing,Assisted Living Facility,17171 Southeast 22nd Drive Vancouver,Vancouver,Clark,WA,98683,US
+Ft. Vancouver Convalescent Center,Skilled Nursing Facility,8507 NE 8th Way Vancouver,Vancouver,Clark,WA,98664,US
+Highland CC,Skilled Nursing Facility,2400 Samish Way Bellingham,Bellingham,Whatcom,WA,98229,US
+Montclair Poulsbo,Assisted Living Facility,1250 NE Lincoln,Lincoln Road Poulsbo,Kitsap,WA,98370,US
+Richland CC,Skilled Nursing Facility,1745 Pike Avenue Richland,Richland,Benton,WA,99352,US
+Royal Park,Skilled Nursing Facility,7411 N. Nevada,Nevada St. Spokane,Spokane,WA,99208,US
+Royal Park Ret.,Assisted Living Facility,302 E Wedgewood,Wedgewood Ave Spokane,Spokane,WA,99208,US
+The Ridge,Assisted Living Facility,1501 NW Tower,Tower View Circle Silverdale,Kitsap,WA,98383,US
+Whitman,Skilled Nursing Facility,1150 Fairview Road Colfax,Colfax,Whitman,WA,99111,US
+Lacamas Creek (Highland Terrace),Skilled Nursing Facility,740 NE Dallas,Dallas Street Camas,Clark,WA,98607,US
+Richland ALF,Assisted Living Facility,1745 Pike Avenue Richland,Richland,Benton,WA,99352,US
+Sunnyside (Hillcrest),Skilled Nursing Facility,721 Otis Avenue Sunnyside,Sunnyside,Yakima,WA,98944,US
+Cameron,Skilled Nursing Facility,20 Wilson Drive Cameron,Cameron,Marshall,WV,26033,US
+Crestview,Skilled Nursing Facility,199 Court Street Jane,Jane Lew,Lewis,WV,26378,US
+Dunbar,Skilled Nursing Facility,501 Caldwell Lane Dunbar,Dunbar,Kanawha,WV,25064,US
+Hillcrest,Skilled Nursing Facility,"Lick Creek Road,","Road, P.O. Box 605 Danville",Boone,WV,25053,US
+Laurel (Clay),Skilled Nursing Facility,"HC 75, Box","Box 153, Clinic Rd. Ivydale",Clay,WV,25113,US
+McDowell,Skilled Nursing Facility,150 Venus Road Gary,Gary,McDowell,WV,24801,US
+Mercer,Skilled Nursing Facility,1275 Southview Drive Bluefield,Bluefield,Mercer,WV,24701,US
+Parkersburg,Skilled Nursing Facility,1716 Gihon Road Parkersburg,Parkersburg,Wood,WV,26101,US
+Peterson Rehabilitation Hospital,Skilled Nursing Facility,Homestead Avenue Wheeling,Wheeling,Ohio,WV,26003,US
+Pierpont (Wishing Well Manor),Skilled Nursing Facility,1543 Country Club,Club Road Fairmont,Marion,WV,26554,US
+Pine Lodge Care & Rehab,Skilled Nursing Facility,405 Stanford Road Beckley,Beckley,Raleigh,WV,25801,US
+Pine View,Skilled Nursing Facility,400 McKinley Avenue (and,"(and 79, 201 and 219 North Stout St) Harrisville",Richie,WV,26362,US
+Putnam,Skilled Nursing Facility,300 Seville Road Hurricane,Hurricane,Putnam,WV,25526,US
+Salem,Skilled Nursing Facility,146 Water Street Salem,Salem,Harrison,WV,26426,US
+Tygart (Wishing Well HC),Skilled Nursing Facility,1539 Country Club,Club Road Fairmont,Marion,WV,26554,US
+Wayne,Skilled Nursing Facility,6999 Route 152 Wayne,Wayne,Wayne,WV,25570,US
+Willow Tree Manor,Skilled Nursing Facility,1263 South George,George Street Charles Town,Jefferson,WV,25414,US
+Columbus Care Center,Skilled Nursing Facility,825 Western Avenue Columbus,Columbus,Columbia,WI,53925,US

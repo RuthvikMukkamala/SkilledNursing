@@ -1,0 +1,3 @@
+[console_scripts]
+snf-dashboard = snf_reit_analysis.dashboard:main
+snf-pipeline = snf_reit_analysis.pipelines.etl:main

@@ -1,0 +1,355 @@
+Metadata-Version: 2.4
+Name: snf-reit-analysis
+Version: 1.0.0
+Summary: SNF REIT analysis pipeline integrating CMS, BLS, and SEC data for Omega Healthcare, CareTrust, and Sabra
+Author-email: Ruthvik Mukkamala <ruthvik@example.com>
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: polars>=0.19.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: pydantic-settings>=2.0.0
+Requires-Dist: plotly>=5.17.0
+Requires-Dist: streamlit>=1.28.0
+Requires-Dist: pandera>=0.17.0
+Requires-Dist: sec-edgar-downloader>=5.0.0
+Requires-Dist: financetoolkit>=1.0.0
+Requires-Dist: statsmodels>=0.14.0
+Requires-Dist: scikit-learn>=1.3.0
+Requires-Dist: openpyxl>=3.1.0
+Requires-Dist: pyarrow>=14.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.1.0; extra == "dev"
+Requires-Dist: black>=24.0.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"
+Requires-Dist: mypy>=1.7.0; extra == "dev"
+Requires-Dist: pre-commit>=3.5.0; extra == "dev"
+Provides-Extra: analysis
+Requires-Dist: py-xbrl>=2.0.0; extra == "analysis"
+Requires-Dist: alpha-vantage>=2.3.0; extra == "analysis"
+Requires-Dist: jupyter>=1.0.0; extra == "analysis"
+Requires-Dist: ipykernel>=6.25.0; extra == "analysis"
+Dynamic: license-file
+
+# SNF REIT Analysis Platform
+
+A production-grade Python platform for analyzing Skilled Nursing Facility (SNF) REITs, integrating data from CMS, BLS, and SEC to provide comprehensive insights into Omega Healthcare (OHI), CareTrust REIT (CTRE), and Sabra Health Care REIT (SBRA).
+
+## Features
+
+- **Multi-Source Data Integration**: Seamlessly combines CMS nursing home data, BLS economic indicators, and SEC financial filings
+- **Production-Ready Pipeline**: Write-Audit-Publish (WAP) pattern with Pandera validation
+- **Interactive Dashboard**: Streamlit dashboard with Plotly visualizations
+- **Modern Architecture**: Follows 2025 Python best practices with src/ layout, pydantic-settings, and polars for performance
+- **Type Safety**: Full type hints with mypy checking
+- **Data Validation**: Pandera schemas for all data sources
+- **Extensible Design**: Clean separation of concerns with modular components
+
+## Project Structure
+
+```
+NursingREITs/
+├── src/snf_reit_analysis/
+│   ├── config.py              # Pydantic settings configuration
+│   ├── dashboard.py           # Streamlit dashboard
+│   ├── data/
+│   │   ├── loaders.py        # API data loaders (CMS, BLS, SEC)
+│   │   └── validators.py     # Pandera validation schemas
+│   ├── pipelines/
+│   │   └── etl.py            # ETL pipeline with WAP pattern
+│   └── utils/
+│       ├── logging.py        # Logging configuration
+│       └── helpers.py        # Helper functions
+├── data/                      # Data storage (gitignored)
+│   ├── raw/                  # Raw API responses
+│   ├── interim/              # Staging area for WAP
+│   ├── processed/            # Validated production data
+│   └── external/             # External data sources
+├── tests/                     # Pytest test suite
+├── notebooks/                 # Jupyter notebooks for analysis
+├── pyproject.toml            # Project configuration
+├── Makefile                  # Common commands
+└── README.md                 # This file
+```
+
+## Quick Start
+
+### Prerequisites
+
+- Python 3.9+
+- BLS API key (free registration at https://data.bls.gov/registrationEngine/)
+- Valid email for SEC EDGAR API compliance
+
+### Installation
+
+1. Clone the repository:
+```bash
+cd NursingREITs
+```
+
+2. Run initial setup:
+```bash
+make setup
+```
+
+3. Edit `.env` file with your API credentials:
+```bash
+BLS_API_KEY=your_api_key_here
+SEC_USER_AGENT="YourCompanyName your.email@domain.com"
+```
+
+4. Install dependencies:
+```bash
+make install
+```
+
+### Fetching Data
+
+Fetch all data sources:
+```bash
+make data
+```
+
+Or fetch individual sources:
+```bash
+make data-cms   # CMS nursing home data
+make data-bls   # BLS economic indicators
+make data-sec   # SEC REIT financials
+```
+
+### Launching Dashboard
+
+```bash
+make dashboard
+```
+
+Navigate to http://localhost:8501 in your browser.
+
+## Data Sources
+
+### CMS (Centers for Medicare & Medicaid Services)
+
+- **Provider Information**: Facility ratings, staffing, operational data
+- **Quality Measures**: Clinical quality metrics for nursing homes
+- **Health Deficiencies**: Inspection results and citations
+- **API**: No authentication required, public domain data
+- **Docs**: https://data.cms.gov/provider-data/
+
+### BLS (Bureau of Labor Statistics)
+
+- **PPI**: Producer Price Index for nursing care facilities (NAICS 623110)
+  - Overall, Medicare, Medicaid, Private insurance breakdowns
+- **Employment**: Employees, hourly earnings, weekly hours and earnings
+- **API**: Requires free registration, 500 queries/day limit
+- **Docs**: https://www.bls.gov/developers/
+
+### SEC (Securities and Exchange Commission)
+
+- **Financial Statements**: Assets, revenues, debt, equity from 10-K/10-Q
+- **XBRL Data**: Structured financial data for OHI, CTRE, SBRA
+- **API**: Requires User-Agent header with email, 10 requests/second limit
+- **Docs**: https://www.sec.gov/edgar/sec-api-documentation
+
+## Usage Examples
+
+### Running ETL Pipeline
+
+```bash
+# Full pipeline
+snf-pipeline --source all
+
+# CMS data only for California facilities
+snf-pipeline --source cms --cms-state CA
+
+# BLS data for specific years
+snf-pipeline --source bls --bls-start-year 2020 --bls-end-year 2024
+
+# SEC data only
+snf-pipeline --source sec
+```
+
+### Python API
+
+```python
+from snf_reit_analysis.data.loaders import CMSDataLoader, BLSDataLoader, SECDataLoader
+
+# Load CMS data
+cms = CMSDataLoader()
+providers = cms.get_provider_info(state="CA", min_rating=4)
+
+# Load BLS data
+bls = BLSDataLoader()
+ppi_data = bls.get_nursing_facility_ppi(start_year="2020", end_year="2024")
+
+# Load SEC data
+sec = SECDataLoader()
+ohi_financials = sec.get_reit_financials("OHI")
+```
+
+### Dashboard Features
+
+1. **Overview Page**: Quick stats and getting started guide
+2. **REIT Financials**: Compare OHI, CTRE, SBRA financial metrics
+3. **Industry Metrics**: PPI and employment trends
+4. **CMS Facility Data**: Search and filter nursing homes by rating and location
+
+## Development
+
+### Running Tests
+
+```bash
+make test        # Run tests with coverage
+make test-fast   # Run tests without coverage
+```
+
+### Code Quality
+
+```bash
+make lint        # Check code quality
+make format      # Auto-format code
+make check       # Run all quality checks
+```
+
+### Adding New Features
+
+1. Create feature branch
+2. Add implementation in appropriate module
+3. Add Pandera validation schema if processing new data
+4. Add tests in `tests/`
+5. Update documentation
+6. Run `make check` before committing
+
+## Configuration
+
+All configuration is managed via Pydantic Settings in `src/snf_reit_analysis/config.py`.
+
+### Environment Variables
+
+Set in `.env` file:
+
+```bash
+# Required
+BLS_API_KEY=your_bls_api_key
+SEC_USER_AGENT="CompanyName email@domain.com"
+
+# Optional
+ENVIRONMENT=development
+DEBUG=false
+LOG_LEVEL=INFO
+```
+
+### Programmatic Configuration
+
+```python
+from snf_reit_analysis.config import config
+
+# Access configurations
+print(config.bls.api_key)
+print(config.sec.reit_ciks)  # {"OHI": 888491, "CTRE": 1590717, "SBRA": 1492298}
+```
+
+## Architecture Highlights
+
+### Write-Audit-Publish (WAP) Pattern
+
+Ensures data quality through three-stage pipeline:
+
+1. **Write**: Save data to staging area
+2. **Audit**: Validate with Pandera schemas
+3. **Publish**: Move validated data to production
+
+### Data Validation
+
+Pandera schemas provide:
+- Type checking
+- Range validation
+- Cross-column validation
+- Automatic coercion
+- Detailed error messages
+
+### Performance Optimization
+
+- **Polars**: 5-10x faster than pandas for large datasets
+- **Streaming**: Handle datasets larger than memory
+- **Caching**: Streamlit caching for dashboard performance
+- **Retry Logic**: Automatic retries for transient API failures
+
+## API Rate Limits
+
+| Source | Limit | Notes |
+|--------|-------|-------|
+| CMS | None documented | Responses capped at 5,000 rows |
+| BLS | 500 queries/day, 50/10s | Free tier |
+| SEC | 10 requests/second | Must include User-Agent |
+
+## REIT Information
+
+| Ticker | Company | CIK | Focus |
+|--------|---------|-----|-------|
+| OHI | Omega Healthcare Investors | 0000888491 | Skilled nursing, assisted living |
+| CTRE | CareTrust REIT | 0001590717 | Skilled nursing, seniors housing |
+| SBRA | Sabra Health Care REIT | 0001492298 | Skilled nursing, specialty hospitals |
+
+## Troubleshooting
+
+### BLS API Key Not Working
+
+- Ensure you've completed registration at https://data.bls.gov/registrationEngine/
+- Check email for API key confirmation
+- Verify key is set correctly in `.env` file
+
+### SEC API Rate Limit
+
+- Pipeline includes automatic rate limiting (0.11s delay between requests)
+- Ensure User-Agent header includes valid email
+- Check SEC system status: https://www.sec.gov/
+
+### Data Not Loading in Dashboard
+
+- Run ETL pipeline first: `make data`
+- Check `data/processed/` directory for `*_latest.parquet` files
+- Review logs for validation errors
+
+## Contributing
+
+1. Fork the repository
+2. Create feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit changes (`git commit -m 'Add amazing feature'`)
+4. Push to branch (`git push origin feature/amazing-feature`)
+5. Open Pull Request
+
+## License
+
+MIT License - see LICENSE file for details
+
+## Resources
+
+### Official Documentation
+- CMS Provider Data: https://data.cms.gov/provider-data/
+- BLS API: https://www.bls.gov/developers/
+- SEC EDGAR: https://www.sec.gov/edgar/sec-api-documentation
+
+### REIT Analysis
+- High Yield Landlord: https://www.high-yield-landlord.com
+- Nareit (REIT Association): https://www.reit.com
+- Seeking Alpha Healthcare REITs: https://seekingalpha.com/stock-ideas/healthcare-reits
+
+### Technical References
+- Polars: https://pola-rs.github.io/polars/
+- Pandera: https://pandera.readthedocs.io/
+- Pydantic Settings: https://docs.pydantic.dev/latest/concepts/pydantic_settings/
+- Streamlit: https://docs.streamlit.io
+
+## Contact
+
+For questions or issues, please open a GitHub issue.
+
+---
+
+**Built with**: Python 3.9+ | Polars | Pandas | Streamlit | Plotly | Pandera | Pydantic

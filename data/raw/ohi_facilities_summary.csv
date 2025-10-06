@@ -1,0 +1,97 @@
+state,facility_type,count
+Alabama,Skilled Nursing Facility,9
+Arizona,Assisted Living Facility,2
+Arizona,Independent Living Facility,1
+Arizona,Skilled Nursing Facility,6
+Arkansas,Assisted Living Facility,1
+Arkansas,Skilled Nursing Facility,5
+California,Assisted Living Facility,3
+California,Long Term Acute Care Hospital,1
+California,Skilled Nursing Facility,37
+California,Traumatic Brain Injury,11
+Colorado,Independent Living Facility,1
+Colorado,Skilled Nursing Facility,13
+Connecticut,Assisted Living Facility,8
+Connecticut,Embassy,1
+England,Assisted Living Facility,235
+Florida,Assisted Living Facility,5
+Florida,Independent Living Facility,1
+Florida,Skilled Nursing Facility,44
+Georgia,Assisted Living Facility,6
+Georgia,Skilled Nursing Facility,6
+Idaho,Skilled Nursing Facility,7
+Illinois,Assisted Living Facility,3
+Illinois,Independent Living Facility,1
+Illinois,Skilled Nursing Facility,1
+Indiana,Assisted Living Facility,4
+Indiana,Behaviorial Health - SUD,1
+Indiana,Independent Living Facility,6
+Indiana,Long Term Acute Care Hospital,1
+Indiana,Skilled Nursing Facility,55
+Indiana,Specialty Hospital,1
+Iowa,Assisted Living Facility,2
+Iowa,La Haule,1
+Iowa,Skilled Nursing Facility,6
+Kansas,Skilled Nursing Facility,12
+Kentucky,Assisted Living Facility,2
+Kentucky,Skilled Nursing Facility,16
+Louisiana,Assisted Living Facility,1
+Louisiana,Skilled Nursing Facility,17
+Maryland,Skilled Nursing Facility,12
+Massachusetts,Assisted Living Facility,4
+Massachusetts,Skilled Nursing Facility,1
+Michigan,Assisted Living Facility,2
+Michigan,Skilled Nursing Facility,33
+Minnesota,Assisted Living Facility,1
+Minnesota,Independent Living Facility,1
+Minnesota,Skilled Nursing Facility,1
+Mississippi,Skilled Nursing Facility,20
+Missouri,Skilled Nursing Facility,1
+Montana,Skilled Nursing Facility,2
+Nebraska,Skilled Nursing Facility,3
+Nevada,Behaviorial Health - SUD,2
+Nevada,Long Term Acute Care Hospital,1
+Nevada,Skilled Nursing Facility,4
+Nevada,Specialty Hospital,1
+Nevada,Traumatic Brain Injury,1
+New Hampshire,Assisted Living Facility,1
+New Hampshire,Skilled Nursing Facility,2
+New Jersey,Assisted Living Facility,2
+New Mexico,Skilled Nursing Facility,7
+New York,Assisted Living Facility,1
+North Carolina,Assisted Living Facility,1
+North Carolina,Skilled Nursing Facility,44
+Ohio,Assisted Living Facility,3
+Ohio,Behaviorial Health - Psych,1
+Ohio,Behaviorial Health - SUD,1
+Ohio,Skilled Nursing Facility,34
+Oklahoma,Skilled Nursing Facility,3
+Oregon,Assisted Living Facility,9
+Oregon,Independent Living Facility,1
+Oregon,Skilled Nursing Facility,4
+Pennsylvania,Assisted Living Facility,8
+Pennsylvania,Independent Living Facility,4
+Pennsylvania,Skilled Nursing Facility,26
+Rhode Island,Skilled Nursing Facility,3
+Scotland,Assisted Living Facility,48
+South Carolina,Assisted Living Facility,1
+South Carolina,Independent Living Facility,1
+South Carolina,Skilled Nursing Facility,8
+Tennessee,Assisted Living Facility,3
+Tennessee,Behaviorial Health - Psych,1
+Tennessee,Skilled Nursing Facility,30
+Texas,Acute Care Hospital,1
+Texas,Assisted Living Facility,4
+Texas,Behaviorial Health - SUD,2
+Texas,Independent Living Facility,4
+Texas,Inpatient Rehab Facility,1
+Texas,Medical Office Building,1
+Texas,Skilled Nursing Facility,85
+Vermont,Skilled Nursing Facility,1
+Virginia,Assisted Living Facility,2
+Virginia,Skilled Nursing Facility,23
+Wales,Assisted Living Facility,6
+Washington,Assisted Living Facility,5
+Washington,Skilled Nursing Facility,9
+West Virginia,Skilled Nursing Facility,17
+Wisconsin,Skilled Nursing Facility,1

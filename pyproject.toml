@@ -1,0 +1,95 @@
+[build-system]
+requires = ["setuptools>=75.3.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snf-reit-analysis"
+version = "1.0.0"
+description = "SNF REIT analysis pipeline integrating CMS, BLS, and SEC data for Omega Healthcare, CareTrust, and Sabra"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Ruthvik Mukkamala", email = "ruthvik@example.com"}
+]
+
+dependencies = [
+    "pandas>=2.0.0",
+    "polars>=0.19.0",
+    "numpy>=1.24.0",
+    "requests>=2.31.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "plotly>=5.17.0",
+    "streamlit>=1.28.0",
+    "pandera>=0.17.0",
+    "sec-edgar-downloader>=5.0.0",
+    "financetoolkit>=1.0.0",
+    "statsmodels>=0.14.0",
+    "scikit-learn>=1.3.0",
+    "openpyxl>=3.1.0",
+    "pyarrow>=14.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "black>=24.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.7.0",
+    "pre-commit>=3.5.0",
+]
+analysis = [
+    "py-xbrl>=2.0.0",
+    "alpha-vantage>=2.3.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.25.0",
+]
+
+[project.scripts]
+snf-pipeline = "snf_reit_analysis.pipelines.etl:main"
+snf-dashboard = "snf_reit_analysis.dashboard:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 88
+target-version = ['py39', 'py310', 'py311', 'py312']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I", "W", "N", "UP"]
+ignore = []
+fixable = ["ALL"]
+unfixable = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "--cov=snf_reit_analysis --cov-report=html --cov-report=term-missing"
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
